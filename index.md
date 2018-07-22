@@ -4,12 +4,12 @@
 
 Python is an object-oriented programming language that is ideal for biological data analysis. The course will start from zero knowledge, and will introduce the participants to all the basic concepts of Python such as calculating, organizing data, reading and writing files, program logic and writing larger programs. All the examples and practical sessions will focus on solving biological problems. In particular the sessions will cover:
 
-    - working with DNA and protein sequences
-    - data retrieval from files and their manipulation
-    - running applications, such as BLAST, locally and from a script
-    - finding motifs in sequence
-    - parsing common file formats (Uniprot, GenBank, PDB, BLAST) with Biopython
-    - ways to find and correct program errors
+    + working with DNA and protein sequences
+    + data retrieval from files and their manipulation
+    + running applications, such as BLAST, locally and from a script
+    + finding motifs in sequence
+    + parsing common file formats (Uniprot, GenBank, PDB, BLAST) with Biopython
+    + ways to find and correct program errors
 
 The course will be highly interactive and the students will continuously put theory into practice while learning. By the end of the course, the participants will have a good understanding of Python basics and will have acquired the skills to manage any type of bioinformatics database record and to run applications from scripts. Basic Unix/Linux skills will be provided at the beginning of the course.
 
