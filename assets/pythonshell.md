@@ -167,7 +167,7 @@ Challenge #3
 >+   Print the distance to the screen
 >
 >The  formula for  calculating the distance is:
-> <img src="img/cartesiandistance.png" alt="slot" style="width: 100px;"/>
+> <img src="img/cartesiandistance.png" alt="slot" style="width: 400px;"/>
 >
 ---
 
