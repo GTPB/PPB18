@@ -6,12 +6,15 @@
 In this module you can learn:
 + How to use Python as a pocket calculator
 + How to store data in variables
-+  How to import functions from Python modules
++ How to import functions from Python modules
 
 
 
 ### Traces in the desert sand…
 <img src="../../img/desert.png" alt="slot" style="width: 100px;"/>
+
+To launch a Python shell type `python` on a terminal
+
 
 Fill in dashed lines with appropriate values using the python interactive shell
 
