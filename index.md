@@ -1,4 +1,12 @@
 
+---
+layout: page
+title: PPBP18
+tagline: Programming in Python for Biologists
+description: Python course taught at GTPB in July 2018
+---
+
+
 
 ## Course Description
 
