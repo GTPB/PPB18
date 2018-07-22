@@ -119,7 +119,6 @@ Find the matching pairs of functions and x/y values.
 <img src="img/pycomponents.png" alt="slot" style="width: 300px;"/>
 
 
-### Recap
 
 ### The Dogma of Programming
 
@@ -130,7 +129,8 @@ Find the matching pairs of functions and x/y values.
 <br>
 
 
-> **Challenge #2**
+---
+> #### **Challenge #2**
 ---
 >+   The diameter of a cell is 10 μm.
 >+ What volume does that cell have given it is a perfect sphere?
