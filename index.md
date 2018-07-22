@@ -30,12 +30,13 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 
 ## Detailed Program
 
+### Day 0
+### [Unix/Linux command line](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Flip_Day0.html)
+
 ### Day 1
-#### [Intro](day1/intro.md)
-#### [Unix/Linux command line](day1/1-Unix/Unix-Theory-BPBR16.md)
-#### [Python Shell](day1/2-Pythonshell/pythonshell.md)
-###  [Unix Tutorial](day1/1-Unix/unix_tutorial.zip)
-#### [Python Shell](day1/2-Pythonshell/d1_pyshell_data_scripts)
+#### [Intro](assets/intro.md/intro.md)
+#### [Python Shell](assets/pythonshell.md)
+
 
 ### Day 2
 #### [Python Programs](day2/1-PythonPrograms/PythonPrograms.md)
