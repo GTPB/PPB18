@@ -10,7 +10,8 @@ for line in open("neuron_data.txt"):
 
 print neuron_lengths
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.md#challenge-1">back <a/>
+Back to [DataColumns.md](DataColumns.md)
+
 <br>
 <br>
 

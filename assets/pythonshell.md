@@ -11,7 +11,7 @@ In this module you can learn:
 
 
 ### Traces in the desert sand…
-<img src="img/desert.png" alt="slot" style="width: 100px;"/>
+<img src="./img/desert.png" alt="slot" style="width: 100px;"/>
 
 Python can be used as a calculator:
 
