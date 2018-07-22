@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+<a href="https://ezcn.github.io/PPB18/"> Back to Timetable</a>
 
 #Python for Life Scientists: Managing biological data with Python
 
@@ -56,8 +56,8 @@ Challenge
 
 ## How is going to work
 
-<img src="../img/Timetable.png" alt="slot" style="width: 100px;"/>
+<img src="img/Timetable.png" alt="slot" style="width: 100px;"/>
 
 Each slot is organised as follows:
 
-<img src="../img/slot.png" alt="slot" style="width: 100px;"/>
+<img src="img/slot.png" alt="slot" style="width: 100px;"/>
