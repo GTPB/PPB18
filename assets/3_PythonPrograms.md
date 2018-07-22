@@ -12,7 +12,9 @@ In this module you can learn
 -  How to create your own modules
 
 ---
-Challenge
+Challenge  
+
+
 >
 > *Game of instruction*
 >
@@ -23,7 +25,9 @@ Challenge
 
 
 ---
-Challenge
+Challenge  
+
+
 >
 >Questions for getting started (given to small groups on cards)
 
@@ -34,15 +38,17 @@ Challenge
 ---
 
 
-<img src="img/pp1.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp1.png" alt="slot" style="width: 300px;"/>
 
 
 ## What is a program?
 It is a text file that contains Python commands or, in other words, lines of code
 
 
-> ####  **Challenge #1**
 ---
+Challenge  #1
+
+
 >-  Open a text file, write: <br>
 >- print `"This is the output of my first program"`
 >- save the file with the name my_print.py and exit
@@ -55,21 +61,21 @@ It is a text file that contains Python commands or, in other words, lines of cod
 
 
 ---
->Challenge
+Challenge
 
 > Your first Python commands: create pairs
-<img src="img/pp2.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp2.png" alt="slot" style="width: 300px;"/>
 >
 ---
 
 
 ## How programs work
 
-<img src="img/pp3.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp3.png" alt="slot" style="width: 300px;"/>
 
 
 ## Input
-<img src="img/pp4.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp4.png" alt="slot" style="width: 300px;"/>
 
 
 ## Input from the program itself
@@ -85,9 +91,9 @@ Type a number: 3
 >>> print a
 3
 ```
-
-> ####  **Challenge #2**
 ---
+Challenge  #2
+
 >Write a program that reads something from the keyboard and print it to the screen.
 >
 ---
@@ -125,9 +131,10 @@ print insulin
 ```
 <br>
 
-
-> ####  **Challenge #3**
 ---
+Challenge  #3
+
+
 >Write a program that reads a sequence from a file and print it to the screen. Run it.
 >
 ---
@@ -138,7 +145,7 @@ print insulin
 
 ## Output
 
-<img src="img/pp5.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp5.png" alt="slot" style="width: 300px;"/>
 
 
 ## To the computer screen
@@ -163,15 +170,17 @@ outfile.close()
 >Challenge
 ---
 >Your first Python commands: create pairs
-<img src="img/pp6.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp6.png" alt="slot" style="width: 300px;"/>
 >
 ----
 
 <br>
 <br>
 
-> ####  **Challenge #4**
 ---
+Challenge  #4
+
+
 >Calculate DNA base occurrences
 >
 >Write a program that counts how many times the four bases occur in a DNA sequence. The program should:

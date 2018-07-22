@@ -6,8 +6,7 @@ Back to [main page](../index.md).
 a = raw_input("Type something: ")
 print a
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.md#challenge-2">back<a/>
-
+Back to the [lesson](3_PythonPrograms.md)
 
 #### Solution to challenge #4
 One possible solution
@@ -31,7 +30,6 @@ print  elem
 elem =  dna.count ('G')
 print  elem
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.md#challenge-4">back<a/>
-
+Back to the [lesson](3_PythonPrograms.md)
 
 Back to [main page](../index.md).
