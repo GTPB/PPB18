@@ -64,7 +64,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 You can leave the shell with  `Ctrl-D`
 
 
----
+
+
 > **Challenge #1**
 > Open a Python interactive session (the Python shell):
 >
@@ -128,7 +129,7 @@ Find the matching pairs of functions and x/y values.
 
 <br>
 
----
+
 > **Challenge #2**
 ---
 >+   The diameter of a cell is 10 μm.
@@ -145,7 +146,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 <br>
 
 
----
+
 > **Challenge #3**<br>
 ---
 >Calculate the distance between two points in the 3D space
@@ -171,7 +172,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 <br>
 
 
----
+
 > **Challenge #4**<br>
 ---
 >Find cysteine bonds in the Insulin structure
@@ -212,7 +213,7 @@ ATOM     15  C   VAL A   3      -7.193  14.102   4.747  1.00 19.43           C
 ATOM     16  O   VAL A   3      -6.395  14.820   5.357  1.00 19.23           O
 ```
 
----
+
 > **Challenge #5**<br>
 ---
 >The hydrolysis of one phosphodiester bond from ATP results in a standard Gibbs energy (ΔG<sup>0</sup>) of -30.5 kJ/mol. According to biochemistry textbooks, the real ΔG value depends on the concentration of the compounds and these concentrations can differ quite a lot among tissues.
