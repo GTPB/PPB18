@@ -1,9 +1,6 @@
 Back to [main page](../index.md).
 
-#Python for Life Scientists: Managing biological data with Python
-
-
-### In this course you will learn to:
+## In this course you will learn to:
 
 + Read text files (and websites)
 + Selectively extract and manipulate information
@@ -20,7 +17,7 @@ Therefore your future as programmers strongly depends on your will to not stop p
 *Secret: Having problems the solution of which requires programming*
 
 
-### We need your help to:
+## We need your help to:
 
 + start sessions
 + end sessions (recap and feedback)
@@ -29,11 +26,11 @@ Therefore your future as programmers strongly depends on your will to not stop p
 + discuss exercise solutions
 + teach
 
-### Hackathon
+## Hackathon
 
 A **hackathon** (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others involved in software development collaborate intensively on software projects (see [Wikipedia](https://en.wikipedia.org/wiki/Hackathon))
 
-# Getting started
+## Getting started
 
 
 ####  Why are we here?
