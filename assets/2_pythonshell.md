@@ -80,8 +80,7 @@ numbers
 >
 ----
 
-<br>
-<br>
+
 
 ### Variables
 Variables are containers for data.
@@ -114,11 +113,11 @@ import math
 
 Find the matching pairs of functions and x/y values.
 
-<img src="img/mathgame.png" alt="slot" style="width: 300px;"/>
+<img src="img/mathgame.png" alt="slot" style="width: 400px;"/>
 
 
 ### Components of Python
-<img src="img/pycomponents.png" alt="slot" style="width: 300px;"/>
+<img src="img/pycomponents.png" alt="slot" style="width: 400px;"/>
 
 
 
@@ -145,7 +144,7 @@ Challenge #2
 ---
 
 
-See the [solution-to-challenge-2](pythonshell.solutions.md)
+See the [Solution to challenge #2](pythonshell.solutions.md)
 <br>
 <br>
 
@@ -173,7 +172,7 @@ Challenge #3
 
 
 
-See the [Solution to challenge #3](See the [solution-to-challenge-2](pythonshell.solutions.md)
+See the [Solution to challenge #3](pythonshell.solutions.md)
 <br>
 <br>
 
@@ -222,8 +221,10 @@ ATOM     16  O   VAL A   3      -6.395  14.820   5.357  1.00 19.23           O
 ```
 
 
-> **Challenge #5**<br>
 ---
+Challenge  #5
+
+
 >The hydrolysis of one phosphodiester bond from ATP results in a standard Gibbs energy (ΔG<sup>0</sup>) of -30.5 kJ/mol. According to biochemistry textbooks, the real ΔG value depends on the concentration of the compounds and these concentrations can differ quite a lot among tissues.
 >
 >The Gibbs energy as a function of the concentrations of the compounds can be written as:
@@ -243,7 +244,7 @@ ATOM     16  O   VAL A   3      -6.395  14.820   5.357  1.00 19.23           O
 ---
 
 
-See See the [Solution to challenge #5](See the [solution-to-challenge-2](pythonshell.solutions.md)
+See See the [Solution to challenge #5](pythonshell.solutions.md)
 
 
 
