@@ -66,7 +66,9 @@ You can leave the shell with  `Ctrl-D`
 
 
 
-> **Challenge #1**
+---
+Challenge #1
+
 > Open a Python interactive session (the Python shell):
 >
 >+  Calculate the sum and difference of two

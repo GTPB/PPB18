@@ -57,6 +57,6 @@ Challenge
 
 Each slot is organised as follows:
 
-<img src="img/slot.png" alt="slot" style="width:500px;height:600px;"/>
+<img src="img/slot.png" alt="slot" style="width:400px;height:400px;"/>
 
 Back to [main page](../index.md).
