@@ -134,7 +134,8 @@ Find the matching pairs of functions and x/y values.
 
 ---
 Challenge #2
----
+
+
 >+   The diameter of a cell is 10 μm.
 >+ What volume does that cell have given it is a perfect sphere?
 >+  Use Python to do the calculation.
@@ -150,8 +151,10 @@ See the [solution-to-challenge-2](pythonshell.solutions.md)
 
 
 
-> **Challenge #3**<br>
 ---
+Challenge #3
+
+
 >Calculate the distance between two points in the 3D space
 >
 >Given two points in the Cartesian space:
@@ -176,8 +179,10 @@ See the [Solution to challenge #3](See the [solution-to-challenge-2](pythonshell
 
 
 
-> **Challenge #4**<br>
 ---
+Challenge  #4
+
+
 >Find cysteine bonds in the Insulin structure
 >
 >+   Data in 2OMH.pdb
