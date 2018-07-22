@@ -32,7 +32,8 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 ### Day 1
 #### [Intro](day1/intro.md)
 #### [Unix/Linux command line](day1/1-Unix/Unix-Theory-BPBR16.md)
-#### [Python Shell](day1/2-Pythonshell/pythonshell.md) ###[Unix Tutorial](day1/1-Unix/unix_tutorial.zip)
+#### [Python Shell](day1/2-Pythonshell/pythonshell.md)
+###  [Unix Tutorial](day1/1-Unix/unix_tutorial.zip)
 #### [Python Shell](day1/2-Pythonshell/d1_pyshell_data_scripts)
 
 ### Day 2
@@ -56,7 +57,8 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 #### [Data Columns](day3/3-DataColumns/d3_datacolumns_data_scripts)
 #### [Tabular Data](day3/4-TabularData/d3_tabulardata_data_scripts)
 
-### Day 4 [Data Searching](day4/1-DataSearching/DataSearching.md)
+### Day 4
+#### [Data Searching](day4/1-DataSearching/DataSearching.md)
 #### [NGS pipeline](day4/2-Pipelines/NGS_pipeline.md)
 #### [BLAST Pipeline](day4/2-Pipelines/Running-BLAST_sys.argv.md)
 #### [Python libraries](day4/3-PythonLibraries/tasks.md)
@@ -80,7 +82,7 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 
 ### This course was taught at:
 
-- [PPB17 Programming in Python for Biologists](ftp://gtpb.igc.gulbenkian.pt/bicourses/2017/PPB17/index.html)Oeiras - Portugal -  November 27-30 2017 <br/>
+- [PPB17 Programming in Python for Biologists](ftp://gtpb.igc.gulbenkian.pt/bicourses/2017/PPB17/index.html) Oeiras - Portugal -  November 27-30 2017 <br/>
 - [Python for Life Scientists](https://elixir-iib-training.github.io/website/docs/programme2016_copy.html) Bari - Italy - September 26-30 2016 </br>
 - [BPBR16 Programming in Python for Biologists](http://gtpb.igc.gulbenkian.pt/bicourses/BPBR16/) Oeiras - Portugal - July 11-15 2016<br/>
 
