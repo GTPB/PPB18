@@ -145,7 +145,7 @@ Challenge #2
 ---
 
 
-See the [solution-to-challenge-2](pythonshell.solutions.md)
+See the [Solution to challenge #2](pythonshell.solutions.md)
 <br>
 <br>
 
