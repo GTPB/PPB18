@@ -12,7 +12,7 @@ In this module you can learn:
 
 ### Traces in the desert sand…
 <img src="./img/desert.png" alt="slot" style="width: 50px;"/>
-![desert](img/desert.png)
+![desert][img/desert.png]
 
 Python can be used as a calculator:
 
