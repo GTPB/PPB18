@@ -37,10 +37,10 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 
 
 ### Day 1
-#### [Intro](assets/intro.md)
-#### [Python Shell](assets/pythonshell.md)
-#### [Python Programs](assets/PythonPrograms.md)
-#### [Structures and Modules](assets/PythonStructureModulesImport.md)
+#### [Intro](assets/1_intro.md)
+#### [Python Shell](assets/2_pythonshell.md)
+#### [Python Programs](assets/3_PythonPrograms.md)
+#### [Structures and Modules](assets/4_PythonStructureModulesImport.md)
 
 
 ### Day 2
@@ -50,24 +50,24 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 #### Flipped Lesson:
 ##### Homework [Loops](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html)
 ##### In class assessment
-#### [File Formats](assets/FileFormats.md)
-#### [Parsing I](assets/Parsing-Theory-I.md)
-#### [Parsing II](assets/Parsing-Theory-II.md)  
+#### [File Formats](assets/5_FileFormats.md)
+#### [Parsing I](assets/6_Parsing-Theory-I.md)
+#### [Parsing II](assets/7_Parsing-Theory-II.md)  
 
 
 ### Day 3
-#### [Functions](assets/functions.md)
-#### [Best Practices](assets/BestPracticesInProgramming.md)
-#### [Error Handling](assets/ErrorHandling.md)
-#### [Data Columns](assets/DataColumns.md)
-#### [Tabular Data](assets/TabularData.md)
+#### [Functions](assets/8_functions.md)
+#### [Best Practices](assets/9_BestPracticesInProgramming.md)
+#### [Error Handling](assets/10_ErrorHandling.md)
+#### [Data Columns](assets/11_DataColumns.md)
+#### [Tabular Data](assets/12_TabularData.md)
 
 
 ### Day 4
-#### [Data Searching](assets/DataSearching.md)
-#### [NGS pipeline](assets/NGS_pipeline.md)
-#### [BLAST Pipeline](assets/Running-BLAST_sys.argv.md)
-#### [Python libraries](assets/tasks.md)
+#### [Data Searching](assets/13_DataSearching.md)
+#### [NGS pipeline](assets/14_NGS_pipeline.md)
+#### [BLAST Pipeline](assets/15_Running-BLAST_sys.argv.md)
+#### [Python libraries](assets/16_tasks.md)
 
 ### Day 5
 #### [Hackaton](assets/HACKATHON_TASKS.md)
