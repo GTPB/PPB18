@@ -5,7 +5,7 @@ tagline: Programming in Python for Biologists
 description: Python course taught at GTPB in July 2018
 ---
 
-
+![python](assets/img/ppb.jpg)
 
 ## Course Description
 
