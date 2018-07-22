@@ -15,6 +15,17 @@ In this module you can learn:
 
 To launch a Python shell type `python` on a terminal
 
+```
+user@mycomputer:~/home/myfolder$ python
+Python 2.7.12 (default, Nov 20 2017, 18:23:56)
+[GCC 5.4.0 20160609] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+
+
+
+```
+
 
 Fill in dashed lines with appropriate values using the python interactive shell
 
