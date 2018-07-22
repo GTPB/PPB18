@@ -47,7 +47,9 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 
 <!-- #### [Repeating Things](assets/RepeatingThings.md) -->
 
-#### Flipped Lesson: [Loops](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html)
+#### Flipped Lesson:
+##### Homework [Loops](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html)
+##### In class assessment
 #### [File Formats](assets/FileFormats.md)
 #### [Parsing I](assets/Parsing-Theory-I.md)
 #### [Parsing II](assets/Parsing-Theory-II.md)  
