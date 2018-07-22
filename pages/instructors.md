@@ -14,7 +14,7 @@ Affiliation: Institute of Molecular Biology and Pathology (IBPM) of the National
 ### Vincenza Colonna
 ![Vincenza Colonna](../assets/img/people/AllegraVia.jpg)
 
-[Vincenza Colonna](http://www.igb.cnr.it/popgenlab) is a group leader at the Institue of Genetics and Biophysics of the Italian National Research Council in Napoli, Italy. She works in human genomics and her main research interests are natural selection and consanguineous populations. She graduated from University of Napoli Federico II (Italy) and did postdoctoral work at University of Ferrara (Italy) and at the Wellcome Trust Sanger Institute (UK). She was lecturer in Genetics and Bioinformatics at the University of Ferrara (Italy). She is also leading the ObiLab project (http://www.igb.cnr.it/obilab) on training in bioinformatics. She is an instructor for ELIXIR-ITA and Software/Data Carpentry. She is also involved as collaborator and instructor in the ELIXIR-EXCELERATE Train the Trainer activities.
+[Vincenza Colonna](http://www.igb.cnr.it/popgenlab) is a group leader at the Institue of Genetics and Biophysics of the Italian National Research Council in Napoli, Italy. She works in human genomics and her main research interests are natural selection and consanguineous populations. She graduated from University of Napoli Federico II (Italy) and did postdoctoral work at University of Ferrara (Italy) and at the Wellcome Trust Sanger Institute (UK). She was lecturer in Genetics and Bioinformatics at the University of Ferrara (Italy). She is also leading the [ObiLab project](http://www.igb.cnr.it/obilab) on training in bioinformatics. She is an instructor for ELIXIR-ITA and Software/Data Carpentry. She is also involved as collaborator and instructor in the ELIXIR-EXCELERATE Train the Trainer activities.
 
 Affiliation:Institute of Genetics and Biophysics, CNR, Napoli, IT
 
@@ -26,4 +26,4 @@ Affiliation: Freelance independent Bioinformatics instructor.
 Former manager of Bioinformatics Training, University of Cambridge, Cambridge, UK
 
 ### Back
-Back to [main page](https://gtpb.github.io/CPANG18/).
+Back to [main page](../index.md).
