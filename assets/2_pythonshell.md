@@ -11,7 +11,7 @@ In this module you can learn:
 
 
 ### Traces in the desert sand…
-<img src="./img/desert.png" alt="slot" style="width: 100px;"/>
+<img src="./img/desert.png" alt="slot" style="width: 50px;"/>
 
 Python can be used as a calculator:
 
@@ -113,11 +113,11 @@ import math
 
 Find the matching pairs of functions and x/y values.
 
-<img src="img/mathgame.png" alt="slot" style="width: 400px;"/>
+<img src="img/mathgame.png" alt="slot" style="width: 300px;"/>
 
 
 ### Components of Python
-<img src="img/pycomponents.png" alt="slot" style="width: 400px;"/>
+<img src="img/pycomponents.png" alt="slot" style="width: 300px;"/>
 
 
 
