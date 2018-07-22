@@ -28,20 +28,26 @@ End-users of bioinformatics databases and tools that need to manage large files 
 ## Course Pre-requisites
 Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot, Blast, ENSEMBL, PDB, etc. The course is directed to biologists with little or no programming experience and aims at making them capable to use Python to autonomously manage and analyse biological data.
 
+
+Participants are asked to take a look at [pre-course reading material on the Unix/Linux command line](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Flip_Day0.html) *before* the course, so that we can avoid wasting valuable training time and enter the core subject almost directly, after a brief discussion.
+
+
+
 ## Detailed Program
 
-### Day 0
-#### [Unix/Linux command line](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Flip_Day0.html)
 
 ### Day 1
 #### [Intro](assets/intro.md)
 #### [Python Shell](assets/pythonshell.md)
+#### [Python Programs](assets/PythonPrograms.md)
+#### [Structures and Modules](assets/PythonStructureModulesImport.md)
 
 
 ### Day 2
-#### [Python Programs](assets/PythonPrograms.md)
-#### [Repeating Things](assets/RepeatingThings.md)
-#### [Structures and Modules](assets/PythonStructureModulesImport.md)
+
+<!-- #### [Repeating Things](assets/RepeatingThings.md) -->
+
+#### [Loops](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html)
 #### [File Formats](assets/FileFormats.md)
 #### [Parsing I](assets/Parsing-Theory-I.md)
 #### [Parsing II](assets/Parsing-Theory-II.md)  
