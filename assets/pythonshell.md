@@ -221,9 +221,9 @@ ATOM     15  C   VAL A   3      -7.193  14.102   4.747  1.00 19.43           C
 ATOM     16  O   VAL A   3      -6.395  14.820   5.357  1.00 19.23           O
 ```
 
-
-> **Challenge #5**<br>
 ---
+Challenge  #5
+
 >The hydrolysis of one phosphodiester bond from ATP results in a standard Gibbs energy (ΔG<sup>0</sup>) of -30.5 kJ/mol. According to biochemistry textbooks, the real ΔG value depends on the concentration of the compounds and these concentrations can differ quite a lot among tissues.
 >
 >The Gibbs energy as a function of the concentrations of the compounds can be written as:
