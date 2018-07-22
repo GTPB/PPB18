@@ -56,11 +56,10 @@ Challenge
 
 ## How is going to work
 
-<img src="img/Timetable.png" alt="slot" style="width: 100px;"/>
+<!--- <img src="img/Timetable.png" alt="slot" style="width: 100px;"/> --->
 
 Each slot is organised as follows:
 
-<img src="img/slot.png" alt="slot" style="width: 100px;"/>
+<img src="img/slot.png" alt="slot" style="width: 50px;"/>
 
 Back to [main page](../index.md).
-

@@ -141,7 +141,7 @@ Find the matching pairs of functions and x/y values.
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-2">Solution to challenge #2</a>
+See the [solution-to-challenge-2](pythonshell.solutions.md)
 <br>
 <br>
 
@@ -167,7 +167,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-3">Solution to challenge #3</a>
+See the [Solution to challenge #3](See the [solution-to-challenge-2](pythonshell.solutions.md)
 <br>
 <br>
 
@@ -235,7 +235,7 @@ ATOM     16  O   VAL A   3      -6.395  14.820   5.357  1.00 19.23           O
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-5">Solution to challenge #5</a>
+See See the [Solution to challenge #5](See the [solution-to-challenge-2](pythonshell.solutions.md)
 
 
 
