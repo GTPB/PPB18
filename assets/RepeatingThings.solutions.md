@@ -1,3 +1,5 @@
+Back to [main page](../index.md).
+
 #### Solution to challenge #1
 ```
 telomerase = open("telomerase.txt")
@@ -34,3 +36,5 @@ for aa in "ACDEFGHKILMNPQRSTVYW":
   print aa, round(aa_freq, 3)
 ```
 <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.md#challenge-3">back<a/>
+
+Back to [main page](../index.md).

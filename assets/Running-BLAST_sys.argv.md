@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+Back to [main page](../index.md).
 
 
 # Pipelines
@@ -182,3 +182,6 @@ seqs = ['P00519', 'P05480', 'P12931']
 <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
 <br>
 <br>
+
+Back to [main page](../index.md).
+

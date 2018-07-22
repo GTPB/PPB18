@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+Back to [main page](../index.md).
 
 
 
@@ -323,3 +323,6 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 +   Identify separators to select your information using if conditions
 
 +   Use  lists if you have to compare data from different files
+
+Back to [main page](../index.md).
+

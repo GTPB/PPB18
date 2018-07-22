@@ -1,4 +1,4 @@
-<a href="https://ezcn.github.io/PPB18/"> Back to Timetable</a>
+Back to [main page](../index.md).
 
 #Python for Life Scientists: Managing biological data with Python
 
@@ -61,3 +61,6 @@ Challenge
 Each slot is organised as follows:
 
 <img src="img/slot.png" alt="slot" style="width: 100px;"/>
+
+Back to [main page](../index.md).
+

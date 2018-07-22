@@ -1,5 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
-
+Back to [main page](../index.md).
 
 # Data columns
 
@@ -11,7 +10,7 @@ After this module you can:
 + Calculate the average value of the numbers of a table's column
 + Write a list of numbers to a text file
 
-<img src="../../img/neuron.png" alt="slot" style="width: 300px;"/>
+<img src="img/neuron.png" alt="slot" style="width: 300px;"/>
 
 We will use the file `neuron_data.txt` containing data on dendrites lengths:
 
@@ -91,7 +90,7 @@ See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_cours
 +  Calculate their average length
 +  Calculate the standard deviation
 
-<img src="../../img/builtin.png" alt="slot" style="width: 300px;"/>
+<img src="img/builtin.png" alt="slot" style="width: 300px;"/>
 
 
 
@@ -208,7 +207,7 @@ See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_cours
 
 ### Match the formatting expressions and their result
 
-<img src="../../img/expression_values.png" alt="slot" style="width: 300px;"/>
+<img src="img/expression_values.png" alt="slot" style="width: 300px;"/>
 
 
 
@@ -225,3 +224,6 @@ See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_cours
 See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-7"> challenge #7<a/>
 <br>
 <br>
+
+
+Back to [main page](../index.md).

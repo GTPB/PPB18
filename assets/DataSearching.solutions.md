@@ -1,3 +1,4 @@
+Back to [main page](../index.md).
 
 #### Solution to challenge #1
 
@@ -50,3 +51,5 @@ prot = ''
 <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.md#challenge-2">back<a/>
 <br>
 <br>
+
+Back to [main page](../index.md).

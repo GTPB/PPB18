@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+Back to [main page](../index.md).
 
 # Python programs
 
@@ -34,7 +34,7 @@ Challenge
 ---
 
 
-<img src="../../img/pp1.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp1.png" alt="slot" style="width: 100px;"/>
 
 
 ## What is a program?
@@ -58,18 +58,18 @@ It is a text file that contains Python commands or, in other words, lines of cod
 >Challenge
 
 > Your first Python commands: create pairs
-<img src="../../img/pp2.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp2.png" alt="slot" style="width: 100px;"/>
 >
 ---
 
 
 ## How programs work
 
-<img src="../../img/pp3.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp3.png" alt="slot" style="width: 100px;"/>
 
 
 ## Input
-<img src="../../img/pp4.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp4.png" alt="slot" style="width: 100px;"/>
 
 
 ## Input from the program itself
@@ -138,7 +138,7 @@ print insulin
 
 ## Output
 
-<img src="../../img/pp5.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp5.png" alt="slot" style="width: 100px;"/>
 
 
 ## To the computer screen
@@ -163,7 +163,7 @@ outfile.close()
 >Challenge
 ---
 >Your first Python commands: create pairs
-<img src="../../img/pp6.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp6.png" alt="slot" style="width: 100px;"/>
 >
 ----
 

@@ -1,9 +1,9 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+Back to [main page](../index.md).
 
 
 # Repeating things
 
-<img src="../../img/pp7.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp7.png" alt="slot" style="width: 100px;"/>
 
 ## Counting amino acids
 
@@ -106,7 +106,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 
 
 ## Manipulating string
-<img src="../../img/pp8.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp8.png" alt="slot" style="width: 100px;"/>
 
 
 > ####  **Challenge #3**
@@ -121,4 +121,4 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 
 
 ### Recap
-<img src="../../img/pp9.png" alt="slot" style="width: 100px;"/>
+<img src="img/pp9.png" alt="slot" style="width: 100px;"/>

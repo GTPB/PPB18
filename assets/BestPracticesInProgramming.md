@@ -1,5 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
-
+Back to [main page](../index.md).
 
 #Writing good programs
 
@@ -197,7 +196,7 @@ i.e. include documentation (metadata) describing the data
 Reproducibility requires three things:
 
 
-<img src="../../img/reproducibility.png" alt="slot" style="width: 300px;"/>
+<img src="img/reproducibility.png" alt="slot" style="width: 300px;"/>
 
 
 ### Version control system (repository)
@@ -210,7 +209,7 @@ my_program3_optimised.py
 my_program3_new.py
 my_program3_new_new.py
 ```
-<img src="../../img/grantairc.png" alt="slot" style="width: 300px;"/>
+<img src="img/grantairc.png" alt="slot" style="width: 300px;"/>
 
 
 
@@ -260,3 +259,6 @@ you actually want to transform, and eyeballing the results
 
 -   In more complex situations, you may select subsets of your
 actual data, and make sure that they’re handled correctly.
+
+
+Back to [main page](../index.md).

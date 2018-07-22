@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+Back to [main page](../index.md).
 
 
 
@@ -112,9 +112,9 @@ A function can be accessed from different parts of a script or even from differe
 In order to use a function, you have first to define it and then to call it
 
 
-<img src="../../img/functions1.png" alt="slot" style="width: 300px;"/>
+<img src="img/functions1.png" alt="slot" style="width: 300px;"/>
 
-<img src="../../img/functions2.png" alt="slot" style="width: 300px;"/>
+<img src="img/functions2.png" alt="slot" style="width: 300px;"/>
 
 
 
@@ -124,7 +124,7 @@ In order to use a function, you have first to define it and then to call it
 >-  Write a function triangle_area(b, h) that returns the area of a triangle
 >-    Call the function for b = 2.28 and h = 3.55
 >-    Print the result
-<img src="../../img/triangle.png" alt="slot" style="width: 300px;"/>
+<img src="img/triangle.png" alt="slot" style="width: 300px;"/>
 >
 ---
 
@@ -468,3 +468,7 @@ The  number  of  arguments  can  be  variable  (i.e.  can  change  from  one fun
 "ACCTGGCACAA")
 {'num': 100, 'seq': 'ACCTGGCACAA', 'num2': 200}
 ```
+
+
+Back to [main page](../index.md).
+

@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+Back to [main page](../index.md).
 
 
 # The Python Shell
@@ -11,7 +11,7 @@ In this module you can learn:
 
 
 ### Traces in the desert sand…
-<img src="../../img/desert.png" alt="slot" style="width: 100px;"/>
+<img src="img/desert.png" alt="slot" style="width: 100px;"/>
 
 Python can be used as a calculator:
 
@@ -112,11 +112,11 @@ import math
 
 Find the matching pairs of functions and x/y values.
 
-<img src="../../img/mathgame.png" alt="slot" style="width: 300px;"/>
+<img src="img/mathgame.png" alt="slot" style="width: 300px;"/>
 
 
 ### Components of Python
-<img src="../../img/pycomponents.png" alt="slot" style="width: 300px;"/>
+<img src="img/pycomponents.png" alt="slot" style="width: 300px;"/>
 
 
 ### Recap
@@ -161,7 +161,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 >+   Print the distance to the screen
 >
 >The  formula for  calculating the distance is:
-> <img src="../../img/cartesiandistance.png" alt="slot" style="width: 100px;"/>
+> <img src="img/cartesiandistance.png" alt="slot" style="width: 100px;"/>
 >
 ---
 

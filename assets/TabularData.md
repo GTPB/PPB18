@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+Back to [main page](../index.md).
 
 
 
@@ -45,7 +45,7 @@ for line in T:
 print table
 ```
 
-<img src="../../img/tabulartable.png" alt="slot" style="width: 300px;"/>
+<img src="img/tabulartable.png" alt="slot" style="width: 300px;"/>
 
 ### Remove a row and write the table to a tab-separated file
 

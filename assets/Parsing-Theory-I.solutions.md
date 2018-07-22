@@ -1,3 +1,5 @@
+Back to [main page](../index.md).
+
 <a name="c1"></a>
 #### Solution to challenge #1
 
@@ -389,3 +391,6 @@ InputFile.close()
 OutputFile.close()
 ```
 <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-15">back</a>
+
+
+Back to [main page](../index.md).

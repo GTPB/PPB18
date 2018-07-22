@@ -1,21 +1,21 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+Back to [main page](../index.md).
 
 
 
 # Searching (and manipulating) your data
 
-<img src="../../img/geneticcode.png" alt="slot" style="width: 300px;"/>
+<img src="img//geneticcode.png" alt="slot" style="width: 300px;"/>
 
-<img src="../../img/datser1.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser1.png" alt="slot" style="width: 300px;"/>
 
-<img src="../../img/datser2.png" alt="slot" style="width: 300px;"/>
-<img src="../../img/datser3.png" alt="slot" style="width: 300px;"/>
-<img src="../../img/datser4.png" alt="slot" style="width: 300px;"/>
-<img src="../../img/datser5.png" alt="slot" style="width: 300px;"/>
-<img src="../../img/datser6.png" alt="slot" style="width: 300px;"/>
-<img src="../../img/datser7.png" alt="slot" style="width: 300px;"/>
-<img src="../../img/datser8.png" alt="slot" style="width: 300px;"/>
-<img src="../../img/datser9.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser2.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser3.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser4.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser5.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser6.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser7.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser8.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser9.png" alt="slot" style="width: 300px;"/>
 
 
 Let's give a look to the content of the tgac.py: 
@@ -65,7 +65,7 @@ lists and dictionaries cannot be used as dictionary keys!!!!
 keys must be **unique**, i.e. the same key cannot be associated to
 more than one value
 
-<img src="../../img/datser_method.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser_method.png" alt="slot" style="width: 300px;"/>
 
 ```
 >>> d = {'pep1':'MGSNKSKPKDASQRRRSLEPAENVHGAGG', \
@@ -158,9 +158,9 @@ print sort_dict_by_keys(structures)
 
 
 ## Remove redundancy
-<img src="../../img/redund1.png" alt="slot" style="width: 300px;"/>
+<img src="img//redund1.png" alt="slot" style="width: 300px;"/>
 
-<img src="../../img/redund2.png" alt="slot" style="width: 300px;"/>
+<img src="img//redund2.png" alt="slot" style="width: 300px;"/>
 
 
 ```
@@ -181,7 +181,7 @@ Q14667                                                Q14667
 Q9Y5P2                                                Q9NQQ7
 ```
 
-<img src="../../img/redund3.png" alt="slot" style="width: 300px;"/>
+<img src="img//redund3.png" alt="slot" style="width: 300px;"/>
 
 ### Sets
 Sets are **unordered** collections of unique objects
@@ -265,3 +265,5 @@ set(['a', 'b'])
 >>> S2 – S1
 set(['e', 'd'])
 ```
+
+Back to [main page](../index.md).

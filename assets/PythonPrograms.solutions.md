@@ -1,3 +1,5 @@
+Back to [main page](../index.md).
+
 #### Solution to challenge #2
 
 ```
@@ -30,3 +32,6 @@ elem =  dna.count ('G')
 print  elem
 ```
 <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.md#challenge-4">back<a/>
+
+
+Back to [main page](../index.md).

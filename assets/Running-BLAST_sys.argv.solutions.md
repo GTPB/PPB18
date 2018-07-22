@@ -1,3 +1,5 @@
+Back to [main page](../index.md).
+
 #### Solution to challenge #1
 ```
 import sys
@@ -55,3 +57,6 @@ out.close()
 <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.md#challenge-3">back<a/>
 <br>
 <br>
+
+Back to [main page](../index.md).
+
