@@ -11,10 +11,9 @@ In this module you can learn:
 
 
 ### Traces in the desert sand…
-<img src="./img/desert.png" alt="slot" style="width: 50px;"/>
+<img src="./img/desert.png" alt="slot" style="width: 300px;"/>
 
 
-![desert](img/desert.png)
 
 Python can be used as a calculator:
 
@@ -147,7 +146,7 @@ Challenge #2
 ---
 
 
-See the [Solution to challenge #2](pythonshell.solutions.md)
+See the [Solution to challenge #2](2_2_pythonshell.solutions.md)
 <br>
 <br>
 
@@ -175,7 +174,7 @@ Challenge #3
 
 
 
-See the [Solution to challenge #3](pythonshell.solutions.md)
+See the [Solution to challenge #3](2_pythonshell.solutions.md)
 <br>
 <br>
 
@@ -247,7 +246,7 @@ Challenge  #5
 ---
 
 
-See See the [Solution to challenge #5](pythonshell.solutions.md)
+See See the [Solution to challenge #5](2_pythonshell.solutions.md)
 
 
 
