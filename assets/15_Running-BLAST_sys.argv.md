@@ -130,21 +130,21 @@ print sys.argv
 ['sys_argv.py', 'ap006852.gbk', 'ap006852.fasta']
 ```
 
->#### Challenge #1
 ---
+Challenge #1
+
 >- Read the ap006852.gbk  file into a program (read_gbk.py) from the command line;
 >- Read the file line-by-line and print the line corresponding to the 'LOCUS' identifier;
 >-   Run the program.
 >
 ---
 
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
-<br>
-<br>
+See the [Solution to challenge #2](15_Running-BLAST_sys.argv.solutions.md) 
 
 
->#### Challenge #2
 ---
+Challenge #2
+
 >Run Blastp from a script for the three sequences
 ```
 seqs = ['P00519', 'P05480', 'P12931']
@@ -166,22 +166,22 @@ seqs = ['P00519', 'P05480', 'P12931']
 >
 ---
 
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
-<br>
-<br>
+See the [Solution to challenge #2](15_Running-BLAST_sys.argv.solutions.md) 
 
 
 
 
->#### Challenge #3
+
 ---
+Challenge #3
+
 >Read the three blast output files and write to a new file file the values in the first and the third columns just for the first line of each file.
 >
 ---
 
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
-<br>
-<br>
+See the [Solution to challenge #2](15_Running-BLAST_sys.argv.solutions.md) 
+
+
 
 Back to [main page](../index.md).
 

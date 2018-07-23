@@ -16,9 +16,9 @@ for line in gbk:
 
 ```
 
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.md#challenge-1>back<a/>
-<br>
-<br>
+Back to the [lesson](15_Running-BLAST_sys.argv.md)
+
+
 
 
 #### Solution to challenge #2
@@ -35,9 +35,8 @@ for seq in seqs:
                 '6','-db','nr.00']
       subprocess.call(command_line)
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.md#challenge-2>back<a/>
-<br>
-<br>
+
+Back to the [lesson](15_Running-BLAST_sys.argv.md)
 
 
 
@@ -54,9 +53,8 @@ for seq in seqs:
 
 out.close()
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.md#challenge-3">back<a/>
-<br>
-<br>
+Back to the [lesson](15_Running-BLAST_sys.argv.md)
+
 
 Back to [main page](../index.md).
 

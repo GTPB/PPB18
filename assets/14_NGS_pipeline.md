@@ -3,7 +3,7 @@ Back to [main page](../index.md).
 
 ## NGS analysis: an example of a pipeline
 Figure 14.1 – An example of an NGS data analysis pipeline
-<img src="img/ngs1.png" alt="slot" style="width: 300px;"/>
+<img src="img/ngs1.png" alt="slot" style="width: 400px;"/>
 
 
 
@@ -118,7 +118,7 @@ os.system(cufflinks_command)
 ### Input and output of the Cuffcompare program for transcript comparison
 
 
-<img src="img/ngs2.png" alt="slot" style="width: 300px;"/>
+<img src="img/ngs2.png" alt="slot" style="width: 400px;"/>
 
 
 ### `transcripts.tracking` (two rows only)
@@ -148,7 +148,7 @@ T2, and T3) samples.
 
 #### Saved and skipped rows in the `transcripts.tracking` file
 
-<img src="img/ngs2.png" alt="slot" style="width: 300px;"/>
+<img src="img/ngs2.png" alt="slot" style="width: 400px;"/>
 
 
 The presence of `qi` means that the information about the replica is available. `-` means that the information is not available. Each row corresponds to a different transcript.
@@ -190,3 +190,4 @@ for track in tracking:
 tracking.close()
 trackingOut.close()
 ```
+Back to [main page](../index.md).

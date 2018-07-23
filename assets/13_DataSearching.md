@@ -4,18 +4,18 @@ Back to [main page](../index.md).
 
 # Searching (and manipulating) your data
 
-<img src="img//geneticcode.png" alt="slot" style="width: 300px;"/>
+<img src="img//geneticcode.png" alt="slot" style="width: 400px;"/>
 
-<img src="img//datser1.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser1.png" alt="slot" style="width: 400px;"/>
 
-<img src="img//datser2.png" alt="slot" style="width: 300px;"/>
-<img src="img//datser3.png" alt="slot" style="width: 300px;"/>
-<img src="img//datser4.png" alt="slot" style="width: 300px;"/>
-<img src="img//datser5.png" alt="slot" style="width: 300px;"/>
-<img src="img//datser6.png" alt="slot" style="width: 300px;"/>
-<img src="img//datser7.png" alt="slot" style="width: 300px;"/>
-<img src="img//datser8.png" alt="slot" style="width: 300px;"/>
-<img src="img//datser9.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser2.png" alt="slot" style="width: 400px;"/>
+<img src="img//datser3.png" alt="slot" style="width: 400px;"/>
+<img src="img//datser4.png" alt="slot" style="width: 400px;"/>
+<img src="img//datser5.png" alt="slot" style="width: 400px;"/>
+<img src="img//datser6.png" alt="slot" style="width: 400px;"/>
+<img src="img//datser7.png" alt="slot" style="width: 400px;"/>
+<img src="img//datser8.png" alt="slot" style="width: 400px;"/>
+<img src="img//datser9.png" alt="slot" style="width: 400px;"/>
 
 
 Let's give a look to the content of the tgac.py: 
@@ -65,7 +65,7 @@ lists and dictionaries cannot be used as dictionary keys!!!!
 keys must be **unique**, i.e. the same key cannot be associated to
 more than one value
 
-<img src="img//datser_method.png" alt="slot" style="width: 300px;"/>
+<img src="img//datser_method.png" alt="slot" style="width: 400px;"/>
 
 ```
 >>> d = {'pep1':'MGSNKSKPKDASQRRRSLEPAENVHGAGG', \
@@ -114,26 +114,27 @@ True
 ```
 
 
->#### Challenge #1
 ---
+Challenge #1
+
 >Using the `codonAMINO` dictonary from `tgac.py` translate the sequence in `rna_seq.fasta`. Use a single reading frame.
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
-<br>
-<br>
+See the [Solution to challenge #1](13_DataSearching.solutions.md) 
 
 
->#### Challenge #2
+
 ---
+Challenge #2
+
 >Implement program 1 for the three reading frames
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
-<br>
-<br>
+
+See the [Solution to challenge #1](13_DataSearching.solutions.md) 
+
 
 
 
@@ -158,9 +159,9 @@ print sort_dict_by_keys(structures)
 
 
 ## Remove redundancy
-<img src="img//redund1.png" alt="slot" style="width: 300px;"/>
+<img src="img//redund1.png" alt="slot" style="width: 400px;"/>
 
-<img src="img//redund2.png" alt="slot" style="width: 300px;"/>
+<img src="img//redund2.png" alt="slot" style="width: 400px;"/>
 
 
 ```
@@ -181,7 +182,7 @@ Q14667                                                Q14667
 Q9Y5P2                                                Q9NQQ7
 ```
 
-<img src="img//redund3.png" alt="slot" style="width: 300px;"/>
+<img src="img//redund3.png" alt="slot" style="width: 400px;"/>
 
 ### Sets
 Sets are **unordered** collections of unique objects
