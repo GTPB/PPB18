@@ -11,7 +11,7 @@ In this module you can learn:
 
 
 ### Traces in the desert sand…
-<img src="./img/desert.png" alt="slot" style="width: 300px;"/>
+<img src="./img/desert.png" alt="slot" style="width: 400px;"/>
 
 
 
@@ -115,11 +115,11 @@ import math
 
 Find the matching pairs of functions and x/y values.
 
-<img src="img/mathgame.png" alt="slot" style="width: 300px;"/>
+<img src="img/mathgame.png" alt="slot" style="width: 400px;"/>
 
 
 ### Components of Python
-<img src="img/pycomponents.png" alt="slot" style="width: 300px;"/>
+<img src="img/pycomponents.png" alt="slot" style="width: 400px;"/>
 
 
 
@@ -146,7 +146,7 @@ Challenge #2
 ---
 
 
-See the [Solution to challenge #2](2_2_pythonshell.solutions.md)
+See the [Solution to challenge #2](2_pythonshell.solutions.md)
 <br>
 <br>
 

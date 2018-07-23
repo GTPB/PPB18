@@ -38,7 +38,7 @@ Challenge
 ---
 
 
-<img src="img/pp1.png" alt="slot" style="width: 300px;"/>
+<img src="img/pp1.png" alt="slot" style="width: 400px;"/>
 
 
 ## What is a program?
@@ -64,18 +64,18 @@ Challenge  #1
 Challenge
 
 > Your first Python commands: create pairs
-<img src="img/pp2.png" alt="slot" style="width: 300px;"/>
+<img src="img/pp2.png" alt="slot" style="width: 400px;"/>
 >
 ---
 
 
 ## How programs work
 
-<img src="img/pp3.png" alt="slot" style="width: 300px;"/>
+<img src="img/pp3.png" alt="slot" style="width: 400px;"/>
 
 
 ## Input
-<img src="img/pp4.png" alt="slot" style="width: 300px;"/>
+<img src="img/pp4.png" alt="slot" style="width: 400px;"/>
 
 
 ## Input from the program itself
@@ -145,7 +145,7 @@ Challenge  #3
 
 ## Output
 
-<img src="img/pp5.png" alt="slot" style="width: 300px;"/>
+<img src="img/pp5.png" alt="slot" style="width: 400px;"/>
 
 
 ## To the computer screen
@@ -170,7 +170,7 @@ outfile.close()
 >Challenge
 ---
 >Your first Python commands: create pairs
-<img src="img/pp6.png" alt="slot" style="width: 300px;"/>
+<img src="img/pp6.png" alt="slot" style="width: 400px;"/>
 >
 ----
 
