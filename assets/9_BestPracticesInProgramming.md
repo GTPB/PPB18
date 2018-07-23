@@ -56,8 +56,9 @@ Good scientists do not perform experiments before developing a hypothesis and pl
 > **Before the first line of code is written, software projects should be thoughtfully designed**
 
 <center>
-*Prior Planning and Preparation Prevents “Pretty” Poor Performance*
-[military seven Ps rule](https://en.wikipedia.org/wiki/7_Ps_%28military_adage%29)<br/>
+*Prior Planning and Preparation Prevents “Pretty” Poor Performance* [military seven Ps rule](https://en.wikipedia.org/wiki/7_Ps_%28military_adage%29)   
+
+<br/>
 
 
 Amfahr J, Bustamante A, Rome P. Exploring Agile: The Seapine Agile Expedition
@@ -196,7 +197,7 @@ i.e. include documentation (metadata) describing the data
 Reproducibility requires three things:
 
 
-<img src="img/reproducibility.png" alt="slot" style="width: 300px;"/>
+<img src="img/reproducibility.png" alt="slot" style="width: 400px;"/>
 
 
 ### Version control system (repository)
@@ -209,7 +210,7 @@ my_program3_optimised.py
 my_program3_new.py
 my_program3_new_new.py
 ```
-<img src="img/grantairc.png" alt="slot" style="width: 300px;"/>
+<img src="img/grantairc.png" alt="slot" style="width: 400px;"/>
 
 
 
