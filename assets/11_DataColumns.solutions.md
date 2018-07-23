@@ -10,11 +10,7 @@ for line in open("neuron_data.txt"):
 
 print neuron_lengths
 ```
-Back to [DataColumns.md](DataColumns.md)
-
-<br>
-<br>
-
+Back to [lesson](11_DataColumns.md)
 
 
 #### Solution to challenge #2
@@ -32,9 +28,7 @@ for line in open("neuron_data-2.txt"):
 print primary, secondary
 ```
 
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.md#challenge-2">back <a/>
-<br>
-<br>
+Back to [lesson](11_DataColumns.md)
 
 
 #### Solution to challenge #3
@@ -69,9 +63,8 @@ secondary_av = sum(secondary)/float(len(secondary))
 print "primary neuron average: ",primary_av
 print "secondary neuron average: ", secondary_av
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.md#challenge-3">back <a/>
-<br>
-<br>
+
+Back to [lesson](11_DataColumns.md)
 
 
 
@@ -99,9 +92,8 @@ for value in primary:
 
 print primary_av, stddev
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.md#challenge-4">back <a/>
-<br>
-<br>
+
+Back to [lesson](11_DataColumns.md)
 
 
 #### Solution to challenge #5
@@ -116,10 +108,8 @@ for i in xrange(len(data1)):
     out.write(str(data1[i]) + '\t' +  str(data2[i]) + '\n')
 out.close()
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.md#challenge-5">back <a/>
-<br>
-<br>
 
+Back to [lesson](11_DataColumns.md)
 
 
 #### Solution to challenge #6
@@ -149,10 +139,8 @@ for i in xrange(len(data1)):
 
 Outfile.close()
 ```
-<a href="hhttps://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.md#challenge-6">back <a/>
-<br>
-<br>
 
+Back to [lesson](11_DataColumns.md)
 
 #### Solution to challenge #7
 ```
@@ -175,8 +163,7 @@ out.write("shortest length: %7.2f \n"% (shortest))
 out.write("longest length : %7.2f \n"%(longest))
 out.close()
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.md#challenge-7">back <a/>
-<br>
-<br>
+
+Back to [lesson](11_DataColumns.md)
 
 Back to [main page](../index.md).

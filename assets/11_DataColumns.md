@@ -10,7 +10,7 @@ After this module you can:
 + Calculate the average value of the numbers of a table's column
 + Write a list of numbers to a text file
 
-<img src="img/neuron.png" alt="slot" style="width: 300px;"/>
+<img src="img/neuron.png" alt="slot" style="width: 400px;"/>
 
 We will use the file `neuron_data.txt` containing data on dendrites lengths:
 
@@ -61,27 +61,25 @@ and the file `neuron_data-2.txt` that contains the same data plus an extra colum
 - `str()`  Converts an object into a string
 - `repr()` Converts an object into a string
 
-> ####  **Challenge #1**
 ---
+Challenge #1
+
+
 > Write a program that reads the file with neuron lengths (neuron_data.txt) and stores neuron lengths as floating point numbers into a list.
 
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-1"> challenge #1<a/>
-<br>
-<br>
+See the [Solution to challenge #1](11_DataColumns.solutions.md)
 
 
-
-> ####  **Challenge #2**
 ---
+Challenge #2
+
 > Extend the program so that it read data form `neuron_data-2.txt` and  stores primary and secondary neuron lengths to different lists.
 >
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-2"> challenge #2<a/>
-<br>
-<br>
+See the [Solution to challenge #2](11_DataColumns.solutions.md)
 
 
 ## Manipulating data in the columns
@@ -90,34 +88,30 @@ See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_cours
 +  Calculate their average length
 +  Calculate the standard deviation
 
-<img src="img/builtin.png" alt="slot" style="width: 300px;"/>
+<img src="img/builtin.png" alt="slot" style="width: 400px;"/>
 
 
 
-> ####  **Challenge #3**
 ---
+Challenge #3
+
 >Extend program 2 so that it calculates the neuron length average separately for primary and secondary neurons. Print the two averages: which neurons are on average longer?
 >
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-3"> challenge #3<a/>
-<br>
-<br>
+See the [Solution to challenge #3](11_DataColumns.solutions.md)
 
 
 
-
-> ####  **Challenge #4**
 ---
+Challenge #4
+
 Extend program 3 so that it calculates the standard deviation
 of the neuron length.
 >
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-4"> challenge #4<a/>
-<br>
-<br>
-
+See the [Solution to challenge #4](11_DataColumns.solutions.md)
 
 
 
@@ -159,9 +153,7 @@ out.close()
 >
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-5"> challenge #5<a/>
-<br>
-<br>
+See the [Solution to challenge #5](11_DataColumns.solutions.md)
 
 
 
@@ -188,15 +180,14 @@ print  S.format (a,  math.sqrt(a))
 ```
 
 
-> ####  **Challenge #6**
 ---
+Challenge #6
+
 >Use two lists with data from `neuron_data-2.txt` to write a table identical to `neuron_data-2.txt`. Do it using **string formatting**.
 >
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-6"> challenge #6<a/>
-<br>
-<br>
+See the [Solution to challenge #6](11_DataColumns.solutions.md)
 
 
 
@@ -207,12 +198,13 @@ See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_cours
 
 ### Match the formatting expressions and their result
 
-<img src="img/expression_values.png" alt="slot" style="width: 300px;"/>
+<img src="img/expression_values.png" alt="slot" style="width: 400px;"/>
 
 
 
-> ####  **Challenge #7**
 ---
+Challenge #7
+
 >Write a program that reads the `neuron_data-2.txt` file, calculates the number of primary neurons, their total length, and the shortest and the longest lengths.
 >
 >Write the results to a file using string formatting.
@@ -221,9 +213,7 @@ See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_cours
 >
 ----
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-7"> challenge #7<a/>
-<br>
-<br>
+See the [Solution to challenge #7](11_DataColumns.solutions.md)
 
 
 Back to [main page](../index.md).

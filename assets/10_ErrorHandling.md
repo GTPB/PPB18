@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+Back to [main page](../index.md).
 
 >
 
@@ -44,7 +44,7 @@ else:
 [Built-in exceptions](https://docs.python.org/2/library/exceptions.html)
 
 
-<img src="../../img/ErrorHandling.png" alt="slot" style="width: 300px;"/>
+<img src="../../img/ErrorHandling.png" alt="slot" style="width: 400px;"/>
 
 
 ```
@@ -61,3 +61,6 @@ except ImportError:
 else:
     main(data)
 ```
+
+
+Back to [main page](../index.md).
