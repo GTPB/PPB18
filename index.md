@@ -37,10 +37,7 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 
 
 ### Day 1
-#### [Intro](assets/1_intro.md)
-#### [Python Shell](assets/2_pythonshell.md)
-#### [Python Programs](assets/3_PythonPrograms.md)
-#### [Structures and Modules](assets/4_PythonStructureModulesImport.md)
+#### [Intro](assets/1_intro.md) | [Python Shell](assets/2_pythonshell.md) | [Python Programs](assets/3_PythonPrograms.md) | [Structures and Modules](assets/4_PythonStructureModulesImport.md)
 
 
 ### Day 2
