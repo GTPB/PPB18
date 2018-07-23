@@ -44,7 +44,12 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 
 <!-- #### [Repeating Things](assets/RepeatingThings.md) -->
 
-#### Flipped Lesson: Homework [Loops](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Flip_Day1.html) [Sequence format video](assets/00-FASTQ_PHRED_ASCII-Part_1.mp4)| In class assessment
+#### Flipped Lesson: Homework [Loops](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Flip_Day1.html)
+
+<a href="https://github.com/ezcn/PPB18/blob/master/assets/00-FASTQ_PHRED_ASCII-Part_1.mp4" target="_blank"><img src="assets/img/GTPB2015logo.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+####In class assessment
 
 #### [File Formats](assets/5_FileFormats.md) | [Parsing I](assets/6_Parsing-Theory-I.md) | [Parsing II](assets/7_Parsing-Theory-II.md)  
 
