@@ -64,3 +64,7 @@ Back to [main page](../index.md).
 > -    Go to your home directory using the command-line interface
 > -    Type: `python my_first_run.py`
 
+
+
+
+Back to [main page](../index.md).

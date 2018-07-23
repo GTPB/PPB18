@@ -98,7 +98,8 @@ Challenge  #2
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+
+See See the [Solution to challenge #2](3_PythonPrograms.solutions.md)
 
 
 
@@ -191,9 +192,7 @@ Challenge  #4
 >
 ----
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
-
-
+See See the [Solution to challenge #4](3_PythonPrograms.solutions.md)
 
 ### Recap
 -  string variables contain text
@@ -203,3 +202,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 -  `write()` writes to an open file
 -  for loops repeat commands
 -  comments starts with `#` or `'''`
+
+
+
+Back to [main page](../index.md).
