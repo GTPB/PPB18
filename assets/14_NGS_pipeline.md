@@ -17,7 +17,8 @@ Figure 14.1 – An example of an NGS data analysis pipeline
 The first argument should be the full path to the directory containing the index plus the **prefix** of the index files.
 
 Usage:
-``''
+
+```
 tophat [options]* <genome_index_base> <reads1_1[,...,readsN_1]>
 
 
@@ -25,6 +26,7 @@ tophat –o <tophat_output_dir> /path/to/h_sapiens reads1.fastq,
 reads2.fastq,reads3.fastq
 ```
 ### Tophat input files (1)
+
 ```
 <genome_index_base><br/>
 ```
