@@ -14,28 +14,29 @@ MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRWRVISSIEQKTERNEKKQQMGK
 >sp|P31946|1433B_HUMAN 14-3-3 protein beta/alpha OS=Homo sapiens
 MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRWRVISSIEQKTERNEKKQQMGKEYREKIEAELQDICNDVLELLDKYLIPNATQPESKVFYLKMKGDYFRYLSEVASGDNKQTTVSNSQQAYQEAFEISKKEMQPTHPIRLGLALNFSVFYEILNSPEKACSLAKTAFDEAIAELDTLNEESYKDSTLIMQLLRDNLTLWTSENQGDEGDAGEGEN
 ```
-
-> ####  **Challenge #1**
 ---
+Challenge 1
+
+
 >
 >Open the file `SingleSeq.fasta`, read its content line by line and print it
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-1">solution to challenge #1</a>
+See the [Solution to challenge #1](6_Parsing-Theory-I.solutions.md)
 
 <br>
 <br>
 
-
-> #### **Challenge #2**
 ---
+Challenge #2
+
 >
 >Open the file `SingleSeq.fasta`, read its content line by line and write it to another file.
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-2">solution to challenge #2</a>
+See the [Solution to challenge #2](6_Parsing-Theory-I.solutions.md)
 
 <br>
 <br>
@@ -94,8 +95,9 @@ if 'T' in nucl: print 'T'
 if 'G' in nucl: print 'G'
 ```
 
-> #### **Challenge #3**
 ---
+Challenge #3
+
 >Read a sequence in FASTA format  from the file  `SingleSeq.fasta` and print only the header of the sequence
 >
 >
@@ -106,26 +108,24 @@ MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARWRVISSIEQKTERNEKKQQMGKE
 >
 ---
 
+See the [Solution to challenge #3](6_Parsing-Theory-I.solutions.md)
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-3">solution to challenge #3</a>
-<br>
-<br>
-
-> #### **Challenge #4**
 ---
+Challenge  #4
+
 >
 >Read a file in FASTA format and write to a new file
 only the header of the record.
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-4">solution to challenge #4</a>
 
-<br>
-<br>
+See the [Solution to challenge #4](6_Parsing-Theory-I.solutions.md)
 
-> #### **Challenge #5**
+
 ---
+Challenge #5
+
 >
 >Read a file in FASTA format and write to a new file only the sequence (without the header).
 >
@@ -136,19 +136,20 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 <br>
 <br>
 
-> #### **Challenge: Merge programs 4 and 5**
 ---
+Challenge: Merge programs 4 and 5
+
 > In other words, read a file in FASTA format and write the header to a file and the sequence to a different one.
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-4-and-5-mergred"> solution to challenges #4 and #5 merged</a>
+See the [Solution to merge challenge #4 and #5 ](6_Parsing-Theory-I.solutions.md)
 
-<br>
-<br>
 
-> #### **Challenge #6**
+
 ---
+Challenge #6
+
 >Let’s increase the difficulty just a bit…
 >
 >+   Read a FASTA file line by line
@@ -157,40 +158,44 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-6">solution to challenge #6</a>
+See the [Solution to challenge #6](6_Parsing-Theory-I.solutions.md)
 
 
 <br>
 <br>
 
-> #### **Challenge #7**
 ---
+Challenge  #7
+
 >+   Implement challenge #6 by counting the number of cysteine ("C") residues in the sequence
 >+   Print separately header, sequence and the number of cysteine residues
 >
 ---
 
+See the [Solution to challenge #7](6_Parsing-Theory-I.solutions.md)
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-7">solution to challenge #7</a>
 
 <br>
 <br>
 
-> #### **Challenge #8**
 ---
+Challenge #8
+
 >+ Read a file in FASTA format line-by-line.
 >+   Print or write the **record** to a file only if the sequence is from Homo sapiens.
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-8">solution to challenge #8</a>
+See the [Solution to challenge #8](6_Parsing-Theory-I.solutions.md)
+
 
 <br>
 <br>
 
 
-> #### **Challenge #9**
 ---
+Challenge  #9
+
 >Very often in reality you will need to analyze several sequences….
 >
 > Consider the content of the file `SwissProt-Human.fasta`
@@ -213,63 +218,55 @@ MDDREDLVYQAKLAEQAERYDEMVESMKKVAGMDVELTVEERNLLSVAYKNVIGARRASWRIISSIEQKEENKGGEDKLK
 >
 ---
 
-
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-9">solution to challenge #9</a>
+See the [Solution to challenge #9](6_Parsing-Theory-I.solutions.md)
 
 <br>
 <br>
-
-> #### **Challenge #10**
 ---
+Challenge  #10
+
 >Read a multiple sequence FASTA file and write the sequences to a new file separated by a blank line
 >
 ---
 
+See the [Solution to challenge #10](6_Parsing-Theory-I.solutions.md)
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-10">solution to challenge #10</a>
-
-<br>
-<br>
-
-> #### **Challenge #11**
 ---
+Challenge #11
+
 >Read a file in FASTA format and copy to a new file the records' Accession Numbers (AC).
 >
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-11">solution to challenge #11</a>
+See the [Solution to challenge #11](6_Parsing-Theory-I.solutions.md)
 
-<br>
-<br>
 
-> #### **Challenge #12**
 ---
+Challenge  #12
+
 >+   Read FASTA records from a file
 >+   Count (and print) the cysteine residues in each sequence.
 >
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-12">solution to challenge #12</a>
+See the [Solution to challenge #12](6_Parsing-Theory-I.solutions.md)
 
-<br>
-<br>
 
-> #### **Challenge #13**
 ---
+Challenge  #13
+
 >Read the multiple sequence FASTA file `sprot_prot.fasta` and write to a new file only the records from Homo sapiens.
 >
 ---
 
+See the [Solution to challenge #13](6_Parsing-Theory-I.solutions.md)
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-13">solution to challenge #13</a>
 
-<br>
-<br>
-
-> #### **Challenge #14 homework**
 ---
+Challenge  #14 homework
+
 >+  Read a multiple sequence file in FASTA format and only write to a new file the records the sequences of which start with a methionine ('M') and have at least two tryptophan residues ('W')
 >
 >First:
@@ -285,14 +282,12 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/maste
 ---
 
 
+See the [Solution to challenge #14](6_Parsing-Theory-I.solutions.md)
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-14">solution to challenge #14</a>
 
-<br>
-<br>
-
-> #### **Challenge #15 homework**
 ---
+Challenge  #15 homework
+
 >Read a Genbank record and write to a file the nucleotide sequence in FASTA format. Extract and write to a file the gene sequence from the Candida albicans genomic DNA, chromosome 7, complete sequence (file ap006852.gbk)
 >
 > Try to write it in FASTA format:
@@ -310,8 +305,7 @@ Gtaccgttgtagctctctcgtaaacacaagaaccaacaccaaacaacatactacaactga
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-15">solution to challenge #15</a>
-
+See the [Solution to challenge #15](6_Parsing-Theory-I.solutions.md)
 
 
 ## Parsing data records

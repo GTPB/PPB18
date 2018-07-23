@@ -232,8 +232,9 @@ Computers treat an address in memory as the **starting point** of a body of data
 
 
 
-> ####  **Challenge #1**
 ---
+Challenge #1
+
 >
 >-  Read 10 SwissProt ACs from a file
 >-   Store them into a list
@@ -241,13 +242,12 @@ Computers treat an address in memory as the **starting point** of a body of data
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-1">solution to Challenge #1<a/>
 
-<br>
-<br>
+See the [Solution to challenge #1](6_Parsing-Theory-II.solutions.md)
 
-> ####  **Challenge #2**
 ---
+Challenge #2
+
 >
 >-  Create a list containing Uniprot ACs extracted
 from a FASTA file
@@ -255,27 +255,27 @@ from a FASTA file
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-2">solution to Challenge #1<a/>
 
-<br>
-<br>
+See the [Solution to challenge #2](6_Parsing-Theory-II.solutions.md)
 
 
-> ####  **Challenge #3**
+
 ---
+Challenge #3
+
 >-   Read the human FASTA file one record after the other. Check if the record header contains one of the 10 ACs.
 >-   If YES, copy the header to a new file.
 >
 ----
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-3">solution to Challenge #1<a/>
 
-<br>
-<br>
+See the [Solution to challenge #3](6_Parsing-Theory-II.solutions.md)
 
 
-> ####  **Challenge #4**
+
 ---
+Challenge #4
+
 >Read a multiple sequence file in FASTA format and write to a new file only the records the Uniprot ACs of which are present in the list created in Program 1
 >
 >Check the file `SwissProt-Human.fasta`
@@ -292,7 +292,9 @@ GNYWHAHMGDREQLLQRARLAEQAERYDDMASAMKAVTELNEPLSNEDRNLLSVAYKNVVGARRSSWRVISSIEQKTMAD
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-4">solution to Challenge #4<a/>
+
+See the [Solution to challenge #4](6_Parsing-Theory-II.solutions.md)
+
 
 
 ## Putting together conditions and loops `while` loops
@@ -356,3 +358,5 @@ while line:
   cancer_list.append(AC)
   line = cancer_file.readline()
 ```
+
+Back to [main page](../index.md).
