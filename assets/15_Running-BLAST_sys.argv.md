@@ -139,7 +139,7 @@ Challenge #1
 >
 ---
 
-See the [Solution to challenge #2](15_Running-BLAST_sys.argv.solutions.md) 
+See the [Solution to challenge #1](15_Running-BLAST_sys.argv.solutions.md) 
 
 
 ---
@@ -166,7 +166,7 @@ seqs = ['P00519', 'P05480', 'P12931']
 >
 ---
 
-See the [Solution to challenge #1](15_Running-BLAST_sys.argv.solutions.md) 
+See the [Solution to challenge #1](15_Running-BLAST_sys.argv.solutions.md)
 
 
 
@@ -179,9 +179,8 @@ Challenge #3
 >
 ---
 
-See the [Solution to challenge #2](15_Running-BLAST_sys.argv.solutions.md) 
+See the [Solution to challenge #2](15_Running-BLAST_sys.argv.solutions.md)
 
 
 
 Back to [main page](../index.md).
-
