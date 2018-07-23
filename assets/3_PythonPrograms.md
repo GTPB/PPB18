@@ -107,6 +107,10 @@ See See the [Solution to challenge #2](3_PythonPrograms.solutions.md)
 -  We need to “access” an existing input file
 -  And read its content
 
+
+
+The input file `insuline.txt` can be found [here](dataandscripts/d1_programing_data_scripts/insulin.txt) 
+
 ```
 Infile = open("insulin.txt")
 
