@@ -45,26 +45,17 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 <!-- #### [Repeating Things](assets/RepeatingThings.md) -->
 
 #### Flipped Lesson:
-##### Homework [Loops](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Python_Bits.html)
-##### In class assessment
-#### [File Formats](assets/5_FileFormats.md)
-#### [Parsing I](assets/6_Parsing-Theory-I.md)
-#### [Parsing II](assets/7_Parsing-Theory-II.md)  
+##### Homework [Loops](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Flip_Day1.html) | In class assessment
+
+#### [File Formats](assets/5_FileFormats.md) | [Parsing I](assets/6_Parsing-Theory-I.md) | [Parsing II](assets/7_Parsing-Theory-II.md)  
 
 
 ### Day 3
-#### [Functions](assets/8_functions.md)
-#### [Best Practices](assets/9_BestPracticesInProgramming.md)
-#### [Error Handling](assets/10_ErrorHandling.md)
-#### [Data Columns](assets/11_DataColumns.md)
-#### [Tabular Data](assets/12_TabularData.md)
+#### [Functions](assets/8_functions.md) | [Best Practices](assets/9_BestPracticesInProgramming.md) |[Error Handling](assets/10_ErrorHandling.md) | [Data Columns](assets/11_DataColumns.md) | [Tabular Data](assets/12_TabularData.md)
 
 
 ### Day 4
-#### [Data Searching](assets/13_DataSearching.md)
-#### [NGS pipeline](assets/14_NGS_pipeline.md)
-#### [BLAST Pipeline](assets/15_Running-BLAST_sys.argv.md)
-#### [Python libraries](assets/16_tasks.md)
+#### [Data Searching](assets/13_DataSearching.md) | [NGS pipeline](assets/14_NGS_pipeline.md) | [BLAST Pipeline](assets/15_Running-BLAST_sys.argv.md) | [Python libraries](assets/16_tasks.md)
 
 ### Day 5
 #### [Hackaton](assets/HACKATHON_TASKS.md)
