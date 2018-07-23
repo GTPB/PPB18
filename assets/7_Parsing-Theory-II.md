@@ -243,7 +243,7 @@ Challenge #1
 ---
 
 
-See the [Solution to challenge #1](6_Parsing-Theory-II.solutions.md)
+See the [Solution to challenge #1](7_Parsing-Theory-II.solutions.md)
 
 ---
 Challenge #2
@@ -256,7 +256,7 @@ from a FASTA file
 ---
 
 
-See the [Solution to challenge #2](6_Parsing-Theory-II.solutions.md)
+See the [Solution to challenge #2](7_Parsing-Theory-II.solutions.md)
 
 
 
@@ -269,7 +269,7 @@ Challenge #3
 ----
 
 
-See the [Solution to challenge #3](6_Parsing-Theory-II.solutions.md)
+See the [Solution to challenge #3](7_Parsing-Theory-II.solutions.md)
 
 
 
@@ -293,7 +293,7 @@ GNYWHAHMGDREQLLQRARLAEQAERYDDMASAMKAVTELNEPLSNEDRNLLSVAYKNVVGARRSSWRVISSIEQKTMAD
 ---
 
 
-See the [Solution to challenge #4](6_Parsing-Theory-II.solutions.md)
+See the [Solution to challenge #4](7_Parsing-Theory-II.solutions.md)
 
 
 

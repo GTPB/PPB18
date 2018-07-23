@@ -14,7 +14,7 @@ for line in cancer_file:
 print cancer_list
 ```
 
-Back to the [lesson](6_Parsing-Theory-II.md)
+Back to the [lesson](7_Parsing-Theory-II.md)
 
 
 
@@ -29,7 +29,7 @@ for line in InputFile:
     AC_list.append(fields[1])
 print AC_list
 ```
-Back to the [lesson](6_Parsing-Theory-II.md)
+Back to the [lesson](7_Parsing-Theory-II.md)
 
 
 #### Solution to challenge #3
@@ -57,7 +57,7 @@ Outfile.close()
 
 *We are not writing the whole record but the header line only*
 
-Back to the [lesson](6_Parsing-Theory-II.md)
+Back to the [lesson](7_Parsing-Theory-II.md)
 
 
 #### Solution to challenge #4
@@ -114,7 +114,7 @@ Outfile.close()
 ```
 
 
-Back to the [lesson](6_Parsing-Theory-II.md)
+Back to the [lesson](7_Parsing-Theory-II.md)
 
 
 Back to [main page](../index.md).
