@@ -44,7 +44,7 @@ else:
 [Built-in exceptions](https://docs.python.org/2/library/exceptions.html)
 
 
-<img src="../../img/ErrorHandling.png" alt="slot" style="width: 400px;"/>
+<img src="img/ErrorHandling.png" alt="slot" style="width: 400px;"/>
 
 
 ```
