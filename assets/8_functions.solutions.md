@@ -16,9 +16,9 @@ def triangle_area(b, h):
 
 print triangle_area(2.28, 3.55)
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-1">back</a>
-<br>
-<br>
+
+Back to the [lesson](8_functions.md)
+
 
 #### Solution to challenge #2
 
@@ -31,10 +31,7 @@ def get_values(arg1, arg2):
 
 print get_values(15, 8)
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-2">back</a>
-<br>
-<br>
-
+Back to the [lesson](8_functions.md)
 
 
 #### Solution to challenge #3
@@ -68,10 +65,9 @@ def return_header(filename):
 
 print return_header('SingleSeq.fasta')
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-4">back</a>
-<br>
-<br>
 
+
+Back to the [lesson](8_functions.md)
 
 #### Solution to challenge #5
 ```
@@ -88,9 +84,9 @@ filenames = ['SingleSeq1.fasta',
 for name in filenames:
     print return_header(name)
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-5">back</a>
-<br>
-<br>
+
+
+Back to the [lesson](8_functions.md)
 
 
 #### Solution to challenge #6
@@ -133,9 +129,9 @@ for name in filenames:
 
 output.close()
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-6">back</a>
-<br>
-<br>
+
+
+Back to the [lesson](8_functions.md)
 
 #### Solution to challenge #7
 
@@ -162,9 +158,9 @@ OutputFile.close()
 filename = "ap006852.gbk"
 genbank2fasta(filename)
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-7">back</a>
-<br>
-<br>
+
+
+Back to the [lesson](8_functions.md)
 
 Back to [main page](../index.md).
 

@@ -118,8 +118,10 @@ In order to use a function, you have first to define it and then to call it
 
 
 
-> ####  **Challenge #1**
 ---
+Challenge #1
+
+
 >
 >-  Write a function triangle_area(b, h) that returns the area of a triangle
 >-    Call the function for b = 2.28 and h = 3.55
@@ -128,9 +130,8 @@ In order to use a function, you have first to define it and then to call it
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
-<br>
-<br>
+
+See the [Solution to challenge #1](8_functions.solutions.md)
 
 ## General remarks
 
@@ -159,16 +160,15 @@ def triangle_area(b, h):
 print triangle_area.__doc__
 ```
 
-> ####  **Challenge #2**
 ---
+Challenge #2
+
 > Define a function with two arguments: `get_values(arg1, arg2)` that returns the sum, the difference, and the product of `arg1` and `arg2`.
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
-<br>
-<br>
 
+See the [Solution to challenge #2](8_functions.solutions.md)
 
 
 ## Remarks
@@ -319,19 +319,20 @@ print_funct(10)
 
 
 
-> ####  **Challenge #3**
 ---
+Challenge #3
+
 Write a function that takes as arguments two points [x1, y1, z1] and [x2, y2, z2] and returns the distance between the two points.
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
-<br>
-<br>
 
+See the [Solution to challenge #3](8_functions.solutions.md)
 
-> ####  **Challenge #4**
 ---
+Challenge #4
+
+
 Write a function that :
 -  Takes as input a file name (of a FASTA file).
 -  Opens the file.
@@ -341,24 +342,25 @@ Write a function that :
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
-<br>
-<br>
+
+See the [Solution to challenge #4](8_functions.solutions.md)
 
 
-> ####  **Challenge #5**
 ---
+Challenge #5
+
+
 Insert the function call in a for loop running on a list of 3 sequence file names.
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-5">solution to challenge #5<a/>
-<br>
-<br>
 
+See the [Solution to challenge #5](8_functions.solutions.md)
 
-> ####  **Challenge #6**
 ---
+Challenge #6
+
+
 Consider two output schemes for exercise 4:
 1. All the the headers are written to the same output file
 2. Each header is written in a separate output file
@@ -366,20 +368,20 @@ Consider two output schemes for exercise 4:
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-6">solution to challenge #6<a/>
-<br>
-<br>
+
+See the [Solution to challenge #6](8_functions.solutions.md)
 
 
-> ####  **Challenge #7**
 ---
+Challenge #7
+
 >Write a function that takes as argument a Genbank record and returns the nucleotide sequence in FASTA format.
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-7">solution to challenge #7<a/>
-<br>
-<br>
+See the [Solution to challenge #7](8_functions.solutions.md)
+
+
 
 
 ## General remarks
