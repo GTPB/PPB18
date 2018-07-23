@@ -7,7 +7,7 @@ description: Python course taught at GTPB in July 2018
 
 ![python](assets/img/ppb.jpg)
 
-## Course Description
+### Course Description
 
 Python is an object-oriented programming language that is ideal for biological data analysis. The course will start from zero knowledge, and will introduce the participants to all the basic concepts of Python such as calculating, organizing data, reading and writing files, program logic and writing larger programs. All the examples and practical sessions will focus on solving biological problems. In particular the sessions will cover:
 
@@ -21,11 +21,11 @@ Python is an object-oriented programming language that is ideal for biological d
 The course will be highly interactive and the students will continuously put theory into practice while learning. By the end of the course, the participants will have a good understanding of Python basics and will have acquired the skills to manage any type of bioinformatics database record and to run applications from scripts. Basic Unix/Linux skills will be provided at the beginning of the course.
 
 
-## Target Audience
+### Target Audience
 End-users of bioinformatics databases and tools that need to manage large files and/or a large number of files and aim at developing hands-on capabilities for their analysis by writing their own or adapting somebody else's scripts in an autonomous way.
 
 
-## Course Pre-requisites
+### Course Pre-requisites
 Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot, Blast, ENSEMBL, PDB, etc. The course is directed to biologists with little or no programming experience and aims at making them capable to use Python to autonomously manage and analyse biological data.
 
 
@@ -33,11 +33,14 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 
 
 
-## Detailed Program
+### Detailed Program
 
 
-### Day 1
-#### [Intro](assets/1_intro.md) | [Python Shell](assets/2_pythonshell.md) | [Python Programs](assets/3_PythonPrograms.md) | [Structures and Modules](assets/4_PythonStructureModulesImport.md)
+#### Day 1
+-  [Intro](assets/1_intro.md)
+-  [Python Shell](assets/2_pythonshell.md)
+- [Python Programs](assets/3_PythonPrograms.md)
+- [Structures and Modules](assets/4_PythonStructureModulesImport.md)
 
 
 ### Day 2
