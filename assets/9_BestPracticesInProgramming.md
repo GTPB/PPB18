@@ -146,11 +146,8 @@ Write programs in such a way that errors are easy to find
 +   Convention for naming variables, functions, classes, files
 +   Establishes where and how to write comments
 +   Excludes certain language constructs
-
 +  Enhance the readability of source code and avoid common coding errors
-
 +  Avoids overadjusting code to your personal preference
-
 +  Discourage using complex language constructs
 
 
@@ -178,16 +175,11 @@ An acceptable level of documentation might provide:
 
 
 ### Use data standard
-<center>
 Input and output of your programs should comply community-accepted data standards<br/>
-
 If these are not available<br/>
-
-
 Store format information in the data itself
-<center/>
-
 i.e. include documentation (metadata) describing the data
+
 +   Format of the data
 +   Definitions and assumption that allow interpreting the data
 
