@@ -109,7 +109,7 @@ See See the [Solution to challenge #2](3_PythonPrograms.solutions.md)
 
 
 
-The input file `insuline.txt` can be found [here](dataandscripts/d1_programing_data_scripts/insulin.txt) 
+The input file `insuline.txt` can be found [here](data_and_scripts/1-PythonPrograms/d2_programing_data_scripts/insulin.txt) 
 
 ```
 Infile = open("insulin.txt")
