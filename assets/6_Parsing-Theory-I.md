@@ -134,7 +134,7 @@ See the [Solution to challenge #5](6_Parsing-Theory-I.solutions.md)
 
 
 ---
-Challenge: Merge programs 4 and 5
+Challenge: Merge programs #4 and #5
 
 > Download the file `SingleSeq.fasta` from [here](data_and_scripts/Parsing/SingleSeq.fasta). Read a file in FASTA format and write the header to a file and the sequence to a different one.
 >

@@ -31,7 +31,7 @@ EAGEGN
 ...
 ```
 
-Check the file `cancer-expressed.txt`
+Check the file `cancer-expressed.txt`, available [here](data_and_scripts/Parsing/cancer-expressed.txt):
 ```
 Q5XXA6
 Q9Y5P2
@@ -235,10 +235,10 @@ Computers treat an address in memory as the **starting point** of a body of data
 ---
 Challenge #1
 
->
->-  Read 10 SwissProt ACs from a file
->-   Store them into a list
->-   Print the list
+> Download the file `cancer-expressed.txt` form [here](data_and_scripts/Parsing/cancer-expressed.txt)
+>+  Read 10 SwissProt ACs from a file
+>+  Store them into a list
+>+   Print the list
 >
 ---
 
@@ -248,10 +248,9 @@ See the [Solution to challenge #1](7_Parsing-Theory-II.solutions.md)
 ---
 Challenge #2
 
->
->-  Create a list containing Uniprot ACs extracted
-from a FASTA file
->-   Print the list
+> Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` [here](data_and_scripts/Parsing/SwissProt-Human.fasta).
+>+ Create a list containing Uniprot ACs extracted from the FASTA file
+>+ Print the list
 >
 ---
 
