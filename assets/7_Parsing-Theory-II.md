@@ -81,7 +81,7 @@ L = []  # the empty list
 ```
 ## Operations with lists
 
-<img src="img/parsingimgCHANGE_cccp.png" alt="slot" style="width: 300px;"/>
+<img src="img/parsingimgCHANGE_cccp.png" alt="slot" style="width: 400px;"/>
 
 
 ```
@@ -229,7 +229,7 @@ store them into a variable
 
 ## Indexing
 
-<img src="img/indexing.png" alt="indexing" style="width: 300px;"/>
+<img src="img/indexing.png" alt="indexing" style="width: 400px;"/>
 
 Computers treat an address in memory as the **starting point** of a body of data. In the same sense, an **index** in Python always refers to such a starting point, something that is **in between** two objects in memory. We humans in contrast always count the objects themselves.
 
