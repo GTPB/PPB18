@@ -5,7 +5,10 @@ Back to [main page](../index.md).
 
 
 
-In many cases you will need to compare data from different files
+In many cases you will need to compare data from different files. As an example let's consider two files:
+
+1) A Uniprot multiple sequence FASTA file `SwissProt-Human.fasta`, available [here](data_and_scripts/Parsing/SwissProt-Human.fasta).
+
 ```
 SwissProt-Human.fasta
 >sp|P31946|1433B_HUMAN 14-3-3 protein beta/alpha OS=Homo sapiens
@@ -31,7 +34,7 @@ EAGEGN
 ...
 ```
 
-Check the file `cancer-expressed.txt`, available [here](data_and_scripts/Parsing/cancer-expressed.txt):
+2) A file `cancer-expressed.txt` containing a list of protein accession numbers (ACs), available [here](data_and_scripts/Parsing/cancer-expressed.txt):
 ```
 Q5XXA6
 Q9Y5P2
@@ -45,12 +48,12 @@ Q8VCX2
 Q7Z769
 ```
 
-First, you have to store the 10 Uniprot ID in a data structure
+In order to compare the content of the two files, you might first want to store the 10 Uniprot ID in a data structure. In practice:
 
-+ Read 10 SwissProt ACs from a file
-+ Store them into a data structure
++ Read 10 SwissProt ACs from the file
++ Store them in a data structure
 
-Lists are nice and veeeeery flexible data structures
+**Lists** are nice and veeeeery flexible data structures
 
 ```
 ['Q5XXA6', 'Q9Y5P2', 'Q14667', 'O75387', 'Q8WV07','Q8CH62', 'Q9GZY1', 'Q9NQQ7', 'Q8VCX2', 'Q7Z769']
@@ -261,9 +264,11 @@ See the [Solution to challenge #2](7_Parsing-Theory-II.solutions.md)
 
 ---
 Challenge #3
-
->-   Read the human FASTA file one record after the other. Check if the record header contains one of the 10 ACs.
->-   If YES, copy the header to a new file.
+> Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` from [here](data_and_scripts/Parsing/SwissProt-Human.fasta).
+> Download the file `cancer-expressed.txt` containing a list of ACs from [here](data_and_scripts/Parsing/cancer-expressed.txt)
+>+  Read the ACs and store them in a pyton structure
+>+  Read the human FASTA file one record after the other. Check if the record header contains one of the 10 ACs.
+>+   If YES, copy the header to a new file.
 >
 ----
 
@@ -275,19 +280,7 @@ See the [Solution to challenge #3](7_Parsing-Theory-II.solutions.md)
 ---
 Challenge #4
 
->Read a multiple sequence file in FASTA format and write to a new file only the records the Uniprot ACs of which are present in the list created in Program 1
->
->Check the file `SwissProt-Human.fasta`
-
-```
->sp|P31946|1433B_HUMAN 14-3-3 protein beta/alpha OS=Homo sapiens
-MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRSSWRVISSIEQKTERNEKKQQMGKEYREKIEAELQDICNDVLELLDKYLIPNATQPESKVFYLKMKGDYFRYLSEVASGDNKQTTVSNSQQAYQEAFEISKKEMQPTHPIRLGLALNFSVFYYEILNSPEKACSLAKTAFDEAIAELDTLNEESYKDSTLIMQLLRDNLTLWTSENQGDEGDAGEGEN
->sp|P62258|1433E_HUMAN 14-3-3 protein epsilon OS=Homo sapiens
-MDDREDLVYQAKLAEQAERYDEMVESMKKVAGMDVELTVEERNLLSVAYKNVIGARRASWRIISSIEQKEENKGGEDKLKMIREYRQMVETELKLICCDILDVLDKHLIPAANTGESKVFYYKMKGDYHRYLAEFATGNDRKEAAENSLVAYKAASDIAMTELPPTHPIRLGLALNFSVFYYEILNSPDRACRLAKAAFDDAIAELDTLSEESYKDSTLIMQLLRDNLTLWTSDMQGDGEEQNKEALQDVEDENQ
->sp|Q04917|1433F_HUMAN 14-3-3 protein eta OS=Homo sapiens
-GNYWHAHMGDREQLLQRARLAEQAERYDDMASAMKAVTELNEPLSNEDRNLLSVAYKNVVGARRSSWRVISSIEQKTMADGNEKKLEKVKAYREKIEKELETVCNDVLSLLDKFLIKNCNDFQYESKVFYLKMKGDYYRYLAEVASGEKKNSVVEASEAAYKEAFEISKEQMQPTHPIRLGLALNFSVFYYEIQNAPEQACLLAKQAFDDAIAELDTLNEDSYKDSTLIMQLLRDNLTLWTSDQQDEEAGEGN
-```
->
+>Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` from [here](data_and_scripts/Parsing/SwissProt-Human.fasta). Read a multiple sequence file in FASTA format and write to a new file only the records the Uniprot ACs of which are present in the list created in Program 1
 >
 ---
 
