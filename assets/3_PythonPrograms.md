@@ -56,17 +56,19 @@ Challenge  #1
 >
 ---
 
-<br>
-<br>
+
 
 
 ---
 Challenge
 
 > Your first Python commands: create pairs
-<img src="img/pp2.png" alt="slot" style="width: 400px;"/>
 >
 ---
+
+<img src="img/pp2.png" alt="slot" style="width: 400px;"/>
+
+
 
 
 ## How programs work
@@ -109,7 +111,7 @@ See See the [Solution to challenge #2](3_PythonPrograms.solutions.md)
 
 
 
-The input file `insuline.txt` can be found [here](data_and_scripts/1-PythonPrograms/d2_programing_data_scripts/insulin.txt) 
+The input file `insuline.txt` can be found [here](data_and_scripts/1-PythonPrograms/d2_programing_data_scripts/insulin.txt)
 
 ```
 Infile = open("insulin.txt")
