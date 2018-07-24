@@ -15,31 +15,31 @@ MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRWRVISSIEQKTERNEKKQQMGK
 MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRWRVISSIEQKTERNEKKQQMGKEYREKIEAELQDICNDVLELLDKYLIPNATQPESKVFYLKMKGDYFRYLSEVASGDNKQTTVSNSQQAYQEAFEISKKEMQPTHPIRLGLALNFSVFYEILNSPEKACSLAKTAFDEAIAELDTLNEESYKDSTLIMQLLRDNLTLWTSENQGDEGDAGEGEN
 ```
 ---
-Challenge 1
+Challenge #1
 
 
 >
 >Open the file `SingleSeq.fasta`, read its content line by line and print it
+>Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
 >
 ---
 
+
 See the [Solution to challenge #1](6_Parsing-Theory-I.solutions.md)
 
-<br>
-<br>
+
 
 ---
 Challenge #2
 
 >
 >Open the file `SingleSeq.fasta`, read its content line by line and write it to another file.
+>Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
 >
 ---
 
 See the [Solution to challenge #2](6_Parsing-Theory-I.solutions.md)
 
-<br>
-<br>
 
 ### Writing different things depending on a condition
 
@@ -105,6 +105,7 @@ Challenge #3
 >>sp|P31946|1433B_HUMAN 14-3-3 protein beta/alpha OS=Homo sapiens
 MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARWRVISSIEQKTERNEKKQQMGKEYREKIEAELQDICNDVLELLDKYLIPNATQPESKVFYLKMKGDYFRYLSEVASGDNKQTTVSNSQQAYQEAFEISKKEMQPTHPIRLGLALNFSVFYEILNSPEKACSLAKTAFDEAIAELDTLNEESYKDSTLIMQLLRDNLTLWTSENQGDEGDAGEGEN
 ```
+>Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
 >
 ---
 
@@ -114,8 +115,8 @@ See the [Solution to challenge #3](6_Parsing-Theory-I.solutions.md)
 Challenge  #4
 
 >
->Read a file in FASTA format and write to a new file
-only the header of the record.
+>Read a file in FASTA format and write to a new file only the header of the record.
+>Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
 >
 ---
 
@@ -128,18 +129,18 @@ Challenge #5
 
 >
 >Read a file in FASTA format and write to a new file only the sequence (without the header).
+>Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-5">solution to challenge #5</a>
+See the [Solution to challenge #5](6_Parsing-Theory-I.solutions.md)
 
-<br>
-<br>
 
 ---
 Challenge: Merge programs 4 and 5
 
 > In other words, read a file in FASTA format and write the header to a file and the sequence to a different one.
+>Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
 >
 ---
 
@@ -155,14 +156,12 @@ Challenge #6
 >+   Read a FASTA file line by line
 >+   Save the header in a variable and the sequence in a different one
 >+   Print header and sequence separately
+>Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
 >
 ---
 
 See the [Solution to challenge #6](6_Parsing-Theory-I.solutions.md)
 
-
-<br>
-<br>
 
 ---
 Challenge  #7
@@ -175,22 +174,19 @@ Challenge  #7
 See the [Solution to challenge #7](6_Parsing-Theory-I.solutions.md)
 
 
-<br>
-<br>
+
 
 ---
 Challenge #8
 
 >+ Read a file in FASTA format line-by-line.
 >+   Print or write the **record** to a file only if the sequence is from Homo sapiens.
+>Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
 >
 ---
 
 See the [Solution to challenge #8](6_Parsing-Theory-I.solutions.md)
 
-
-<br>
-<br>
 
 
 ---
@@ -214,7 +210,7 @@ MDDREDLVYQAKLAEQAERYDEMVESMKKVAGMDVELTVEERNLLSVAYKNVIGARRASWRIISSIEQKEENKGGEDKLK
 
 ```
 >
->Download a Uniprot multiple sequence FASTA file. Write the record headers to a new file.
+>Download a Uniprot multiple sequence FASTA file [here](data_and_scripts/Parsing/SwissProt-Human.fasta). Write the record headers to a new file.
 >
 ---
 
@@ -225,6 +221,7 @@ See the [Solution to challenge #9](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge  #10
 
+>Download a Uniprot multiple sequence FASTA file [here](data_and_scripts/Parsing/SwissProt-Human.fasta)
 >Read a multiple sequence FASTA file and write the sequences to a new file separated by a blank line
 >
 ---
@@ -234,9 +231,11 @@ See the [Solution to challenge #10](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge #11
 
+>Download a Uniprot multiple sequence FASTA file [here](data_and_scripts/Parsing/SwissProt-Human.fasta)
 >Read a file in FASTA format and copy to a new file the records' Accession Numbers (AC).
 >
 ---
+
 
 
 See the [Solution to challenge #11](6_Parsing-Theory-I.solutions.md)
@@ -244,7 +243,7 @@ See the [Solution to challenge #11](6_Parsing-Theory-I.solutions.md)
 
 ---
 Challenge  #12
-
+>Read the multiple sequence FASTA file `sprot_prot.fasta`[here](data_and_scripts/Parsing/sprot_prot.fasta)
 >+   Read FASTA records from a file
 >+   Count (and print) the cysteine residues in each sequence.
 >
@@ -257,7 +256,8 @@ See the [Solution to challenge #12](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge  #13
 
->Read the multiple sequence FASTA file `sprot_prot.fasta` and write to a new file only the records from Homo sapiens.
+>Read the multiple sequence FASTA file `sprot_prot.fasta`[here](data_and_scripts/Parsing/sprot_prot.fasta)
+>Write to a new file only the records from Homo sapiens.
 >
 ---
 
@@ -267,6 +267,7 @@ See the [Solution to challenge #13](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge  #14 homework
 
+>Download input file from [here](data_and_scripts/Parsing/SwissProt-Human.fasta)
 >+  Read a multiple sequence file in FASTA format and only write to a new file the records the sequences of which start with a methionine ('M') and have at least two tryptophan residues ('W')
 >
 >First:
@@ -288,6 +289,7 @@ See the [Solution to challenge #14](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge  #15 homework
 
+>Download the relevant file [here](data_and_scripts/Parsing/ap006852.gbk)
 >Read a Genbank record and write to a file the nucleotide sequence in FASTA format. Extract and write to a file the gene sequence from the Candida albicans genomic DNA, chromosome 7, complete sequence (file ap006852.gbk)
 >
 > Try to write it in FASTA format:
@@ -319,4 +321,3 @@ See the [Solution to challenge #15](6_Parsing-Theory-I.solutions.md)
 +   Use  lists if you have to compare data from different files
 
 Back to [main page](../index.md).
-

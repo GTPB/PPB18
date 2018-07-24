@@ -229,7 +229,7 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 #### Solution to challenge #10
 
 ```
-fasta = open('SwissProt-Human.fasta.fasta')
+fasta = open('SwissProt-Human.fasta')
 seqs = open('seqs.txt', 'w')
 
 for line in fasta:
