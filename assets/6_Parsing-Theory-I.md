@@ -304,7 +304,7 @@ Gtaccgttgtagctctctcgtaaacacaagaaccaacaccaaacaacatactacaactga
 See the [Solution to challenge #15](6_Parsing-Theory-I.solutions.md)
 
 
-## Parsing data records
+## Recap: parsing data records
 
 + Start by visually inspecting the file you want to parse
 
