@@ -280,9 +280,12 @@ See the [Solution to challenge #3](7_Parsing-Theory-II.solutions.md)
 ---
 Challenge #4
 
->Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` from [here](data_and_scripts/Parsing/SwissProt-Human.fasta). Read a multiple sequence file in FASTA format and write to a new file only the records the Uniprot ACs of which are present in the list created in Program 1
+>Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` from [here](data_and_scripts/Parsing/SwissProt-Human.fasta). Download the file `cancer-expressed.txt` containing a list of ACs from [here](data_and_scripts/Parsing/cancer-expressed.txt). >+  Read the ACs and store them in a pyton structure
+>+  Read the human FASTA file one record after the other. Check if the record header contains one of the 10 ACs.
+>+   If YES, copy the header and the sequence to a new file.
 >
----
+----
+
 
 
 See the [Solution to challenge #4](7_Parsing-Theory-II.solutions.md)
