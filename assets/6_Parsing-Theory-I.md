@@ -19,8 +19,8 @@ Challenge #1
 
 
 >
->Open the file `SingleSeq.fasta`, read its content line by line and print it
->Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
+>Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta). Open the file `SingleSeq.fasta`, read its content line by line and print it
+>
 >
 ---
 
@@ -33,8 +33,7 @@ See the [Solution to challenge #1](6_Parsing-Theory-I.solutions.md)
 Challenge #2
 
 >
->Open the file `SingleSeq.fasta`, read its content line by line and write it to another file.
->Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
+>Download the `SingleSeq.fasta` file from [here](data_and_scripts/Parsing/SingleSeq.fasta). Open the file, read its content line by line and write it to another file.
 >
 ---
 
@@ -98,14 +97,14 @@ if 'G' in nucl: print 'G'
 ---
 Challenge #3
 
->Read a sequence in FASTA format  from the file  `SingleSeq.fasta` and print only the header of the sequence
+>Download the file `SingleSeq.fasta` from [here](data_and_scripts/Parsing/SingleSeq.fasta). Read a sequence in FASTA format and print only the header of the sequence
 >
 >
 ```
 >>sp|P31946|1433B_HUMAN 14-3-3 protein beta/alpha OS=Homo sapiens
 MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARWRVISSIEQKTERNEKKQQMGKEYREKIEAELQDICNDVLELLDKYLIPNATQPESKVFYLKMKGDYFRYLSEVASGDNKQTTVSNSQQAYQEAFEISKKEMQPTHPIRLGLALNFSVFYEILNSPEKACSLAKTAFDEAIAELDTLNEESYKDSTLIMQLLRDNLTLWTSENQGDEGDAGEGEN
 ```
->Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
+>
 >
 ---
 
@@ -115,8 +114,7 @@ See the [Solution to challenge #3](6_Parsing-Theory-I.solutions.md)
 Challenge  #4
 
 >
->Read a file in FASTA format and write to a new file only the header of the record.
->Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
+>Download the file `SingleSeq.fasta` from [here](data_and_scripts/Parsing/SingleSeq.fasta). Read the file in FASTA format and write to a new file only the header of the record.
 >
 ---
 
@@ -128,8 +126,7 @@ See the [Solution to challenge #4](6_Parsing-Theory-I.solutions.md)
 Challenge #5
 
 >
->Read a file in FASTA format and write to a new file only the sequence (without the header).
->Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
+>Download the file `SingleSeq.fasta` from [here](data_and_scripts/Parsing/SingleSeq.fasta). Read a file in FASTA format and write to a new file only the sequence (without the header).
 >
 ---
 
@@ -139,8 +136,7 @@ See the [Solution to challenge #5](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge: Merge programs 4 and 5
 
-> In other words, read a file in FASTA format and write the header to a file and the sequence to a different one.
->Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
+> Download the file `SingleSeq.fasta` from [here](data_and_scripts/Parsing/SingleSeq.fasta). Read a file in FASTA format and write the header to a file and the sequence to a different one.
 >
 ---
 
@@ -152,11 +148,10 @@ See the [Solution to merge challenge #4 and #5 ](6_Parsing-Theory-I.solutions.md
 Challenge #6
 
 >Let’s increase the difficulty just a bit…
->
+> Download the file `SingleSeq.fasta` from [here](data_and_scripts/Parsing/SingleSeq.fasta).
 >+   Read a FASTA file line by line
 >+   Save the header in a variable and the sequence in a different one
 >+   Print header and sequence separately
->Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
 >
 ---
 
@@ -179,9 +174,9 @@ See the [Solution to challenge #7](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge #8
 
+>Download the file `SingleSeq.fasta` from [here](data_and_scripts/Parsing/SingleSeq.fasta).
 >+ Read a file in FASTA format line-by-line.
 >+   Print or write the **record** to a file only if the sequence is from Homo sapiens.
->Download the file from [here](data_and_scripts/Parsing/SingleSeq.fasta)
 >
 ---
 
@@ -194,7 +189,7 @@ Challenge  #9
 
 >Very often in reality you will need to analyze several sequences….
 >
-> Consider the content of the file `SwissProt-Human.fasta`
+> Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` [here](data_and_scripts/Parsing/SwissProt-Human.fasta). Consider the content of the file:  
 
 ```
 SwissProt-Human.fasta
@@ -210,18 +205,17 @@ MDDREDLVYQAKLAEQAERYDEMVESMKKVAGMDVELTVEERNLLSVAYKNVIGARRASWRIISSIEQKEENKGGEDKLK
 
 ```
 >
->Download a Uniprot multiple sequence FASTA file [here](data_and_scripts/Parsing/SwissProt-Human.fasta). Write the record headers to a new file.
+> Write the record headers to a new file.
 >
 ---
 
 See the [Solution to challenge #9](6_Parsing-Theory-I.solutions.md)
 
-<br>
-<br>
+
 ---
 Challenge  #10
 
->Download a Uniprot multiple sequence FASTA file [here](data_and_scripts/Parsing/SwissProt-Human.fasta)
+>Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` [here](data_and_scripts/Parsing/SwissProt-Human.fasta).
 >Read a multiple sequence FASTA file and write the sequences to a new file separated by a blank line
 >
 ---
@@ -231,7 +225,7 @@ See the [Solution to challenge #10](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge #11
 
->Download a Uniprot multiple sequence FASTA file [here](data_and_scripts/Parsing/SwissProt-Human.fasta)
+>Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` [here](data_and_scripts/Parsing/SwissProt-Human.fasta).
 >Read a file in FASTA format and copy to a new file the records' Accession Numbers (AC).
 >
 ---
@@ -243,8 +237,9 @@ See the [Solution to challenge #11](6_Parsing-Theory-I.solutions.md)
 
 ---
 Challenge  #12
->Read the multiple sequence FASTA file `sprot_prot.fasta`[here](data_and_scripts/Parsing/sprot_prot.fasta)
->+   Read FASTA records from a file
+
+>Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` [here](data_and_scripts/Parsing/SwissProt-Human.fasta).   
+>+   Read FASTA records from the file
 >+   Count (and print) the cysteine residues in each sequence.
 >
 ---
@@ -256,8 +251,7 @@ See the [Solution to challenge #12](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge  #13
 
->Read the multiple sequence FASTA file `sprot_prot.fasta`[here](data_and_scripts/Parsing/sprot_prot.fasta)
->Write to a new file only the records from Homo sapiens.
+>Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` [here](data_and_scripts/Parsing/SwissProt-Human.fasta). Read the file and write in a new file only the records from Homo sapiens.
 >
 ---
 
@@ -267,7 +261,7 @@ See the [Solution to challenge #13](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge  #14 homework
 
->Download input file from [here](data_and_scripts/Parsing/SwissProt-Human.fasta)
+>Download the Uniprot multiple sequence FASTA file `SwissProt-Human.fasta` [here](data_and_scripts/Parsing/SwissProt-Human.fasta).
 >+  Read a multiple sequence file in FASTA format and only write to a new file the records the sequences of which start with a methionine ('M') and have at least two tryptophan residues ('W')
 >
 >First:
@@ -289,7 +283,7 @@ See the [Solution to challenge #14](6_Parsing-Theory-I.solutions.md)
 ---
 Challenge  #15 homework
 
->Download the relevant file [here](data_and_scripts/Parsing/ap006852.gbk)
+>Download the `ap006852.gbk` file [here](data_and_scripts/Parsing/ap006852.gbk)
 >Read a Genbank record and write to a file the nucleotide sequence in FASTA format. Extract and write to a file the gene sequence from the Candida albicans genomic DNA, chromosome 7, complete sequence (file ap006852.gbk)
 >
 > Try to write it in FASTA format:
