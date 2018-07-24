@@ -5,7 +5,7 @@ Back to [main page](../index.md).
 
 
 
-In many cases you will need to compare data from different files. As an example let's consider two files:
+In many cases you will need to compare data from different files. As an example, consider the two files:
 
 1) A Uniprot multiple sequence FASTA file `SwissProt-Human.fasta`, available [here](data_and_scripts/Parsing/SwissProt-Human.fasta).
 
@@ -292,8 +292,11 @@ See the [Solution to challenge #4](7_Parsing-Theory-II.solutions.md)
 ## Putting together conditions and loops `while` loops
 The while statement is used for executing a set of statements until a given  condition is met
 
+
     **while <condition 1>:
     <statements 1>**
+
+
 ```
 >>> a = 1
 >>> while a < 5:
