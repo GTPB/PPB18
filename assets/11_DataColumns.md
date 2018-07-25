@@ -12,7 +12,7 @@ After this module you can:
 
 <img src="img/neuron.png" alt="slot" style="width: 400px;"/>
 
-We will use the file `neuron_data.txt` containing data on dendrites lengths:
+We will use the file `neuron_data.txt` that can be found [here](data_and_scripts/DataColumns/neuron_data.txt) containing data on dendrites lengths:
 
 ```
 16.38
@@ -26,7 +26,7 @@ We will use the file `neuron_data.txt` containing data on dendrites lengths:
 300.00
 ```
 
-and the file `neuron_data-2.txt` that contains the same data plus an extra column with the indication 1 for primary neurons and 2 for secondary neurons:
+and the file `neuron_data-2.txt` available [here](data_and_scripts/DataColumns/neuron_data-2.txt) that contains the same data plus an extra column with the indication 1 for primary neurons and 2 for secondary neurons:
 
 ```
 1         16.38
@@ -65,7 +65,7 @@ and the file `neuron_data-2.txt` that contains the same data plus an extra colum
 Challenge #1
 
 
-> Write a program that reads the file with neuron lengths (neuron_data.txt) and stores neuron lengths as floating point numbers into a list.
+> Write a program that reads the file `neuron_data.txt` available [here](data_and_scripts/DataColumns/neuron_data.txt) and stores neuron lengths as floating point numbers into a list.
 
 ---
 
@@ -75,7 +75,7 @@ See the [Solution to challenge #1](11_DataColumns.solutions.md)
 ---
 Challenge #2
 
-> Extend the program so that it read data form `neuron_data-2.txt` and  stores primary and secondary neuron lengths to different lists.
+> Extend the program so that it read data form `neuron_data-2.txt` available [here](data_and_scripts/DataColumns/neuron_data-2.txt) and  stores primary and secondary neuron lengths to different lists.
 >
 ---
 
@@ -106,8 +106,7 @@ See the [Solution to challenge #3](11_DataColumns.solutions.md)
 ---
 Challenge #4
 
-Extend program 3 so that it calculates the standard deviation
-of the neuron length.
+>Extend program 3 so that it calculates the standard deviation of the neuron length.
 >
 ---
 
@@ -147,9 +146,10 @@ out.close()
 ```
 
 
-> ####  **Challenge #5**
 ---
->Use two lists with data from `neuron_data-2.txt` to write a table identical to `neuron_data-2.txt`.  Do it using **string concatenation**.
+Challenge #5
+
+>Download the file `neuron_data-2.txt` from [here](data_and_scripts/DataColumns/neuron_data-2.txt). Use two lists with data from `neuron_data-2.txt` to write a table identical to `neuron_data-2.txt`.  Do it using **string concatenation**.
 >
 ---
 
@@ -183,7 +183,7 @@ print  S.format (a,  math.sqrt(a))
 ---
 Challenge #6
 
->Use two lists with data from `neuron_data-2.txt` to write a table identical to `neuron_data-2.txt`. Do it using **string formatting**.
+>Use two lists with data from `neuron_data-2.txt` available [here](data_and_scripts/DataColumns/neuron_data-2.txt) to write a table identical to `neuron_data-2.txt`. Do it using **string formatting**.
 >
 ---
 
@@ -205,7 +205,7 @@ See the [Solution to challenge #6](11_DataColumns.solutions.md)
 ---
 Challenge #7
 
->Write a program that reads the `neuron_data-2.txt` file, calculates the number of primary neurons, their total length, and the shortest and the longest lengths.
+>Write a program that reads the file `neuron_data-2.txt` available [here](data_and_scripts/DataColumns/neuron_data-2.txt), calculates the number of primary neurons, their total length, and the shortest and the longest lengths.
 >
 >Write the results to a file using string formatting.
 >

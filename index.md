@@ -57,7 +57,7 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 
 
 #### Day 4
-##### [Data Searching](assets/13_DataSearching.md) | [NGS pipeline](assets/14_NGS_pipeline.md) | [BLAST Pipeline](assets/15_Running-BLAST_sys.argv.md) | [Python libraries](assets/16_tasks.md)
+##### [Data Searching](assets/13_DataSearching.md) | [BLAST Pipeline](assets/15_Running-BLAST_sys.argv.md) | [Python libraries](assets/16_tasks.md)
 
 #### Day 5
 ##### [Hackaton](assets/HACKATHON_TASKS.md)
