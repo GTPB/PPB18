@@ -324,7 +324,7 @@ Challenge #1
 ---
 
 
-See the [Solution to challenge #1](12_TabularData.solutions.md) 
+See the [Solution to challenge #1](12_TabularData.solutions.md)
 
 
 Sort a table by the first column, then by the second, then by the third, and so on…
@@ -362,9 +362,9 @@ table = sorted(table, key=itemgetter(1,3), reverse=True)
 ---
 Challenge #2
 
-From `neuron_data.txt` generate two tables, one for primary and one for secondary neurons
+>Download the file `neuron_data.txt` from [here](data_and_scripts/TabularData/neuron_data.txt). Generate two tables, one for primary and one for secondary neurons
 >
->The content of the file `neuron_data.txt`:
+>This is the content of the file `neuron_data.txt`:
 
 ```
 Primary 441.462
@@ -404,7 +404,7 @@ Secondary 214.723
 >
 ---
 
-See the [Solution to challenge #2](12_TabularData.solutions.md) 
+See the [Solution to challenge #2](12_TabularData.solutions.md)
 
 ---
 Challenge #3
@@ -413,16 +413,17 @@ Challenge #3
 >
 ---
 
-See the [Solution to challenge #3](12_TabularData.solutions.md) 
+See the [Solution to challenge #3](12_TabularData.solutions.md)
 
 
-> ####  **Challenge #4**
 ---
+Challenge #4
+
 >Turn the table and calculate the length average
 >
 ---
 
-See the [Solution to challenge #4](12_TabularData.solutions.md) 
+See the [Solution to challenge #4](12_TabularData.solutions.md)
 
 
 ---
@@ -432,7 +433,7 @@ Challenge #5
 >
 ---
 
-See the [Solution to challenge #5](12_TabularData.solutions.md) 
+See the [Solution to challenge #5](12_TabularData.solutions.md)
 
 ----
 Challenge #6
@@ -441,7 +442,7 @@ Challenge #6
 >
 ---
 
-See the [Solution to challenge #6](12_TabularData.solutions.md) 
+See the [Solution to challenge #6](12_TabularData.solutions.md)
 
 
 ---
@@ -451,7 +452,7 @@ Challenge #7
 >
 ---
 
-See the [Solution to challenge #7](12_TabularData.solutions.md) 
+See the [Solution to challenge #7](12_TabularData.solutions.md)
 
 
 Back to [main page](../index.md).

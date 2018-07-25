@@ -42,14 +42,17 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 
 #### Day 2
 
-<!-- #### [Repeating Things](assets/RepeatingThings.md) -->
+<!-- -->
 
 ##### Flipped Lesson: Homework [Loops](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Flip_Day1.html) | In class assessment
 
-##### [File Formats](assets/5_FileFormats.md) | [Parsing I](assets/6_Parsing-Theory-I.md) | [Parsing II](assets/7_Parsing-Theory-II.md)  
+#### [Repeating Things](assets/RepeatingThings.md) | [File Formats](assets/5_FileFormats.md) | [Parsing I](assets/6_Parsing-Theory-I.md) | [Parsing II](assets/7_Parsing-Theory-II.md)  
 
 
 #### Day 3
+
+##### Flipped Lesson: Homework [Functions](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Flip_Day2.html)  | In class assessment
+
 ##### [Functions](assets/8_functions.md) | [Best Practices](assets/9_BestPracticesInProgramming.md) |[Error Handling](assets/10_ErrorHandling.md) | [Data Columns](assets/11_DataColumns.md) | [Tabular Data](assets/12_TabularData.md)
 
 

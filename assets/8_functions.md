@@ -64,12 +64,7 @@ s/2.5/Extras/lib/python','/Library/Python/2.
 >>>
 ```
 
-
-Check that the `tgac.py` module is in one of your subdirectories (should be in `~/day3/1-Functions/d3_functions_data_scripts`)
-
-Go to a different directory (e.g. `~/day3/1-Functions`)
-
-Start the interpreter and type:
+Download the  `tgac.py` module code from [here](data_and_scripts/Functions/tgac.py) to your working dierctory. Start the interpreter and type:
 
 ```
 >>>import tgac
@@ -77,15 +72,6 @@ Start the interpreter and type:
 
 What happens?
 
-
-Now try:
-
-```
->>> import sys
->>> sys.path.append('~/Modules/Day3/Functions\
-... Data&Scripts') #check the path on your local machine !!! 
->>> import tgac
-```
 
 ## The built-in function `dir()`
 
@@ -333,12 +319,11 @@ See the [Solution to challenge #3](8_functions.solutions.md)
 Challenge #4
 
 
-Write a function that :
--  Takes as input a file name (of a FASTA file).
--  Opens the file.
--  Returns the header of the sequence record.
->
->Print the header.
+>Write a function that :
+>-  Takes as input a file name (of a FASTA file).
+>-  Opens the file.
+>-  Returns the header of the sequence record.
+>- Print the header.
 >
 ---
 
@@ -350,7 +335,7 @@ See the [Solution to challenge #4](8_functions.solutions.md)
 Challenge #5
 
 
-Insert the function call in a for loop running on a list of 3 sequence file names.
+>Insert the function call in a for loop running on a list of 3 sequence file names.
 >
 ---
 
@@ -360,10 +345,9 @@ See the [Solution to challenge #5](8_functions.solutions.md)
 ---
 Challenge #6
 
-
-Consider two output schemes for exercise 4:
-1. All the the headers are written to the same output file
-2. Each header is written in a separate output file
+>Consider two output schemes for exercise 4:
+>1. All the the headers are written to the same output file
+>2. Each header is written in a separate output file
 >
 ---
 
@@ -473,4 +457,3 @@ The  number  of  arguments  can  be  variable  (i.e.  can  change  from  one fun
 
 
 Back to [main page](../index.md).
-
