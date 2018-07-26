@@ -68,7 +68,7 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 
 ### [Learning objectives](pages/learning_objective.html)
 
-### [Instructors](pages/instructors.html)
+### [Instructors](pages/instructors.md)
 
 ---
 
