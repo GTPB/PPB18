@@ -33,7 +33,7 @@ table = [
 ```
 
 How would you generate this table from a text file?
-
+We will work with the file `table-1.txt` available [here](data_and_scripts/TabularData/table-1.txt). 
 ```
 T = open("table-1.txt")
 
