@@ -1,5 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
-
+Back to [main page](../index.md).
 
 # python libraries tasks
 
