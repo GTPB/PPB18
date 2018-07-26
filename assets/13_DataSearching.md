@@ -18,7 +18,7 @@ Back to [main page](../index.md).
 <img src="img//datser9.png" alt="slot" style="width: 400px;"/>
 
 
-Let's give a look to the content of the tgac.py: 
+Let's give a look to the content of the `tgac.py` available [here](data_and_scripts/DataSearching/tgac.py):
 
 ```
 codonAMINO =  {'GCU':'A','GCC':'A','GCA':'A', 'GCG':'A',
@@ -117,11 +117,11 @@ True
 ---
 Challenge #1
 
->Using the `codonAMINO` dictonary from `tgac.py` translate the sequence in `rna_seq.fasta`. Use a single reading frame.
+>Using the `codonAMINO` dictonary from `tgac.py` available [here](data_and_scripts/DataSearching/tgac.py) translate the sequence in `rna_seq.fasta`. Use a single reading frame.
 >
 ---
 
-See the [Solution to challenge #1](13_DataSearching.solutions.md) 
+See the [Solution to challenge #1](13_DataSearching.solutions.md)
 
 
 
@@ -133,7 +133,7 @@ Challenge #2
 ---
 
 
-See the [Solution to challenge #1](13_DataSearching.solutions.md) 
+See the [Solution to challenge #1](13_DataSearching.solutions.md)
 
 
 
