@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 1 - PPB18 Intro
+title: PPB18 Intro
 ---
 
 
-### In this course you will learn to:
+## In this course you will learn to:
 
 + Read text files (and websites)
 + Selectively extract and manipulate information
@@ -21,7 +21,7 @@ Therefore your future as programmers strongly depends on your will to not stop p
 *Secret: Having problems the solution of which requires programming*
 
 
-### We need your help to:
+## We need your help to:
 
 + start sessions
 + end sessions (recap and feedback)
@@ -30,13 +30,13 @@ Therefore your future as programmers strongly depends on your will to not stop p
 + discuss exercise solutions
 + teach
 
-### Hackathon
+## Hackathon
 
 A **hackathon** (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others involved in software development collaborate intensively on software projects (see [Wikipedia](https://en.wikipedia.org/wiki/Hackathon))
 
 <br/>
 
-### Getting started
+## Getting started
 
 ####  Why are we here?
 #### What are your expectations?
@@ -55,7 +55,7 @@ Challenge
 
 
 
-### How is going to work
+## How is going to work
 
 <!--- <img src="img/Timetable.png" alt="slot" style="width: 100px;"/> --->
 
@@ -63,5 +63,6 @@ Each slot is organised as follows:
 
 <img src="img/slot.png" alt="slot" style="width:400px;height:400px;"/>
 
+<br/>
 
 Back to [main page](../index.md).
