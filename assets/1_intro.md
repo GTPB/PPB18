@@ -1,4 +1,8 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: 1 - PPB18 Intro
+---
+
 
 ### In this course you will learn to:
 
@@ -30,12 +34,12 @@ Therefore your future as programmers strongly depends on your will to not stop p
 
 A **hackathon** (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others involved in software development collaborate intensively on software projects (see [Wikipedia](https://en.wikipedia.org/wiki/Hackathon))
 
-### Getting started
+<br/>
 
+### Getting started
 
 ####  Why are we here?
 #### What are your expectations?
-
 
 
 ---
@@ -58,5 +62,6 @@ Challenge
 Each slot is organised as follows:
 
 <img src="img/slot.png" alt="slot" style="width:400px;height:400px;"/>
+
 
 Back to [main page](../index.md).
