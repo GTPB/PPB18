@@ -1,9 +1,9 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: Pipelines
+---
 
-
-# Pipelines
-
-### Running BLAST from Python
+# Running BLAST from Python
 
 ## Five ways to run BLAST
 -  locally from the shell command line
@@ -12,13 +12,15 @@ Back to [main page](../index.md).
 -  through the NCBI web server using Biopython
 -  using your browser and the BLAST web page
 
-
+<br/>
 
 ## What are the advantages of running BLAST locally?
 
 -  you can search a query sequence in a customised database, e.g. in a newly sequenced genome you are studying, or a set of protein sequences of your interest (e.g. only protein kinases).
 -  you may want to insert the program in a pipeline
 -  only by running BLAST locally you have full control over the sequence database and by that, reproducibility of your search
+
+<br/>
 
 ## Running Blast locally
 -  Download and install the BLAST+ package from [here](http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
@@ -27,6 +29,8 @@ Back to [main page](../index.md).
 -  Otherwise, you have to change to the BLAST directory on the shell and run BLAST from there
 -   Inform the BLAST programs which directory to search for the databases
 -   In other words you have to modify two environment variables: `PATH` and `BLASTDB`
+
+<br/>
 
 ### Modify the `PATH` environment variable
 -  When you install the program from source, you will have to place the downloaded package under a desired directory, e.g. `/home/john`
@@ -48,6 +52,7 @@ setenv PATH ${PATH}:/home/john/ncbi-blast-2.2.23+/bin
 
 >Notice that when you use the dmg disk to install BLAST on Mac OS X (10.4 or higher), all BLAST+ programs will be installed under `/usr/local/ncbi/blast/bin`
 
+<br/>
 
 ### Modify the BLASTDB environment variable
 
@@ -59,6 +64,8 @@ mkdir /home/john/blast/db
 -  This is the directory where you will put all the databases (either downloaded from the BLAST website or your custom ones) that you will use with BLAST.
 -  Save at least a database in `/home/john/blast/db`
 •  If you want to download a database from NCBI, go [here](ftp://ftp.ncbi.nlm.nih.gov/blast/db)
+
+<br/>
 
 ### Create a `.ncbirc` text file in your home directory having the following path specification
 
@@ -107,6 +114,8 @@ command_line = ['blastp','-query',
                 'blout','-db','nr.00']
 subprocess.call(command_line)
 ```
+
+<br/>
 
 ### Passing the input to a Python program from the command line
 
@@ -181,6 +190,8 @@ Challenge #3
 
 See the [Solution to challenge #2](15_Running-BLAST_sys.argv.solutions.md)
 
+<br/>
 
+### Back
 
 Back to [main page](../index.md).
