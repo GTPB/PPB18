@@ -3,7 +3,6 @@ layout: page
 title: PPB18 Intro
 ---
 
-
 ## In this course you will learn to:
 
 + Read text files (and websites)
