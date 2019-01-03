@@ -1,8 +1,7 @@
-Back to [main page](../index.md).
-
-
-
-# Builtins, namespaces, functions
+---
+layout: page
+title: Built-ins, namespaces, functions
+---
 
 ## Python built-ins
 There are objects that are predefined in Python
