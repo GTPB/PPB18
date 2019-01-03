@@ -18,8 +18,7 @@ Python is an object-oriented programming language that is ideal for biological d
 + parsing common file formats (Uniprot, GenBank, PDB, BLAST) with Biopython
 + ways to find and correct program errors
 
-The course will be highly interactive and the students will continuously put theory into practice while learning. By the end of the course, the participants will have a good understanding of Python basics and will have acquired the skills to manage any type of bioinformatics database record and to run applications from scripts. Basic Unix/Linux skills will be provided at the beginning of the course.
-
+The course will be highly interactive and the students will continuously put theory into practice while learning. 
 
 ### Target Audience
 End-users of bioinformatics databases and tools that need to manage large files and/or a large number of files and aim at developing hands-on capabilities for their analysis by writing their own or adapting somebody else's scripts in an autonomous way.
