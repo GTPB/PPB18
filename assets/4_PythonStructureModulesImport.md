@@ -31,14 +31,14 @@ title: The Python structure - Vocabulary, tips and comments
 
 <br/>
 
-## The “dot” syntax
+### The “dot” syntax
 <img src="img/pm5.png" alt="slot" style="width: 400px;;"/>
 <img src="img/pm6.png" alt="slot" style="width: 400px;;"/>
 <img src="img/pm7.png" alt="slot" style="width: 400px;;"/>
 
 <br/>
 
-# The matryoshka doll-like structure of Python
+## The matryoshka doll-like structure of Python
 
 <img src="img/pm8.png" alt="slot" style="width: 400px;;"/>
 
