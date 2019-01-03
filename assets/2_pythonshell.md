@@ -1,7 +1,7 @@
-Back to [main page](../index.md).
-
-
-# The Python Shell
+---
+layout: page
+title: The Python Shell
+---
 
 In this module you can learn:
 + How to use Python as a pocket calculator
@@ -248,7 +248,7 @@ Challenge  #5
 
 See See the [Solution to challenge #5](2_pythonshell.solutions.md)
 
-
+<br/>
 
 ### Recap
 
@@ -258,5 +258,6 @@ calculator.
 +  Modules are containers for data and functions
 +  You can leave the shell by Ctrl-D.
 
+<br/> 
 
 Back to [main page](../index.md).
