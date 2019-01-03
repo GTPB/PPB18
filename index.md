@@ -23,15 +23,6 @@ The course will be highly interactive and the students will continuously put the
 ### Target Audience
 End-users of bioinformatics databases and tools that need to manage large files and/or a large number of files and aim at developing hands-on capabilities for their analysis by writing their own or adapting somebody else's scripts in an autonomous way.
 
-
-### Course Pre-requisites
-Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot, Blast, ENSEMBL, PDB, etc. The course is directed to biologists with little or no programming experience and aims at making them capable to use Python to autonomously manage and analyse biological data.
-
-
-Participants are asked to take a look at [pre-course reading material on the Unix/Linux command line](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Flip_Day0.html) *before* the course, so that we can avoid wasting valuable training time and enter the core subject almost directly, after a brief discussion.
-
-
-
 ### Detailed Program
 
 
@@ -60,8 +51,6 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 
 #### Day 5
 ##### [Hackaton](assets/HACKATHON_TASKS.md)
-
----
 
 ---
 
