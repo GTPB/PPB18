@@ -1,4 +1,7 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: REpeating things - Solutions
+---
 
 #### Solution to challenge #1
 ```
@@ -13,6 +16,7 @@ for aa in seq:
 ```
 Back to the [lesson](RepeatingThings.md)
 
+<br/>
 
 #### Solution to challenge #2
 ```
@@ -23,6 +27,7 @@ for line in telomerase:
 ```
 Back to the [lesson](RepeatingThings.md)
 
+<br/>
 
 #### Solution to challenge #3
 ```
@@ -37,4 +42,8 @@ for aa in "ACDEFGHKILMNPQRSTVYW":
 ```
 Back to the [lesson](RepeatingThings.md)
 
-Back to [main page](../index.md).
+<br/>
+
+### Back
+
+Back to [first page](../index.md).
