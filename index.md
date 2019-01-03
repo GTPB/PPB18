@@ -60,11 +60,4 @@ End-users of bioinformatics databases and tools that need to manage large files 
 
 ---
 
-
-### This course was taught at:
-
-- [PPB17 Programming in Python for Biologists](ftp://gtpb.igc.gulbenkian.pt/bicourses/2017/PPB17/index.html) Oeiras - Portugal -  November 27-30 2017
-- [Python for Life Scientists](https://elixir-iib-training.github.io/website/docs/programme2016_copy.html) Bari - Italy - September 26-30 2016
-- [BPBR16 Programming in Python for Biologists](http://gtpb.igc.gulbenkian.pt/bicourses/BPBR16/) Oeiras - Portugal - July 11-15 2016
-
 The source for this course webpage is [on github](https://github.com/GTPB/Web_course_template).
