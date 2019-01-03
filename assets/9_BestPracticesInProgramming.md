@@ -27,10 +27,10 @@ Become faster and more efficient<br/>
 Share your work without pain<br/>
 Collaborate more effectively<br/>
 <strong>Trust your results</strong><br/>
-Reproduce your results**<br/>
+<strong>Reproduce your results</strong><br/>
 In other words…<br/>
-**Do a better science**<br/>
-Source[Software Carpentry](https://software-carpentry.org)<br/>
+<strong>Do a better science</strong><br/>
+Source <a href="https://software-carpentry.org">Software Carpentry</a><br/>
 </center>
 
 <br/>
