@@ -264,11 +264,11 @@ hg up                     #to your computer
 
 >*“Code without test is broken by design” (Jacob Kaplan Moss)*
 
-- **Manual tests**                     
--  **Automated tests**
+-   **Manual tests**                     
+-   **Automated tests**
 -   Sometimes, this is as simple as running it on a sample data
 you actually want to transform, and eyeballing the results
--  Create small data files or artificial input data for testing
+-   Create small data files or artificial input data for testing
 -   In more complex situations, you may select subsets of your
 actual data, and make sure that they’re handled correctly.
 
