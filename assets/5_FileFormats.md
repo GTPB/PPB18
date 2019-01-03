@@ -10,6 +10,7 @@ There are four types of computer readable formats in bioinformatics
 - Tables
 - XML-like
 
+<br/>
 
 <img src="img/ff1.png" alt="slot" style="width: 400px;;"/>
 <img src="img/ff2.png" alt="slot" style="width: 400px;;"/>
