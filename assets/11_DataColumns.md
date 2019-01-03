@@ -1,6 +1,7 @@
-Back to [main page](../index.md).
-
-# Data columns
+---
+layout: page
+title: Data columns
+---
 
 ## Reading  data from a table and writing data to a table
 
@@ -9,6 +10,8 @@ After this module you can:
 + Calculate the average value of a list of numbers
 + Calculate the average value of the numbers of a table's column
 + Write a list of numbers to a text file
+
+<br/>
 
 <img src="img/neuron.png" alt="slot" style="width: 400px;"/>
 
@@ -39,6 +42,9 @@ and the file `neuron_data-2.txt` available [here](data_and_scripts/DataColumns/n
 2         346.00
 2         300.00
 ```
+
+<br/>
+
 ### What do we have to do?
 
 +  Read data columns from files
@@ -49,6 +55,8 @@ and the file `neuron_data-2.txt` available [here](data_and_scripts/DataColumns/n
 
 
 **Our Goal  is to beat Excel at its own game!**
+
+<br/>
 
 ## Some useful built-in functions
 
@@ -81,6 +89,7 @@ Challenge #2
 
 See the [Solution to challenge #2](11_DataColumns.solutions.md)
 
+<br/>
 
 ## Manipulating data in the columns
 
@@ -112,7 +121,7 @@ Challenge #4
 
 See the [Solution to challenge #4](11_DataColumns.solutions.md)
 
-
+<br/>
 
 ## How to **write** data to columns
 
@@ -155,7 +164,7 @@ Challenge #5
 
 See the [Solution to challenge #5](11_DataColumns.solutions.md)
 
-
+<br/>
 
 ## String formatting
 
@@ -189,12 +198,14 @@ Challenge #6
 
 See the [Solution to challenge #6](11_DataColumns.solutions.md)
 
-
+<br/>
 
 ## Reading and writing tables
 + Read each table column into a different list
 +  Use a for loop running over the length of the list to write the elements of the lists to a file (using string concatenation or formatting)
 +  You can write the columns in a different order
+
+<br/>
 
 ### Match the formatting expressions and their result
 
@@ -216,4 +227,6 @@ Challenge #7
 See the [Solution to challenge #7](11_DataColumns.solutions.md)
 
 
-Back to [main page](../index.md).
+<br/>
+
+Back to [first page](../index.md).
