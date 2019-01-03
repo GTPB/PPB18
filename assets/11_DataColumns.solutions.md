@@ -1,4 +1,7 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: Data Columns - Solutions
+---
 
 #### Solution to challenge #1
 
@@ -12,6 +15,7 @@ print neuron_lengths
 ```
 Back to [lesson](11_DataColumns.md)
 
+<br/>
 
 #### Solution to challenge #2
 ```
@@ -30,6 +34,7 @@ print primary, secondary
 
 Back to [lesson](11_DataColumns.md)
 
+<br/>
 
 #### Solution to challenge #3
 Ona possible solution
@@ -66,7 +71,7 @@ print "secondary neuron average: ", secondary_av
 
 Back to [lesson](11_DataColumns.md)
 
-
+<br/>
 
 #### Solution to challenge #4
 
@@ -95,6 +100,7 @@ print primary_av, stddev
 
 Back to [lesson](11_DataColumns.md)
 
+<br/>
 
 #### Solution to challenge #5
 
@@ -111,6 +117,7 @@ out.close()
 
 Back to [lesson](11_DataColumns.md)
 
+<br/>
 
 #### Solution to challenge #6
 ```
@@ -142,6 +149,8 @@ Outfile.close()
 
 Back to [lesson](11_DataColumns.md)
 
+<br/>
+
 #### Solution to challenge #7
 ```
 data = []
@@ -165,5 +174,7 @@ out.close()
 ```
 
 Back to [lesson](11_DataColumns.md)
+
+<br/>
 
 Back to [main page](../index.md).
