@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1 - Plan your experiment using NGS technologies
+title: Error Handling
 ---
 
 ## Exception handling
@@ -42,7 +42,7 @@ else:
     main(data)
 ```
 
-[Built-in exceptions](https://docs.python.org/2/library/exceptions.html)
+[**Built-in exceptions**](https://docs.python.org/2/library/exceptions.html)
 
 
 <img src="img/ErrorHandling.png" alt="slot" style="width: 500px;"/>
