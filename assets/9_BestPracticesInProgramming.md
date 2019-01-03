@@ -30,7 +30,7 @@ Collaborate more effectively<br/>
 <strong>Reproduce your results</strong><br/>
 In other words…<br/>
 <strong>Do a better science</strong><br/>
-Source <a href="https://software-carpentry.org">Software Carpentry</a><br/>
+    <em>Source <a href="https://software-carpentry.org">Software Carpentry</a></em><br/>
 </center>
 
 <br/>
