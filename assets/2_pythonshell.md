@@ -119,7 +119,7 @@ Find the matching pairs of functions and x/y values.
 
 
 ### Components of Python
-<img src="img/pycomponents.png" alt="slot" style="width: 310px;"/>
+<img src="img/pycomponents.png" alt="slot" style="width: 400px;"/>
 
 
 
@@ -168,7 +168,7 @@ Challenge #3
 >+   Print the distance to the screen
 >
 >The  formula for  calculating the distance is:
-> <img src="img/cartesiandistance.png" alt="slot" style="width: 400px;"/>
+> <img src="img/cartesiandistance.png" alt="slot" style="width: 310px;"/>
 >
 ---
 
