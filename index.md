@@ -51,7 +51,7 @@ End-users of bioinformatics databases and tools that need to manage large files 
 
 ---
 
-## [Learning objectives and pre-requesites](pages/learning_objective.html)
+## [Learning objectives and pre-requesites](pages/objectives_prerequesites.md)
 
 ## [Instructors](pages/instructors.md)
 
