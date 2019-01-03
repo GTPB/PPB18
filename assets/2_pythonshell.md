@@ -260,4 +260,4 @@ calculator.
 
 <br/> 
 
-Back to [main page](../index.md).
+Back to [first page](../index.md).
