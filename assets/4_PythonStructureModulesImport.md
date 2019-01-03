@@ -1,6 +1,7 @@
-Back to [main page](../index.md).
-
-## The Python structure - Vocabulary, tips and comments
+---
+layout: page
+title: The Python structure - Vocabulary, tips and comments
+---
 
 - Python code can be written in two different "containers":
   - Interactive interpreter (not permanent)
@@ -67,6 +68,6 @@ Challenge
 > -    Type: `python my_first_run.py`
 
 
-
+<br/>
 
 Back to [main page](../index.md).
