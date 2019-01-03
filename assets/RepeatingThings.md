@@ -5,6 +5,8 @@ title: Repeating things
 
 <img src="img/pp7.png" alt="slot" style="width: 400px;"/>
 
+<br/>
+
 ## Counting amino acids
 
 ```
