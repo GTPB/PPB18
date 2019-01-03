@@ -119,7 +119,7 @@ Find the matching pairs of functions and x/y values.
 
 
 ### Components of Python
-<img src="img/pycomponents.png" alt="slot" style="width: 400px;"/>
+<img src="img/pycomponents.png" alt="slot" style="width: 310px;"/>
 
 
 
