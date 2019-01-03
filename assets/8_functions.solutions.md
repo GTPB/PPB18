@@ -1,4 +1,7 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: Built-ins, namespaces, functions - Solutions
+---
 
 #### Solution to challenge #1
 
@@ -19,6 +22,7 @@ print triangle_area(2.28, 3.55)
 
 Back to the [lesson](8_functions.md)
 
+<br/>
 
 #### Solution to challenge #2
 
@@ -33,6 +37,7 @@ print get_values(15, 8)
 ```
 Back to the [lesson](8_functions.md)
 
+<br/>
 
 #### Solution to challenge #3
 
@@ -51,7 +56,7 @@ p2 = (45.83, 31.11, 92.04)
 print "Distance:", distance(p1, p2)
 ```
 <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-3">back</a>
-<br>
+
 <br>
 
 #### Solution to challenge #4
@@ -68,6 +73,8 @@ print return_header('SingleSeq.fasta')
 
 
 Back to the [lesson](8_functions.md)
+
+<br/>
 
 #### Solution to challenge #5
 ```
@@ -88,6 +95,7 @@ for name in filenames:
 
 Back to the [lesson](8_functions.md)
 
+<br/>
 
 #### Solution to challenge #6
 one possible solution
@@ -133,6 +141,8 @@ output.close()
 
 Back to the [lesson](8_functions.md)
 
+<br/>
+
 #### Solution to challenge #7
 
 ```
@@ -162,5 +172,7 @@ genbank2fasta(filename)
 
 Back to the [lesson](8_functions.md)
 
-Back to [main page](../index.md).
+<br/>
+
+Back to [first page](../index.md).
 
