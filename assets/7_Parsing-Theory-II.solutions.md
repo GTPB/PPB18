@@ -1,5 +1,7 @@
-Back to [main page](../index.md).
-
+---
+layout: page
+title: Parsing data records II - Solutions
+---
 
 #### Solution to challenge #1
 
@@ -16,7 +18,7 @@ print cancer_list
 
 Back to the [lesson](7_Parsing-Theory-II.md)
 
-
+<br/>
 
 #### Solution to challenge #2
 
@@ -31,6 +33,7 @@ print AC_list
 ```
 Back to the [lesson](7_Parsing-Theory-II.md)
 
+<br/>
 
 #### Solution to challenge #3
 
@@ -59,6 +62,7 @@ Outfile.close()
 
 Back to the [lesson](7_Parsing-Theory-II.md)
 
+<br/>
 
 #### Solution to challenge #4
 One possible solution
@@ -174,5 +178,6 @@ Outfile.close()
 
 Back to the [lesson](7_Parsing-Theory-II.md)
 
+<br/>
 
-Back to [main page](../index.md).
+Back to [first page](../index.md).
