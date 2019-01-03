@@ -136,6 +136,8 @@ See the [Solution to challenge #3](RepeatingThings.solutions.md)
 ### Recap
 <img src="img/pp9.png" alt="slot" style="width: 500px;"/>
 
+<br/>
+
 ### Back
 
 Back to [first page](../index.md).
