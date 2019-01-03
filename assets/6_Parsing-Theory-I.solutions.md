@@ -220,7 +220,7 @@ headers.close()
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
+<br/>
 
 #### Solution to challenge #10
 
