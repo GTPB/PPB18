@@ -1,6 +1,7 @@
-Back to [main page](../index.md).
-
-#Writing good programs
+---
+layout: page
+title: Writing good programs
+---
 
 Best practices in programming help you to do a more efficient and better science
 
@@ -9,6 +10,7 @@ Best practices in programming help you to do a more efficient and better science
 
 Why should we consider science **rarely reproducible results of non tested programs?**
 
+<br/>
 
 ### Software carpentry
 *(best practices to write good programming projects)*
@@ -31,6 +33,7 @@ In other words…<br/>
 Source[Software Carpentry](https://software-carpentry.org)<br/>
 </center>
 
+<br/>
 
 ## Best practices to write better programs (or entire projects)
 
@@ -46,6 +49,8 @@ Source[Software Carpentry](https://software-carpentry.org)<br/>
 **Cycle of software development**<br/>
 8.  Release your code
 9.  Code review                                        
+
+<br/>
 
 ### Design the project upfront
 
@@ -64,6 +69,7 @@ Good scientists do not perform experiments before developing a hypothesis and pl
 Amfahr J, Bustamante A, Rome P. Exploring Agile: The Seapine Agile Expedition
 </center>
 
+<br/>
 
 ### How much design?
 
@@ -78,6 +84,8 @@ those inputs **will be transformed** by the program(s), and
 
 Identifying the appropriate technologies or programming
 languages is a vital decision during the design phase
+
+<br/>
 
 ### Techniques to write clean, transparent programs
 
@@ -123,6 +131,8 @@ if __name__ == '__main__':
     write_fasta(seq, OUTPUT_FILE)
 ```
 
+<br/>
+
 ### Write smaller programs
 **Simpler is better**
 
@@ -140,6 +150,7 @@ Write programs in such a way that errors are easy to find
 >*“Today I had a successful day at programming: I deleted 300 lines of code.”**
 >(Lorenzo Catucci)
 
+<br/>
 
 ### Format your source code using coding guidelines
 
@@ -152,6 +163,8 @@ Write programs in such a way that errors are easy to find
 
 
 Example: PEP8 coding guidelines and the pylint tool
+
+<br/>
 
 ### Document your programs
 
@@ -173,6 +186,7 @@ An acceptable level of documentation might provide:
 
 *Amfahr J, Bustamante A, Rome P. Exploring Agile: The Seapine Agile Expedition*
 
+<br/>
 
 ### Use data standard
 Input and output of your programs should comply community-accepted data standards<br/>
@@ -183,6 +197,7 @@ i.e. include documentation (metadata) describing the data
 +   Format of the data
 +   Definitions and assumption that allow interpreting the data
 
+<br/>
 
 ### Use a quality control process to ensure reproducibility of results
 
@@ -191,6 +206,7 @@ Reproducibility requires three things:
 
 <img src="img/reproducibility.png" alt="slot" style="width: 400px;"/>
 
+<br/>
 
 ### Version control system (repository)
 
@@ -241,6 +257,9 @@ hg push                   #send the files to the server
 hg pull                   #you can update changes from the server
 hg up                     #to your computer
 ```
+
+<br/>
+
 ### Test your code
 
 >*“Code without test is broken by design” (Jacob Kaplan Moss)*
@@ -253,5 +272,6 @@ you actually want to transform, and eyeballing the results
 -   In more complex situations, you may select subsets of your
 actual data, and make sure that they’re handled correctly.
 
+<br/>
 
-Back to [main page](../index.md).
+Back to [first page](../index.md).
