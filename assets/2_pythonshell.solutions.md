@@ -1,4 +1,8 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: The Python Shell - Solutions
+---
+
 #### Solution to challenge #2
 ```
 from math import pi
@@ -11,8 +15,7 @@ Advantages: if the module is big and we need only one  function; we not using th
 
 Back to the [lesson](2_pythonshell.md)
 
-<br>
-<br>
+<br/>
 
 #### Solution to challenge #3
 ```
@@ -32,8 +35,7 @@ print dist
 
 Back to the [lesson](2_pythonshell.md)
 
-<br>
-<br>
+<br/>
 
 #### Solution to challenge #5
 ```
@@ -51,6 +53,7 @@ deltaG = deltaG0 + R * T * math.log(ADP * Pi / ATP)
 print deltaG
 ```
 Back to the [lesson](2_pythonshell.md)
-<br>
+
+<br/>
 
 Back to [main page](../index.md).
