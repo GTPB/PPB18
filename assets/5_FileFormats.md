@@ -23,4 +23,4 @@ There are four types of computer readable formats in bioinformatics
 
 <br/>
 
-Back to [main page](../index.md).
+Back to [first page](../index.md).
