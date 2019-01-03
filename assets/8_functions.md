@@ -15,6 +15,8 @@ There are objects that are predefined in Python
 When you use something without defining it, it means
 that you are using a **built-in** object
 
+<br/>
+
 ## Namespaces
 
 The collection of object names defined in a module represents the global **namespace** of that module
@@ -27,7 +29,7 @@ The same name (e.g. `src`) in two different modules (e.g. `module_1.py` and `mod
 
 > `Module_1.src`  is NOT the same as   `Module_2.src`
 
-
+<br/>
 
 ## Import
 
@@ -72,6 +74,7 @@ Download the  `tgac.py` module code from [here](data_and_scripts/Functions/tgac.
 
 What happens?
 
+<br/>
 
 ## The built-in function `dir()`
 
@@ -80,6 +83,8 @@ What happens?
 ```
 >>>dir(tgac)
 ```
+
+<br/>
 
 ## Functions
 
@@ -119,6 +124,8 @@ Challenge #1
 
 See the [Solution to challenge #1](8_functions.solutions.md)
 
+<br/>
+
 ## General remarks
 
 - The statement to define a function is `def`
@@ -129,6 +136,7 @@ See the [Solution to challenge #1](8_functions.solutions.md)
 by a colon character followed by *indented instructions*
 
 - The last indented statement marks the end of a function definition
+
 
 ### More remarks
 
@@ -156,6 +164,7 @@ Challenge #2
 
 See the [Solution to challenge #2](8_functions.solutions.md)
 
+<br/>
 
 ## Remarks
 -  The statement `return` exits a function, optionally passing
@@ -174,6 +183,9 @@ back a value to the caller.
 101
 >>>
 ```
+
+<br/>
+
 ## Function arguments
 
 Every Python object can be passed as argument to a function.<br>
@@ -212,6 +224,7 @@ AND
 Functions return multiple values in the form of
 **tuples** as well
 
+<br/>
 
 ## Tuples
 
@@ -281,6 +294,7 @@ It is possible to assign a name to the arguments of a function. In this case, th
 >>>
 ```
 
+<br/>
 
 ## Default arguments
 
@@ -295,6 +309,8 @@ print_funct(10, "ACCTGGCACAA")
 
 print_funct(10)
 ```
+
+<br/>
 
 ## Summary
 
@@ -365,8 +381,7 @@ Challenge #7
 
 See the [Solution to challenge #7](8_functions.solutions.md)
 
-
-
+<br/>
 
 ## General remarks
 
@@ -455,5 +470,6 @@ The  number  of  arguments  can  be  variable  (i.e.  can  change  from  one fun
 {'num': 100, 'seq': 'ACCTGGCACAA', 'num2': 200}
 ```
 
+<br/>
 
-Back to [main page](../index.md).
+Back to [first page](../index.md).
