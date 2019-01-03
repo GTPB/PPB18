@@ -1,4 +1,7 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: Data Searching - SOlutions
+---
 
 #### Solution to challenge #1
 
@@ -29,6 +32,7 @@ Out.write(prot + '\n')
 
 Back to the [lesson](13_DataSearching.md)
 
+<br/>
 
 #### Solution to challenge #2
 ```
@@ -49,6 +53,7 @@ prot = ''
 
 Back to the [lesson](13_DataSearching.md)
 
+<br/>
+### Back
 
-
-Back to [main page](../index.md).
+Back to [first page](../index.md).
