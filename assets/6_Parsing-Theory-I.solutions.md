@@ -1,4 +1,7 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: Parsing data records I - Solutions
+---
 
 <a name="c1"></a>
 #### Solution to challenge #1
@@ -13,7 +16,7 @@ for line in seq:
 
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
+<br/>
 
 #### Solution to challenge #2
 
@@ -28,7 +31,7 @@ seq_2.close()
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
+<br/>
 
 #### Solution to challenge #3
 A number of possible solutions
@@ -67,10 +70,7 @@ for line in seq:
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
-
-
-
+<br/>
 
 #### Solution to challenge #4
 
@@ -86,9 +86,7 @@ header.close()
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
-
-
+<br/>
 
 #### Solution to challenge #5
 
@@ -104,7 +102,7 @@ seq.close()
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
+<br/>
 
 #### Solution to challenge #4 and #5 mergred
 
@@ -125,8 +123,7 @@ seq.close()
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
-
+<br/>
 
 #### Solution to challenge #6
 
@@ -145,8 +142,7 @@ print header, seq
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
-
+<br/>
 
 #### Solution to challenge #7
 
@@ -167,7 +163,7 @@ print header, seq, num_cys
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
+<br/>
 
 #### Solution to challenge #8
 
@@ -205,7 +201,7 @@ Therefore `header` here is treated as Boolean:
 
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
+<br/>
 
 #### Solution to challenge #9
 ```
@@ -245,7 +241,7 @@ seqs.write(line.strip() + '\n')
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
+<br/>
 
 #### Solution to challenge #11
 
@@ -262,8 +258,7 @@ Outfile.close()
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
-
+<br/>
 
 #### Solution to challenge #12
 
@@ -307,8 +302,7 @@ for line in fasta:
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
-
+<br/>
 
 #### Solution to challenge #13
 One possible solution:
@@ -354,8 +348,7 @@ output.close()
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
-
+<br/>
 
 #### Solution II to challenge #14
 ```
@@ -383,7 +376,7 @@ outfile.close()
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
-
+<br/>
 
 #### Solution II to challenge #15
 
@@ -410,6 +403,6 @@ OutputFile.close()
 ```
 Back to the [lesson](6_Parsing-Theory-I.md)
 
+<br/>
 
-
-Back to [main page](../index.md).
+Back to [first page](../index.md).
