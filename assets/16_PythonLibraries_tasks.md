@@ -1,6 +1,9 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: Python libraries 
+---
 
-# python libraries tasks
+## python libraries tasks
 
 1. Using R from Python (need to install rpy2) <br>
 Python session 13.2.2 <br>
@@ -28,3 +31,9 @@ exercise 16.1 <br>
 
 5. pandas (need to install pandas) <br>
 Ebook <br>
+
+<br/>
+
+### Back
+
+Back to [first page](../index.md).
