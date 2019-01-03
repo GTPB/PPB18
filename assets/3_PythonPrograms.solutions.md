@@ -11,6 +11,8 @@ print a
 ```
 Back to the [lesson](3_PythonPrograms.md)
 
+<br/>
+
 #### Solution to challenge #4
 One possible solution
 ```
