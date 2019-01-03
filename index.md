@@ -30,17 +30,11 @@ End-users of bioinformatics databases and tools that need to manage large files 
 
 ##### [Intro](assets/1_intro.md) | [Python Shell](assets/2_pythonshell.md) | [Python Programs](assets/3_PythonPrograms.md) | [Structures and Modules](assets/4_PythonStructureModulesImport.md)
 
-<br/>
-
 ### Day 2
-
-<!-- -->
 
 ##### Flipped Lesson: Homework [Loops](https://rawgit.com/BioinformaticsTraining/Critical-Guides/gh-pages/HTML/Flip_Day1.html) | In class assessment
 
 #### [Repeating Things](assets/RepeatingThings.md) | [File Formats](assets/5_FileFormats.md) | [Parsing I](assets/6_Parsing-Theory-I.md) | [Parsing II](assets/7_Parsing-Theory-II.md)  
-
-<br/>
 
 ### Day 3
 
@@ -48,12 +42,9 @@ End-users of bioinformatics databases and tools that need to manage large files 
 
 ##### [Functions](assets/8_functions.md) | [Best Practices](assets/9_BestPracticesInProgramming.md) |[Error Handling](assets/10_ErrorHandling.md) | [Data Columns](assets/11_DataColumns.md) | [Tabular Data](assets/12_TabularData.md)
 
-<br/>
-
 ### Day 4
-##### [Data Searching](assets/13_DataSearching.md) | [BLAST Pipeline](assets/15_Running-BLAST_sys.argv.md) | [Python libraries](assets/16_PythonLibraries_tasks.md)
 
-<br/>
+##### [Data Searching](assets/13_DataSearching.md) | [BLAST Pipeline](assets/15_Running-BLAST_sys.argv.md) | [Python libraries](assets/16_PythonLibraries_tasks.md)
 
 ### Day 5
 ##### [Hackaton](assets/HACKATHON_TASKS.md)
