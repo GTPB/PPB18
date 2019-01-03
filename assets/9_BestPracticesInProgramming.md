@@ -147,7 +147,7 @@ with a single line of well-readable code.**
 
 Write programs in such a way that errors are easy to find
 
->*“Today I had a successful day at programming: I deleted 300 lines of code.”**
+>*“Today I had a successful day at programming: I deleted 300 lines of code.”*
 >(Lorenzo Catucci)
 
 <br/>
