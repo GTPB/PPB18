@@ -51,6 +51,7 @@ _ _
 81.0
 ```
 
+<br/>
 
 ### The interactive Python shell
 You can access the shell by typing `python` in a command-line terminal
@@ -82,7 +83,7 @@ numbers
 >
 ----
 
-
+<br/>
 
 ### Variables
 Variables are containers for data.
@@ -97,6 +98,8 @@ Variable names may be composed of letters, underscores and, after the first posi
 >> silk
 36
 ```
+
+<br/>
 
 ### The math module
 
@@ -118,10 +121,12 @@ Find the matching pairs of functions and x/y values.
 <img src="img/mathgame.png" alt="slot" style="width: 400px;"/>
 
 
+<br/>
+
 ### Components of Python
 <img src="img/pycomponents.png" alt="slot" style="width: 400px;"/>
 
-
+<br/>
 
 ### The Dogma of Programming
 
