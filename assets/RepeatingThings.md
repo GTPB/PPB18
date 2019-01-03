@@ -1,7 +1,7 @@
-Back to [main page](../index.md).
-
-
-# Repeating things
+---
+layout: page
+title: Repeating things
+---
 
 <img src="img/pp7.png" alt="slot" style="width: 400px;"/>
 
@@ -16,6 +16,9 @@ for amino_acid in "ACDEFGHIKLMNPQRSTVWY":
   number = insulin.count(amino_acid)
   print amino_acid, number
 ```
+
+<br/>
+
 ## Repetitive tasks
 Consider the solutions of challenge #4 from previous session:
 
@@ -50,6 +53,7 @@ for base in "ACTG":
 
 The commands that are repeated must be **indented (shifted right by four spaces)**.
 
+<br/>
 
 ## Compare
 ```
@@ -78,6 +82,7 @@ Challenge #1
 
 See the [Solution to challenge #1](RepeatingThings.solutions.md)
 
+<br/>
 
 ## Use a `for` loop to read a file line by line
 ```
@@ -85,6 +90,8 @@ Input_file = open(“my_file.txt”)
 for line in Input_file:
   print line
 ```
+
+<br/>
 
 ## Look how beautiful it can be…
 ```
@@ -106,6 +113,8 @@ Challenge #2
 
 See the [Solution to challenge #2](RepeatingThings.solutions.md)
 
+<br/>
+
 ## Manipulating string
 <img src="img/pp8.png" alt="slot" style="width: 400px;"/>
 
@@ -120,5 +129,11 @@ Challenge #3
 
 See the [Solution to challenge #3](RepeatingThings.solutions.md)
 
+<br/>
+
 ### Recap
 <img src="img/pp9.png" alt="slot" style="width: 400px;"/>
+
+### Back
+
+Back to [first page](../index.md).
