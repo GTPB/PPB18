@@ -1,4 +1,7 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: BLAST Pipelines
+---
 
 
 ## NGS analysis: an example of a pipeline
