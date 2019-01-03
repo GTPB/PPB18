@@ -58,4 +58,4 @@ End-users of bioinformatics databases and tools that need to manage large files 
 
 ---
 
-The source for this course webpage is [on github](https://github.com/GTPB/Web_course_template).
+The source for this course webpage is [on github](https://github.com/maccardoso/PPB18/).
