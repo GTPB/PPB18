@@ -194,4 +194,4 @@ See the [Solution to challenge #2](15_Running-BLAST_sys.argv.solutions.md)
 
 ### Back
 
-Back to [main page](../index.md).
+Back to [first page](../index.md).
