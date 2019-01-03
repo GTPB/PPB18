@@ -29,10 +29,14 @@ title: The Python structure - Vocabulary, tips and comments
 
 - The objects contained in modules (and, if you want to, in classes and functions) are: data structures; variable definitions; operators; control flow statements.
 
+<br/>
+
 ## The “dot” syntax
 <img src="img/pm5.png" alt="slot" style="width: 400px;;"/>
 <img src="img/pm6.png" alt="slot" style="width: 400px;;"/>
 <img src="img/pm7.png" alt="slot" style="width: 400px;;"/>
+
+<br/>
 
 # The matryoshka doll-like structure of Python
 
