@@ -1,0 +1,1 @@
+By the end of the course, the participants will have a good understanding of Python basics and will have acquired the skills to manage any type of bioinformatics database record and to run applications from scripts. Basic Unix/Linux skills will be provided at the beginning of the course.
