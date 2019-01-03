@@ -10,9 +10,6 @@ title: The Python structure - Vocabulary, tips and comments
 - The content of a module can be used in a script (or in a different module) by importing the module
 
 - Scripts, programs, modules can be  written in text files.
-
-![](img/pm1.png)
-
 <img src="img/pm1.png" alt="slot" style="width: 400px;;"/>
 <img src="img/pm2.png" alt="slot" style="width: 400px;;"/>
 
