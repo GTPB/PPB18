@@ -1,4 +1,7 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: Python programs - Solutions
+---
 
 #### Solution to challenge #2
 
@@ -31,5 +34,7 @@ elem =  dna.count ('G')
 print  elem
 ```
 Back to the [lesson](3_PythonPrograms.md)
+
+<br/>
 
 Back to [main page](../index.md).
