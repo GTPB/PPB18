@@ -1,9 +1,7 @@
-Back to [main page](../index.md).
-
-
-# Parsing data records II
-
-
+---
+layout: page
+title: Parsing data records II
+---
 
 In many cases you will need to compare data from different files. As an example, consider the two files:
 
@@ -58,6 +56,7 @@ In order to compare the content of the two files, you might first want to store 
 ```
 ['Q5XXA6', 'Q9Y5P2', 'Q14667', 'O75387', 'Q8WV07','Q8CH62', 'Q9GZY1', 'Q9NQQ7', 'Q8VCX2', 'Q7Z769']
 ```
+<br/>
 
 ## List data structure
 
@@ -79,6 +78,9 @@ L = [1, [2,3], 4.52, 'DNA']
 L = []  # the empty list
 
 ```
+
+<br/>
+
 ## Operations with lists
 
 <img src="img/parsingimgCHANGE_cccp.png" alt="slot" style="width: 400px;"/>
@@ -198,6 +200,8 @@ The elements of a list can be changed/replaced after the list has been defined
 [1, 2, 3, 4, 5, 6, 7, 8]
 ```
 
+<br/>
+
 ## Putting together lists and loops
 
 `range()` and `xrange()` built-in functions
@@ -226,6 +230,7 @@ The elements of a list can be changed/replaced after the list has been defined
 The `xrange()` method generates the values upon call, i.e. it does not
 store them into a variable
 
+<br/>
 
 ## Indexing
 
@@ -291,7 +296,7 @@ Challenge #4
 
 See the [Solution to challenge #4](7_Parsing-Theory-II.solutions.md)
 
-
+<br/>
 
 ## Putting together conditions and loops `while` loops
 The while statement is used for executing a set of statements until a given  condition is met
@@ -319,6 +324,8 @@ BUT:
 ...
 1 2 3 4
 ```
+
+<br/>
 
 ## The Boolean values `True` and `False`
 `if` and `while` statements return a `False` value when they are applied to:
@@ -358,4 +365,6 @@ while line:
   line = cancer_file.readline()
 ```
 
-Back to [main page](../index.md).
+<br/>
+
+Back to [first page](../index.md).
