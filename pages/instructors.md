@@ -7,7 +7,6 @@ description: PPB18 Course instructors description
 ## Allegra Via
 **Affiliation:** Institute of Molecular Biology and Pathology (IBPM) of the National Research Council (CNR, Rome, IT)
 
-<!-- ![Allegra Via](../assets/img/people/AllegraVia.jpg) -->
 <img src="../assets/img/people/AllegraVia.jpg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
 
 [**Allegra Via**](https://elixir-iib-training.github.io/website/instructors/allegra_via.html) is a physicist and scientific researcher at the Institute of Molecular Biology and Pathology (IBPM) of the National Research Council (CNR, Rome, IT). In 2003, she obtained a PhD at the University of Rome "Tor Vergata", where she also worked for six years as a postdoc. 
