@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Python libraries 
+title: Python libraries tasks
 ---
-
-## python libraries tasks
 
 1. Using R from Python (need to install rpy2) <br>
 Python session 13.2.2 <br>
