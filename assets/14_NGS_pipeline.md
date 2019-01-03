@@ -1,19 +1,14 @@
 ---
 layout: page
-title: BLAST Pipelines
+title: NGS analysis: an example of a pipeline
 ---
 
-
-## NGS analysis: an example of a pipeline
 Figure 14.1 – An example of an NGS data analysis pipeline
 <img src="img/ngs1.png" alt="slot" style="width: 400px;"/>
 
-
+<br/>
 
 ## Tophat
-
-
-
 
 [TopHat](http://tophat.cbcb.umd.edu/manual.shtml#toph) needs you to  specify a path to the index files and an input file containing your reads.
 
@@ -28,6 +23,9 @@ tophat [options]* <genome_index_base> <reads1_1[,...,readsN_1]>
 tophat –o <tophat_output_dir> /path/to/h_sapiens reads1.fastq,
 reads2.fastq,reads3.fastq
 ```
+
+<br/>
+
 ### Tophat input files (1)
 
 ```
@@ -52,6 +50,8 @@ automatically rebuild this FASTA file from the Bowtie index files.
 A comma-separated list of files containing reads in FASTQ or
 FASTA format.
 
+<br/>
+
 ### Tophat options
 
 ```
@@ -60,6 +60,8 @@ FASTA format.
 Sets the name of the directory in which TopHat will write all
 of its output. The default is `./tophat_out`.
 
+
+<br/>
 
 ## Cufflinks
 
@@ -72,6 +74,8 @@ Usage:
 cufflinks [options]* <aligned_reads.(sam/bam)>
 ```
 
+<br/>
+
 ### Cufflinks input file
 
 ```
@@ -80,12 +84,16 @@ cufflinks [options]* <aligned_reads.(sam/bam)>
 
 A file of RNA-Seq read alignments in the [SAM format](http://genome.sph.umich.edu/wiki/SAM). SAM is a standard short read alignment, that allows aligners to attach custom tags to individual alignments, and Cufflinks requires that the alignments you supply have some of these tags. SAM (Sequence Alignment/Map) format is a generic format for storing large nucleotide sequence alignments.
 
+<br/>
+
 ### Cufflinks options
 ```
 -o/--output-dir <string>
 ```
 
 Sets the name of the directory in which Cufflinks will write all of its output. The default is `./`.
+
+<br/>
 
 ### Cufflinks output file
 
@@ -120,6 +128,9 @@ cufflinks_command = 'cufflinks -o %s %s%s%s'%
 
 os.system(cufflinks_command)
 ```
+
+<br/>
+
 ### Input and output of the Cuffcompare program for transcript comparison
 
 
@@ -158,6 +169,7 @@ T2, and T3) samples.
 
 The presence of `qi` means that the information about the replica is available. `-` means that the information is not available. Each row corresponds to a different transcript.
 
+<br/>
 
 #### Remove from transcripts.tracking the transcripts (i.e. file rows) occurring in only one out of the three WT1, WT2, and WT3 (or T1, T2, and T3) samples.
 
@@ -195,4 +207,9 @@ for track in tracking:
 tracking.close()
 trackingOut.close()
 ```
-Back to [main page](../index.md).
+
+<br/>
+
+### Back
+
+Back to [first page](../index.md).
