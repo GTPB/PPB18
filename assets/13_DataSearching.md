@@ -1,6 +1,7 @@
-Back to [main page](../index.md).
-
-
+---
+layout: page
+title: Data Searching
+---
 
 # Searching (and manipulating) your data
 
@@ -47,6 +48,8 @@ ACU T
 AAC N
 etc.
 ```
+
+<br/>
 
 ## Dictionaries
 
@@ -135,8 +138,7 @@ Challenge #2
 
 See the [Solution to challenge #1](13_DataSearching.solutions.md)
 
-
-
+<br/>
 
 ## Sort values of a dictionary by its keys
 
@@ -157,6 +159,7 @@ def sort_dict_by_keys(data):
 print sort_dict_by_keys(structures)
 ```
 
+<br/>
 
 ## Remove redundancy
 <img src="img//redund1.png" alt="slot" style="width: 400px;"/>
@@ -184,6 +187,8 @@ Q9Y5P2                                                Q9NQQ7
 
 <img src="img//redund3.png" alt="slot" style="width: 400px;"/>
 
+<br/>
+
 ### Sets
 Sets are **unordered** collections of unique objects
 they are not sequence-like objects and that they cannot contain
@@ -196,6 +201,7 @@ membership in a set.
 - Set operations: **intersection, union, difference, symmetrical
 difference**
 
+<br/>
 
 ### Create a new set
 In order to create a set, the method `set(x)` must be used,
@@ -213,6 +219,8 @@ where `x` is a sequence-like object (string, tuple, list)
 | `remove(x)` | removes the element `x` and returns a message of error if `x` is not in the set |
 | `discard()`  |  removes the element `x` without returning any error message if `x` is not in the set |
 
+<br/>
+
 ## S1.union(S2)
 The `union()` between 2 sets S1 and S2 creates a new set
 with the elements from both S1 and S2.
@@ -225,6 +233,8 @@ set(['a', 'c', 'b', 'e', 'd'])
 >>> S1 | S2
 set(['a', 'c', 'b', 'e', 'd'])
 ```
+
+<br/>
 
 ## S1.intersection(S2)
 
@@ -239,6 +249,9 @@ set(['c'])
 >>> S1 & S2
 set(['c'])
 ```
+
+<br/>
+
 ## S1.symmetric_difference(S2)or S1 ^ S2
 
 `symmetric_difference()` of two sets S1 and S2 creates a new set with elements in either S1 or S2 but not both
@@ -251,6 +264,8 @@ set(['a', 'b', 'e', 'd'])
 >>> S1 ^ S2
 set(['a', 'b', 'e', 'd'])
 ```
+
+<br/>
 
 ## S1.difference(S2) or S1 - S2
 
@@ -267,4 +282,7 @@ set(['a', 'b'])
 set(['e', 'd'])
 ```
 
-Back to [main page](../index.md).
+<br/>
+### Back
+
+Back to [first page](../index.md).
