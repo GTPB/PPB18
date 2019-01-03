@@ -475,4 +475,6 @@ See the [Solution to challenge #7](12_TabularData.solutions.md)
 
 <br/>
 
+### Back
+
 Back to [first page](../index.md).
