@@ -1,8 +1,9 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: 1 - Plan your experiment using NGS technologies
+---
 
->
-
-# Exception handling
+## Exception handling
 
 
 ```
@@ -62,5 +63,6 @@ else:
     main(data)
 ```
 
+<br/>
 
 Back to [main page](../index.md).
