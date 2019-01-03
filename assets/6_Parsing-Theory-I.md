@@ -1,8 +1,7 @@
-Back to [main page](../index.md).
-
-
-
-# Parsing data records I
+---
+layout: page
+title: Parsing data records I
+---
 
 Two sequence records in FASTA format:
 
@@ -39,6 +38,7 @@ Challenge #2
 
 See the [Solution to challenge #2](6_Parsing-Theory-I.solutions.md)
 
+<br/>
 
 ### Writing different things depending on a condition
 
@@ -303,6 +303,7 @@ Gtaccgttgtagctctctcgtaaacacaagaaccaacaccaaacaacatactacaactga
 
 See the [Solution to challenge #15](6_Parsing-Theory-I.solutions.md)
 
+<br/>
 
 ## Recap: parsing data records
 
@@ -313,5 +314,7 @@ See the [Solution to challenge #15](6_Parsing-Theory-I.solutions.md)
 +   Identify separators to select your information using if conditions
 
 +   Use  lists if you have to compare data from different files
+
+<br/>
 
 Back to [main page](../index.md).
