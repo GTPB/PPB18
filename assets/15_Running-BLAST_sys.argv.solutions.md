@@ -1,4 +1,7 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: Pipelines - Solutions
+---
 
 #### Solution to challenge #1
 ```
@@ -18,8 +21,7 @@ for line in gbk:
 
 Back to the [lesson](15_Running-BLAST_sys.argv.md)
 
-
-
+<br/>
 
 #### Solution to challenge #2
 
@@ -38,7 +40,7 @@ for seq in seqs:
 
 Back to the [lesson](15_Running-BLAST_sys.argv.md)
 
-
+<br/>
 
 #### Solution to challenge #3
 ```
@@ -55,6 +57,9 @@ out.close()
 ```
 Back to the [lesson](15_Running-BLAST_sys.argv.md)
 
+<br/>
 
-Back to [main page](../index.md).
+### Back
+
+Back to [first page](../index.md).
 
