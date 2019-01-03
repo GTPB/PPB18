@@ -1,6 +1,7 @@
-Back to [main page](../index.md).
-
-# Python programs
+---
+layout: page
+title: Python programs
+---
 
 ### How can I run a program? Input and output
 
@@ -12,8 +13,8 @@ In this module you can learn
 -  How to create your own modules
 
 ---
-Challenge  
 
+Challenge  
 
 >
 > *Game of instruction*
@@ -200,6 +201,8 @@ Challenge  #4
 
 See See the [Solution to challenge #4](3_PythonPrograms.solutions.md)
 
+<br/>
+
 ### Recap
 -  string variables contain text
 -  `print` writes to the screen
@@ -209,6 +212,6 @@ See See the [Solution to challenge #4](3_PythonPrograms.solutions.md)
 -  for loops repeat commands
 -  comments starts with `#` or `'''`
 
-
+<br/>
 
 Back to [main page](../index.md).
