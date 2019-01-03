@@ -26,7 +26,7 @@ It will help you:<br/>
 Become faster and more efficient<br/>
 Share your work without pain<br/>
 Collaborate more effectively<br/>
-**Trust your results<br/>
+<strong>Trust your results</strong><br/>
 Reproduce your results**<br/>
 In other words…<br/>
 **Do a better science**<br/>
