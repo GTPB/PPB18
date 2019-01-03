@@ -209,7 +209,7 @@ See the [Solution to challenge #6](11_DataColumns.solutions.md)
 
 ### Match the formatting expressions and their result
 
-<img src="img/expression_values.png" alt="slot" style="width: 400px;"/>
+<img src="img/expression_values.png" alt="slot" style="width: 500px;"/>
 
 
 
