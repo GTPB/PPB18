@@ -64,4 +64,4 @@ Each slot is organised as follows:
 
 <br/>
 
-Back to [main page](../index.md).
+Back to [first page](../index.md).
