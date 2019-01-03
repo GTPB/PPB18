@@ -1,8 +1,7 @@
-Back to [main page](../index.md).
-
-
-
-# Tabular data
+---
+layout: page
+title: Tabular data
+---
 
 In this module you can learn:
 
@@ -12,6 +11,7 @@ In this module you can learn:
 -  How to sort columns
 -  How to sort
 
+<br/>
 
 ## Representing a table as a list of lists:
 
@@ -47,6 +47,8 @@ print table
 
 <img src="img/tabulartable.png" alt="slot" style="width: 400px;"/>
 
+<br/>
+
 ### Remove a row and write the table to a tab-separated file
 
 ```
@@ -73,6 +75,8 @@ exp     gene1   gene2   gene3   gene4
 3       16      21      3       12
 4       17      16      1       9
 ```
+
+<br/>
 
 ### Insert a row and write to a tab-separated file
 
@@ -104,6 +108,9 @@ exp     gene1   gene2   gene3   gene4
 3       16      21      3       12
 4       17      16      1       9
 ```
+
+<br/>
+
 ### Transpose a table
 
 ```
@@ -152,6 +159,8 @@ When the argument of a function is a list or a tuple and it is preceded by \*, i
 True
 ```
 
+<br/>
+
 ## Remove a column
 
 ```
@@ -180,6 +189,8 @@ exp     gene1        gene2          gene4
 4         17            16            9
 ```
 
+<br/>
+
 ## Remove a column (live…)
 ```
 >>> T = open("table-1.txt")
@@ -201,6 +212,8 @@ exp     gene1        gene2          gene4
 [('exp', 'gene1', 'gene2', 'gene4'), ('1', '17', '19', '10'), ('2', '2', '336', '11'), ('3', '16',
 '21', '12'), ('4', '17', '16', '9')]
 ```
+
+<br/>
 
 ## Replace a column
 
@@ -232,7 +245,7 @@ exp     gene1          gene2          gene3         gene4
 3         16            21            20            12
 ```
 
-
+<br/>
 
 ## Sorting
 
@@ -255,6 +268,8 @@ Sort in reversed order
 
 Methods of lists **MODIFY** the lists in place
 
+<br/>
+
 ## The `sorted()` built-in function
 
 ```
@@ -271,6 +286,8 @@ Sort in reversed order
 [10, 9, 8, 7, 6, 6, 5, 3, 2, 1]
 ```
 
+<br/>
+
 ## Sorting with `itemgetter`
 
 ```
@@ -281,6 +298,8 @@ Sort in reversed order
 >>> itemgetter(1,-1)(L)
 ('ACTG', 'TTGGATC')
 ```
+
+<br/>
 
 ### Sort a table by any column
 ```
@@ -300,7 +319,7 @@ print data
 
 5     10          4         3         2
 
-
+<br/>
 
 ## Sort a table by any column
 
@@ -454,5 +473,6 @@ Challenge #7
 
 See the [Solution to challenge #7](12_TabularData.solutions.md)
 
+<br/>
 
 Back to [main page](../index.md).
