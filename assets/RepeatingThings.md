@@ -134,7 +134,7 @@ See the [Solution to challenge #3](RepeatingThings.solutions.md)
 <br/>
 
 ### Recap
-<img src="img/pp9.png" alt="slot" style="width: 400px;"/>
+<img src="img/pp9.png" alt="slot" style="width: 500px;"/>
 
 ### Back
 
