@@ -23,6 +23,7 @@ The course will be highly interactive and the students will continuously put the
 ## Target Audience
 End-users of bioinformatics databases and tools that need to manage large files and/or a large number of files and aim at developing hands-on capabilities for their analysis by writing their own or adapting somebody else's scripts in an autonomous way.
 
+---
 
 ## Detailed Program
 
@@ -52,7 +53,7 @@ End-users of bioinformatics databases and tools that need to manage large files 
 
 ---
 
-### [Learning objectives and pre-requesites](pages/objectives_prerequesites.md)
+### [Learning objectives and Course Pre-requesites](pages/objectives_prerequesites.md)
 
 ### [Instructors](pages/instructors.md)
 
