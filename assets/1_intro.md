@@ -63,6 +63,7 @@ Each slot is organised as follows:
 <img src="img/slot.png" alt="slot" style="width:400px;height:400px;"/>
 
 <br/>
+
 ### Back
 
 Back to [first page](../index.md).
