@@ -25,7 +25,8 @@ End-users of bioinformatics databases and tools that need to manage large files 
 
 ---
 
-## Detailed Program
+## Course Documentation
+All the datasets used for this training course is available throughout the documentation.
 
 ### Day 1
 
