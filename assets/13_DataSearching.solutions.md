@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Searching - SOlutions
+title: Data Searching - Solutions
 ---
 
 #### Solution to challenge #1
@@ -54,6 +54,7 @@ prot = ''
 Back to the [lesson](13_DataSearching.md)
 
 <br/>
+
 ### Back
 
 Back to [first page](../index.md).
