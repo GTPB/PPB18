@@ -1,4 +1,7 @@
-Back to [main page](../index.md).
+---
+layout: page
+title: Tabular Data - Solutions
+---
 
 #### Solution to challenge #1
 One  solution:
@@ -150,5 +153,8 @@ outfile.close()
 
 Back to the [lesson](12_TabularData.md)
 
+<br/>
+
+### Back
 
 Back to [main page](../index.md).
