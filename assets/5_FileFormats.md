@@ -22,6 +22,7 @@ There are four types of computer readable formats in bioinformatics
 <img src="img/ff8.png" alt="slot" style="width: 400px;;"/>
 
 <br/>
+
 ### Back
 
 Back to [first page](../index.md).
