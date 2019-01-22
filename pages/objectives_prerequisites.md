@@ -27,4 +27,4 @@ Participants are asked to take a look at [pre-course reading material on the Uni
 
 ### Back
 
-Back to [first page](https://maccardoso.github.io/PPB18/).
+Back to [first page](../index).
