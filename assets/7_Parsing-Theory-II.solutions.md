@@ -182,4 +182,4 @@ Back to the [lesson](7_Parsing-Theory-II.md)
 
 ### Back
 
-Back to [first page](../index.md).
+Back to [main page](../index.md).
