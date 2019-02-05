@@ -76,4 +76,4 @@ Challenge
 
 ### Back
 
-Back to [first page](../index.md).
+Back to [main page](../index.md).
