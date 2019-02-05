@@ -48,10 +48,6 @@ All the datasets used for this training course is available throughout the docum
 
 ##### [Data Searching](assets/13_DataSearching.md) | [BLAST Pipeline](assets/15_Running-BLAST_sys.argv.md) | [Python libraries](assets/16_PythonLibraries_tasks.md)
 
-### Day 5
-
-##### [Hackaton](assets/HACKATHON_TASKS.md)
-
 ---
 
 ### [Learning objectives and Course Pre-requisites](pages/objectives_prerequisites.md)
