@@ -55,6 +55,7 @@ print deltaG
 Back to the [lesson](2_pythonshell.md)
 
 <br/>
+
 ### Back
 
-Back to [first page](../index.md).
+Back to [main page](../index.md).
