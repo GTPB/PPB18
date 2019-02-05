@@ -57,4 +57,4 @@ Back to the [lesson](13_DataSearching.md)
 
 ### Back
 
-Back to [first page](../index.md).
+Back to [main page](../index.md).
