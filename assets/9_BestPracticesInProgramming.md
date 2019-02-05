@@ -276,4 +276,4 @@ actual data, and make sure that they’re handled correctly.
 
 ### Back
 
-Back to [first page](../index.md).
+Back to [main page](../index.md).
