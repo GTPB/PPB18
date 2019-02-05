@@ -231,4 +231,4 @@ See the [Solution to challenge #7](11_DataColumns.solutions.md)
 
 ### Back
 
-Back to [first page](../index.md).
+Back to [main page](../index.md).
