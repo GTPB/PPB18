@@ -407,4 +407,4 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 
 ### Back
 
-Back to [first page](../index.md).
+Back to [main page](../index.md).
