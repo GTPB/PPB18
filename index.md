@@ -56,7 +56,7 @@ All the datasets used for this training course is available throughout the docum
 
 ---
 
-The source for this course webpage is [on github](https://github.com/maccardoso/PPB18/).
+The source for this course webpage is [on github](https://github.com/GTPB/PPB18/).
 
 <br/>
 
