@@ -18,7 +18,7 @@ Python is an object-oriented programming language that is ideal for biological d
 + parsing common file formats (Uniprot, GenBank, PDB, BLAST) with Biopython
 + ways to find and correct program errors
 
-The course will be highly interactive and the students will continuously put theory into practice while learning. 
+The course will be highly interactive and the students will continuously put theory into practice while learning.
 
 ## Target Audience
 End-users of bioinformatics databases and tools that need to manage large files and/or a large number of files and aim at developing hands-on capabilities for their analysis by writing their own or adapting somebody else's scripts in an autonomous way.
@@ -57,3 +57,7 @@ All the datasets used for this training course is available throughout the docum
 ---
 
 The source for this course webpage is [on github](https://github.com/maccardoso/PPB18/).
+
+<br/>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PPB18</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
