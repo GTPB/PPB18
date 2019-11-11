@@ -1,7 +1,6 @@
 # PPB18 - Programming in Python for Biologists (2018)
 
 ###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - July 23<sup>rd</sup> - July 27<sup>th</sup> 2018
-Go to the [course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/2018/PPB18/)
 
 ---
 
