@@ -1,12 +1,19 @@
 ---
 layout: page
 title: Error Handling
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 ## Exception handling
 
 
-```
+```python
 try:
     f = open("test")
     for line in f:
@@ -17,7 +24,7 @@ except :
         print line
 ```
 
-```
+```python
 try:  
     f = open("test.txt")
 except :
@@ -28,7 +35,7 @@ else:
       print line
 ```
 
-```
+```python
 def main(data):
     print data
 
@@ -48,7 +55,7 @@ else:
 <img src="img/ErrorHandling.png" alt="slot" style="width: 500px;"/>
 
 
-```
+```python
 
 def main(data):
     print data

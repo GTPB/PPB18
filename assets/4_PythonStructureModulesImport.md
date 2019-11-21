@@ -1,12 +1,19 @@
 ---
 layout: page
 title: The Python structure - Vocabulary, tips and comments
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 - Python code can be written in two different "containers":
   - Interactive interpreter (not permanent)
   - Modules or programs (permanent)
- 
+
 - The content of a module can be used in a script (or in a different module) by importing the module
 
 - Scripts, programs, modules can be  written in text files.
@@ -15,11 +22,11 @@ title: The Python structure - Vocabulary, tips and comments
 
 - Inside modules you can define other containers: classes and functions.
 
-- More in general, modules are containers for data, functions and classes. 
+- More in general, modules are containers for data, functions and classes.
 
 - In other words, we will call **modules** text files containing definitions of data (through variable's assignment), functions and classes.
 
-- We will call **programs** or **scripts** text files containing definitions AND actions. 
+- We will call **programs** or **scripts** text files containing definitions AND actions.
 
 - You will **run programs** and **import modules**.
 
@@ -51,7 +58,7 @@ title: The Python structure - Vocabulary, tips and comments
 
 
 ---
-Challenge 
+Challenge
 
 
 > -   Open a text file using gedit

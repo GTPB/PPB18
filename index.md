@@ -1,8 +1,45 @@
 ---
 layout: page
-title: PPB18
-tagline: Programming in Python for Biologists
-description: Python course taught at GTPB in July 2018
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+
+  # Course details
+       # "name" -> The name of the course
+       # "description" -> Short description of the course
+  name: "PPB18 - Programming in Python for Biologists"
+  description: "Training Material that covers the basic concepts of Python, such as calculation, organization of data, reading and writing files, program logic and writing larger programs. All the examples and exercises focus on solving biological problems."
+
+  # Keywords -> Consult EDAM:Topic
+  keywords:  ["http://edamontology.org/topic_0091","http://edamontology.org/topic_3070","http://edamontology.org/topic_3071"]
+
+  # Audience -> Following Elixir-Tess input
+  audience: ["Academia/ Research Institution", "Industry", "Non-Profit Organisation", "Healthcare"]
+
+  # Author info
+  author:
+    - "@type": Organization
+      name: "The Gulbenkian Training Programme in Bioinformatics"
+      alternateName: "GTPB"
+      sameAs: "gtpb.igc.gulbenkian.pt/bicourses/index.html"
+
+  # predominant type of learning resources
+  "learningResourceType": ["presentation", "exercise", "scripts", "handout"]
+
+  # Contributor info
+  contributor:
+    - "@type": Person
+      name: "Allegra Via"
+    - "@type": Person
+      name: "Vincenza Colonna"
+    - "@type": Person
+      name: "David Philip Judge"
+
+  # License & Language & url
+  license: https://creativecommons.org/licenses/by/4.0/
+  inLanguage: "en-us"
+  url: "https://gtpb.github.io/PPB18/"
 ---
 
 ![python](assets/img/ppb.jpg)

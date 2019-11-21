@@ -1,11 +1,18 @@
 ---
 layout: page
 title: Built-ins, namespaces, functions - Solutions
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 #### Solution to challenge #1
 
-```
+```python
 def triangle_area(b, h):
     A = (b*h)/2.0 # function  body
     return A      # function  body
@@ -13,7 +20,7 @@ def triangle_area(b, h):
 print triangle_area(2.28, 3.55)
 ```
 
-```
+```python
 def triangle_area(b, h):
     return (b*h)/2.0
 
@@ -26,7 +33,7 @@ Back to the [lesson](8_functions.md)
 
 #### Solution to challenge #2
 
-```
+```python
 def get_values(arg1, arg2):
     s = arg1 + arg2
     d = arg1 - arg2
@@ -41,7 +48,7 @@ Back to the [lesson](8_functions.md)
 
 #### Solution to challenge #3
 
-```
+```python
 import math
 
 def distance(p1, p2):
@@ -61,7 +68,7 @@ print "Distance:", distance(p1, p2)
 
 #### Solution to challenge #4
 
-```
+```python
 def return_header(filename):
     fasta = open(filename)
     for line in fasta:
@@ -77,7 +84,7 @@ Back to the [lesson](8_functions.md)
 <br/>
 
 #### Solution to challenge #5
-```
+```python
 def return_header(filename):
     fasta = open(filename)
     for line in fasta:
@@ -99,7 +106,7 @@ Back to the [lesson](8_functions.md)
 
 #### Solution to challenge #6
 one possible solution
-```
+```python
 def return_header(filename):
     fasta = open(filename)
     for line in fasta:
@@ -119,7 +126,7 @@ output.close()
 ```
 another possible solution
 
-```
+```python
 def return_header(filename):
     fasta = open(filename)
     for line in fasta:
@@ -145,7 +152,7 @@ Back to the [lesson](8_functions.md)
 
 #### Solution to challenge #7
 
-```
+```python
 def genbank2fasta(filename):
     name = filename.split('.')[0]
     InputFile = open(filename)
@@ -177,4 +184,3 @@ Back to the [lesson](8_functions.md)
 ### Back
 
 Back to [main page](../index.md).
-

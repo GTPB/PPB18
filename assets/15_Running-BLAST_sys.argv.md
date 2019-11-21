@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Pipelines
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 # Running BLAST from Python
@@ -120,11 +127,11 @@ subprocess.call(command_line)
 ### Passing the input to a Python program from the command line
 
 
-```
+```sh
 python gbk_to_fasta.py ap006852.gbk
 ```
 
-```
+```python
 import sys
 
 print sys.argv
@@ -148,7 +155,7 @@ Challenge #1
 >
 ---
 
-See the [Solution to challenge #1](15_Running-BLAST_sys.argv.solutions.md) 
+See the [Solution to challenge #1](15_Running-BLAST_sys.argv.solutions.md)
 
 
 ---

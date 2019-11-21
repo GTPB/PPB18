@@ -1,10 +1,17 @@
 ---
 layout: page
 title: The Python Shell - Solutions
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 #### Solution to challenge #2
-```
+```python
 from math import pi
 R = 10.0
 V = (4.0/3.0)*pi*(R**3)
@@ -18,7 +25,7 @@ Back to the [lesson](2_pythonshell.md)
 <br/>
 
 #### Solution to challenge #3
-```
+```python
 import math
 
 x1 = 43.64
@@ -38,7 +45,7 @@ Back to the [lesson](2_pythonshell.md)
 <br/>
 
 #### Solution to challenge #5
-```
+```python
 import math
 
 ATP = 3.5

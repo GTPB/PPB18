@@ -1,10 +1,17 @@
 ---
 layout: page
 title: Pipelines - Solutions
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 #### Solution to challenge #1
-```
+```python
 import sys
 
 print sys.argv
@@ -25,7 +32,7 @@ Back to the [lesson](15_Running-BLAST_sys.argv.md)
 
 #### Solution to challenge #2
 
-```
+```python
 import subprocess
 
 seqs = ['P00519', 'P05480', 'P12931']
@@ -43,7 +50,7 @@ Back to the [lesson](15_Running-BLAST_sys.argv.md)
 <br/>
 
 #### Solution to challenge #3
-```
+```python
 seqs = ['P00519', 'P05480', 'P12931']
 
 out = open('blast_best_scores', 'w')
@@ -62,4 +69,3 @@ Back to the [lesson](15_Running-BLAST_sys.argv.md)
 ### Back
 
 Back to [main page](../index.md).
-

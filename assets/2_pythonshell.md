@@ -1,6 +1,13 @@
 ---
 layout: page
 title: The Python Shell
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 In this module you can learn:
@@ -17,14 +24,14 @@ In this module you can learn:
 
 Python can be used as a calculator:
 
-```
+```python
 >>> 1+2
 >>> 3
 ```
 
 Fill in dashed lines with appropriate values using the python interactive shell
 
-```
+```python
 >>> 1 _ _ 2
 >>> 3
 >>> 12 - _ _
@@ -38,7 +45,7 @@ Fill in dashed lines with appropriate values using the python interactive shell
 
 Python can be used to store variables:
 
-```
+```python
 >>> camels = 9
 >>> camels
 _ _
@@ -56,7 +63,7 @@ _ _
 ### The interactive Python shell
 You can access the shell by typing `python` in a command-line terminal
 
-```
+```sh
 $ python
 Python 2.7.9 (default, Apr  2 2015, 15:33:21)
 [GCC 4.9.2] on linux2
@@ -90,7 +97,7 @@ Variables are containers for data.
 
 Variable names may be composed of letters, underscores and, after the first position, also digits.
 
-```
+```python
 >>> camels = 9
 >>> camels
 9
@@ -112,7 +119,7 @@ Variable names may be composed of letters, underscores and, after the first posi
 +  log
 
 Python groups them together in a text file. You can access them by importing the file.
-```
+```python
 import math
 ```
 
@@ -263,7 +270,7 @@ calculator.
 +  Modules are containers for data and functions
 +  You can leave the shell by Ctrl-D.
 
-<br/> 
+<br/>
 
 ### Back
 

@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Python programs
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 ### How can I run a program? Input and output
@@ -82,13 +89,13 @@ Challenge
 
 
 ## Input from the program itself
-```
+```python
 a = 3
 print a
 ```
 
 ## Input from the keyboard
-```
+```python
 >>> a = raw_input("Type a number: ")
 Type a number: 3
 >>> print a
@@ -114,7 +121,7 @@ See See the [Solution to challenge #2](3_PythonPrograms.solutions.md)
 
 The input file `insuline.txt` can be found [here](data_and_scripts/1-PythonPrograms/d2_programing_data_scripts/insulin.txt)
 
-```
+```python
 Infile = open("insulin.txt")
 
 content = Infile.read()
@@ -128,12 +135,12 @@ print content
 
 
 #### Python module insulin.py
-```
+```python
 insulin = "GIVEQCCTSICSLYQLENYCNFVNQHLCGSHL\
 VEALYLVCGERGFFYTPKT"
 ```
 #### Python program my_first_import.py
-```
+```python
 from insulin import insulin
 print insulin
 ```
@@ -165,7 +172,7 @@ Which command we use?
 mode
 -  We have to write to it.
 
-```
+```python
 from insulin import insulin
 
 outfile = open("my_output.txt", "w")

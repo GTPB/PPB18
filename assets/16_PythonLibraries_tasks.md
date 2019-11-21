@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Python libraries tasks
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 1. Using R from Python (need to install rpy2) <br>

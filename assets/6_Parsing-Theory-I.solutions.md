@@ -1,12 +1,19 @@
 ---
 layout: page
 title: Parsing data records I - Solutions
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 <a name="c1"></a>
 #### Solution to challenge #1
 
-```
+```python
 seq = open("SingleSeq.fasta")
 
 for line in seq:
@@ -20,7 +27,7 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 
 #### Solution to challenge #2
 
-```
+```python
 seq = open("SingleSeq.fasta")
 seq_2 = open("SingleSeq-2.fasta","w")
 
@@ -35,7 +42,7 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 
 #### Solution to challenge #3
 A number of possible solutions
-```
+```python
 seq = open("SingleSeq.fasta")
 
 for line in seq:
@@ -44,7 +51,7 @@ for line in seq:
 
 ```
 
-```
+```python
 seq = open("SingleSeq.fasta")
 
 for line in seq:
@@ -52,7 +59,7 @@ for line in seq:
         print line
 ```
 
-```
+```python
 seq = open("SingleSeq.fasta")
 
 for line in seq:
@@ -61,7 +68,7 @@ for line in seq:
 ```
 
 
-```
+```python
 seq = open("SingleSeq.fasta")
 
 for line in seq:
@@ -74,7 +81,7 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 
 #### Solution to challenge #4
 
-```
+```python
 fasta = open('SingleSeq.fasta')
 header = open('header.txt', 'w’)
 
@@ -84,13 +91,14 @@ for line in fasta:
 
 header.close()
 ```
+
 Back to the [lesson](6_Parsing-Theory-I.md)
 
 <br/>
 
 #### Solution to challenge #5
 
-```
+```python
 fasta = open('SingleSeq.fasta')
 seq = open('seq.txt','w')
 
@@ -100,6 +108,7 @@ for line in fasta:
 
 seq.close()
 ```
+
 Back to the [lesson](6_Parsing-Theory-I.md)
 
 <br/>
@@ -107,7 +116,7 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 #### Solution to challenge #4 and #5 mergred
 
 
-```
+```python
 fasta = open('SingleSeq.fasta')
 header = open('header.txt', 'w')
 seq = open('seq.txt','w')
@@ -127,7 +136,7 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 
 #### Solution to challenge #6
 
-```
+```python
 seq_fasta = open("SingleSeq.fasta")
 
 seq = ''
@@ -140,13 +149,14 @@ for line in seq_fasta:
 
 print header, seq
 ```
+
 Back to the [lesson](6_Parsing-Theory-I.md)
 
 <br/>
 
 #### Solution to challenge #7
 
-```
+```python
 seq_fasta = open("SingleSeq.fasta")
 
 seq = ''
@@ -161,13 +171,14 @@ num_cys = seq.count("C")
 
 print header, seq, num_cys
 ```
+
 Back to the [lesson](6_Parsing-Theory-I.md)
 
 <br/>
 
 #### Solution to challenge #8
 
-```
+```python
 seq_fasta = open("SingleSeq.fasta")
 
 seq = ''
@@ -204,7 +215,8 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 <br/>
 
 #### Solution to challenge #9
-```
+
+```python
 fasta = open('SwissProt-Human.fasta')
 headers = open('headers.txt', 'w')
 
@@ -218,13 +230,14 @@ headers.close()
 >sp|P62258|1433E_HUMAN 14-3-3 protein epsilon OS=Homo sapiens
 >sp|Q04917|1433F_HUMAN 14-3-3 protein eta OS=Homo sapiens GN=YWHAH
 ```
+
 Back to the [lesson](6_Parsing-Theory-I.md)
 
 <br/>
 
 #### Solution to challenge #10
 
-```
+```python
 fasta = open('SwissProt-Human.fasta')
 seqs = open('seqs.txt', 'w')
 
@@ -239,13 +252,14 @@ seqs.close()
 
 seqs.write(line.strip() + '\n')
 ```
+
 Back to the [lesson](6_Parsing-Theory-I.md)
 
 <br/>
 
 #### Solution to challenge #11
 
-```
+```python
 human_fasta = open('SwissProt-Human.fasta')
 Outfile = open('SwissProt-Human-AC.txt','w')
 
@@ -256,6 +270,7 @@ for line in human_fasta:
 
 Outfile.close()
 ```
+
 Back to the [lesson](6_Parsing-Theory-I.md)
 
 <br/>
@@ -263,7 +278,8 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 #### Solution to challenge #12
 
 One possible solution:
-```
+
+```python
 fasta = open('sprot_prot.fasta')
 
 seq = ''
@@ -285,7 +301,7 @@ print header, ': ', cys_num
 
 another possible solution:
 
-```
+```python
 fasta = open('sprot_prot.fasta')
 
 seq = ''
@@ -306,7 +322,8 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 
 #### Solution to challenge #13
 One possible solution:
-```
+
+```python
 fasta = open('sprot_prot.fasta')
 output = open('homo_sapiens.fasta', 'w')
 seq = ''
@@ -327,8 +344,10 @@ if "Homo sapiens" in header:
 
 output.close()
 ```
+
 another possible solution:
-```
+
+```python
 fasta = open('sprot_prot.fasta')
 output = open('sprot_human.fasta', 'w')
 
@@ -346,12 +365,14 @@ for line in fasta:
 
 output.close()
 ```
+
 Back to the [lesson](6_Parsing-Theory-I.md)
 
 <br/>
 
 #### Solution II to challenge #14
-```
+
+```python
 fasta = open('SwissProtHuman.fasta','r')
 outfile = open('SwissProtHuman-Filtered.fasta','w')
 
@@ -380,7 +401,7 @@ Back to the [lesson](6_Parsing-Theory-I.md)
 
 #### Solution II to challenge #15
 
-```
+```python
 InputFile = open("ap006852.gbk")
 OutputFile = open("ap006852.fasta","w")
 flag = 0
@@ -401,6 +422,7 @@ for line in InputFile:
 InputFile.close()
 OutputFile.close()
 ```
+
 Back to the [lesson](6_Parsing-Theory-I.md)
 
 <br/>

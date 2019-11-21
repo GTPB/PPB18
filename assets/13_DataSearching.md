@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Data Searching
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 # Searching (and manipulating) your data
@@ -21,7 +28,7 @@ title: Data Searching
 
 Let's give a look to the content of the `tgac.py` available [here](data_and_scripts/DataSearching/tgac.py):
 
-```
+```python
 codonAMINO =  {'GCU':'A','GCC':'A','GCA':'A', 'GCG':'A',
 'CGU':'R','CGC':'R','CGA':'R','CGG':'R','AGA':'R','AGG':'R',
 'UCU':'S','UCC':'S','UCA':'S','UCG':'S','AGU':'S','AGC':'S',
@@ -58,7 +65,7 @@ Dictionaries are **unordered** collections of objects
 Dictionaries are structures for mapping immutable objects (keys) on
 arbitrary objects (values)
 
-```
+```python
 d = {key1:value1, key2:value2, …, keyN:valueN}
 ```
 
@@ -70,7 +77,7 @@ more than one value
 
 <img src="img//datser_method.png" alt="slot" style="width: 400px;"/>
 
-```
+```python
 >>> d = {'pep1':'MGSNKSKPKDASQRRRSLEPAENVHGAGG', \
     'pep2':'RSLEPAENVHGAGGGAFPASQTPS'}
 >>> len(d)
@@ -86,7 +93,7 @@ more than one value
 'ASADGHRGPSAAFAPAAA'}
 ```
 
-```
+```python
 >>> del d['pep2']
 >>> d
 {'pep1' : 'MGSNKSKPKDASQRRRSLEPAENVHGAGG',
@@ -97,7 +104,7 @@ more than one value
 { }
 ```
 
-```
+```python
 >>> dict = {"a":1, "b":2, "c":3}
 >>> dict.keys()     #list of dictionary keys
 ['a', 'c', 'b']
@@ -142,7 +149,7 @@ See the [Solution to challenge #1](13_DataSearching.solutions.md)
 
 ## Sort values of a dictionary by its keys
 
-```
+```python
 # sort values of a dictionary by its keys
 
 structures = {
@@ -241,7 +248,7 @@ set(['a', 'c', 'b', 'e', 'd'])
 The `intersection()` of 2 sets S1 and S2 creates a new set
 with the elements common to S1 and S2
 
-```
+```python
 >>> S1 = set(['a','b','c'])
 >>> S2 = set (['c','d','e'])
 >>> S1.intersection(S2)
@@ -256,7 +263,7 @@ set(['c'])
 
 `symmetric_difference()` of two sets S1 and S2 creates a new set with elements in either S1 or S2 but not both
 
-```
+```python
 >>> S1 = set(['a','b','c'])
 >>> S2 = set (['c','d','e'])
 >>> S1.symmetric_difference(S2)
@@ -271,7 +278,7 @@ set(['a', 'b', 'e', 'd'])
 
 The  `difference()`  of  two  sets  S1  and  S2  creates  a  new  set with elements in S1 but not in S2
 
-```
+```python
 >>> S1 = set(['a','b','c'])
 >>> S2 = set (['c','d','e'])
 >>> S1.difference(S2)

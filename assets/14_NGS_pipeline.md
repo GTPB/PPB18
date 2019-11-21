@@ -1,6 +1,13 @@
 ---
 layout: page
 title: NGS analysis: an example of a pipeline
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 Figure 14.1 – An example of an NGS data analysis pipeline
@@ -108,7 +115,7 @@ Format.
 3.  `genes.fpkm_tracking` This file contains the estimated gene-
 level expression values in the generic FPKM Tracking Format.
 
-```
+```python
 import os
 
 tophat_output_dir = '/home/RNA-seq/tophat'
@@ -173,7 +180,7 @@ The presence of `qi` means that the information about the replica is available. 
 
 #### Remove from transcripts.tracking the transcripts (i.e. file rows) occurring in only one out of the three WT1, WT2, and WT3 (or T1, T2, and T3) samples.
 
-```
+```python
 tracking = open('transcripts.tracking', 'r')
 out_file = open('transcripts-filtered.tracking', 'w')
 
@@ -189,7 +196,7 @@ tracking.close()
 out_file.close()
 ```
 
-```
+```python
 tracking = open('transcripts.tracking','r')
 trackingOut = open('transcripts-filtered.tracking', 'w')
 

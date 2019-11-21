@@ -1,11 +1,18 @@
 ---
 layout: page
 title: Parsing data records II - Solutions
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 #### Solution to challenge #1
 
-```
+```python
 cancer_file = open('cancer-expressed.txt')
 
 cancer_list = []
@@ -22,7 +29,7 @@ Back to the [lesson](7_Parsing-Theory-II.md)
 
 #### Solution to challenge #2
 
-```
+```python
 InputFile = open("SwissProtHuman.fasta","r")
 AC_list = []
 for line in InputFile:
@@ -37,7 +44,7 @@ Back to the [lesson](7_Parsing-Theory-II.md)
 
 #### Solution to challenge #3
 
-```
+```python
 cancer_file = open('cancer-expressed.txt')
 human_fasta = open('SwissProt-Human.fasta')
 Outfile = open('cancer-expressed.fasta','w')
@@ -66,7 +73,7 @@ Back to the [lesson](7_Parsing-Theory-II.md)
 
 #### Solution to challenge #4
 One possible solution
-```
+```python
 cancer_file = open('cancer-expressed.txt')
 human_fasta = open('SwissProt-Human.fasta')
 Outfile = open('cancer_expressed.fasta','w')
@@ -94,7 +101,7 @@ if AC in cancer_list:
 ```
 A very elegant solution by David Judge
 
-```
+```python
 
 ########################################################
 ### Pseudo-Code
@@ -152,7 +159,7 @@ seq_other.close();  # Close a NULL file for the Other Sequences.
 
 
 Another possible solution:
-```
+```python
 cancer_file = open('cancer-expressed.txt')
 human_fasta = open('SwissProt-Human.fasta')
 Outfile = open('cancer_expressed.fasta','w')

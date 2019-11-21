@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Built-ins, namespaces, functions
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 ## Python built-ins
@@ -54,7 +61,7 @@ automatically search things.
 
 It is a list contained in the variable **`path`** of the special module **`sys`**
 
-```
+```python
 >>> import sys
 >>> sys.path
 ['','/System/Library/Frameworks/Python.frame
@@ -67,7 +74,7 @@ s/2.5/Extras/lib/python','/Library/Python/2.
 
 Download the  `tgac.py` module code from [here](data_and_scripts/Functions/tgac.py) to your working dierctory. Start the interpreter and type:
 
-```
+```python
 >>>import tgac
 ```
 
@@ -79,7 +86,7 @@ What happens?
 
 `dir()` returns a list of the names defined in the namespace of an object
 
-```
+```python
 >>>dir(tgac)
 ```
 
@@ -145,7 +152,7 @@ by a colon character followed by *indented instructions*
 
 - A function may or may not **return** a value
 
-```
+```python
 def triangle_area(b, h):
     '''Returns the area of a triangle'''  
     return (b*h)/2.0
@@ -173,7 +180,7 @@ back a value to the caller.
 
 -   The returned value can be assigned to a variable
 
-```
+```python
 >>> def j(x,y):
 ...     return x + y
 ...
@@ -190,7 +197,7 @@ back a value to the caller.
 Every Python object can be passed as argument to a function.<br>
 A function call can be the argument of a function too.
 
-```
+```python
 >>> def increment(x):
 ...     return x + 1
 ...
@@ -204,7 +211,7 @@ A function call can be the argument of a function too.
 
 Multiple parameters can be passed to a function. In this case, the order of the arguments in the caller must be exactly the same as that in the function definition
 
-```
+```python
 >>> def print_funct(num, seq):
 ...     print num, seq
 ...     return
@@ -247,7 +254,7 @@ A **tuple of a single item** must be written either:
 
 `Tuple = (1,)` or   `Tuple = 1,`
 
-```
+```python
 >>> my_tuple = (1,2,3)
 >>> my_tuple[0]       #indexing
 1
@@ -259,7 +266,7 @@ A **tuple of a single item** must be written either:
 
 BUT
 
-```
+```python
 >>> my_tuple[0] = 0     #re-assigning
 (Forbidden)
 Traceback (most recent call last):
@@ -269,7 +276,7 @@ item assignment
 >>>
 ```
 
-```
+```python
 >>> def f(a,b):
 ...     return a + b, a*b, a-b
 
@@ -283,7 +290,7 @@ item assignment
 
 It is possible to assign a name to the arguments of a function. In this case, the order is not important
 
-```
+```python
 >>> def print_funct(num, seq):
 ...     print num, seq
 ...     return
@@ -299,7 +306,7 @@ It is possible to assign a name to the arguments of a function. In this case, th
 
 It is also possible to use default arguments (optional). These optional arguments must be placed in the last position(s) of the function definition
 
-```
+```python
 def print_funct(num, seq = "A"):
     print num, seq
     return
@@ -396,7 +403,7 @@ are first searched in the function namespace and subsequently,
 if they are not found in the function body, they are searched in
 the script (module) global namespace.
 
-```
+```python
 >>> def f():
 ...     x = 100
 ...     return x
@@ -415,7 +422,7 @@ NameError: name 'x' is not defined
 ```
 `x` is a local name of the function `f()` namespace and it is not recognised by the `print` statement in the main script  even after the function call
 
-```
+```python
 >>> def g():
 ...     global x
 ...     x = 200
@@ -434,7 +441,7 @@ NameError: name 'x' is not defined
 
 The variable `x`, defined in the body of the `g()` function, is made global using the **global** statement but is recognized by the `print` statement in the main script  only after the function call
 
-```
+```python
 >>> y = "ACCTGGCACAA"
 >>> def h():
 ...     print y
@@ -449,7 +456,7 @@ The  number  of  arguments  can  be  variable  (i.e.  can  change  from  one fun
 1st  case             (\*args) =>          tuple of arguments
 2nd  case             (\**args)=>          dictionary of arguments
 
-```
+```python
 >>> def print_args(\*args):
 ...     print args
 ...     return

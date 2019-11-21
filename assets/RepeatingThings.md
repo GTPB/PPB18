@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Repeating things
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 <img src="img/pp7.png" alt="slot" style="width: 400px;"/>
@@ -9,7 +16,7 @@ title: Repeating things
 
 ## Counting amino acids
 
-```
+```python
 # insulin [Homo sapiens] GI:386828
 insulin = "GIVEQCCTSICSLYQLENYCFVNQHLC\
       GSHLVEALYLVGERGFFYTPKT"
@@ -24,7 +31,7 @@ for amino_acid in "ACDEFGHIKLMNPQRSTVWY":
 ## Repetitive tasks
 Consider the solutions of challenge #4 from previous session:
 
-```
+```python
 dna = "AGCTTCGA"
 
 print dna.count("A")
@@ -32,7 +39,7 @@ print dna.count("C")
 print dna.count("T")
 print dna.count("G")
 ```
-```
+```python
 dna = "AGCTTCGA"
 elem =  dna.count ("A")
 print  elem
@@ -46,7 +53,7 @@ print  elem
 
 ##Loops with for
 The `for` command repeats other commands:
-```
+```python
 dna = "AGCTTCGA”
 
 for base in "ACTG":
@@ -58,13 +65,13 @@ The commands that are repeated must be **indented (shifted right by four spaces)
 <br/>
 
 ## Compare
-```
+```python
 dna = "AGCTTCGA”
 for base in "ACTG":
   print dna.count(base)
 ```
 Would you prefer this implementation?
-```
+```python
 dna = "AGCTTCGA"
 
 print dna.count("A")
@@ -87,7 +94,7 @@ See the [Solution to challenge #1](RepeatingThings.solutions.md)
 <br/>
 
 ## Use a `for` loop to read a file line by line
-```
+```python
 Input_file = open(“my_file.txt”)
 for line in Input_file:
   print line
@@ -96,7 +103,7 @@ for line in Input_file:
 <br/>
 
 ## Look how beautiful it can be…
-```
+```python
 import urllib
 url = 'http://www.uniprot.org/\
   uniprot/P12931.fasta'

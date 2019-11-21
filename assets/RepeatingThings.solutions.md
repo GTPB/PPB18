@@ -1,10 +1,17 @@
 ---
 layout: page
-title: REpeating things - Solutions
+title: Repeating things - Solutions
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 #### Solution to challenge #1
-```
+```python
 telomerase = open("telomerase.txt")
 
 seq = telomerase.read()
@@ -19,7 +26,7 @@ Back to the [lesson](RepeatingThings.md)
 <br/>
 
 #### Solution to challenge #2
-```
+```python
 telomerase = open("telomerase.txt")
 
 for line in telomerase:
@@ -30,7 +37,7 @@ Back to the [lesson](RepeatingThings.md)
 <br/>
 
 #### Solution to challenge #3
-```
+```python
 telomerase = open("telomerase.txt")
 
 seq = telomerase.read()

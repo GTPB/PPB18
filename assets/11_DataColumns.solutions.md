@@ -1,11 +1,18 @@
 ---
 layout: page
 title: Data Columns - Solutions
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 #### Solution to challenge #1
 
-```
+```python
 neuron_lengths = []
 
 for line in open("neuron_data.txt"):
@@ -18,7 +25,7 @@ Back to [lesson](11_DataColumns.md)
 <br/>
 
 #### Solution to challenge #2
-```
+```python
 primary = []
 secondary = []
 
@@ -39,7 +46,7 @@ Back to [lesson](11_DataColumns.md)
 #### Solution to challenge #3
 Ona possible solution
 
-```
+```python
 length_list = []
 
 for line in open("neuron_data.txt"):
@@ -51,7 +58,7 @@ print av
 
  another possible solution
 
- ```
+ ```python
 primary = []
 secondary = []
 
@@ -75,7 +82,7 @@ Back to [lesson](11_DataColumns.md)
 
 #### Solution to challenge #4
 
-```
+```python
 primary = []
 secondary = []
 
@@ -104,7 +111,7 @@ Back to [lesson](11_DataColumns.md)
 
 #### Solution to challenge #5
 
-```
+```python
 out = open('neuron_data-3.txt', 'w')
 
 data1 =  [1, 2, 2, 1, 1, 2, 1, 2, 2]
@@ -120,7 +127,7 @@ Back to [lesson](11_DataColumns.md)
 <br/>
 
 #### Solution to challenge #6
-```
+```python
 out = open('neuron_data-3.txt', 'w')
 
 data1 =  [1, 2, 2, 1, 1, 2, 1, 2, 2]
@@ -134,7 +141,7 @@ out.close()
 ```
 If you want to switch two columns:
 
-```
+```python
 Outfile = open('neuron_data-3.txt', 'w')
 
 data1 =  [1, 2, 2, 1, 1, 2, 1, 2, 2]
@@ -152,7 +159,7 @@ Back to [lesson](11_DataColumns.md)
 <br/>
 
 #### Solution to challenge #7
-```
+```python
 data = []
 
 for line in open('neuron_data-2.txt'):

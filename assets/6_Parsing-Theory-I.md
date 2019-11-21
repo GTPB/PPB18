@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Parsing data records I
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 Two sequence records in FASTA format:
@@ -51,7 +58,7 @@ MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARWRVISSIEQKTERNEKKQQMGKE
 
 Making choices: The `if/elif/else` statements
 
-```
+```python
 if condition1 #if expression in condition1is TRUE
     statements1   #execute statements1
 elif condition2 #else if expression in condition2is TRUE
@@ -72,13 +79,13 @@ Check these conditions:
 
 Operators:
 
-```
+```python
 ==    !=     =>    <=    >      <
 ```
 
 The `if/elif/else` construct produces different effects compared with the use of a series of `if` conditions
 
-```
+```python
   nucl = ['A','C','T','G']
   if 'A' in nucl: print 'A'
   elif 'C' in nucl: print 'C'
@@ -86,7 +93,7 @@ The `if/elif/else` construct produces different effects compared with the use of
   else: print 'G'
 ```
 
-```
+```python
 nucl = ['A','C','T','G']
 if 'A' in nucl: print 'A'
 if 'C' in nucl: print 'C'

@@ -1,11 +1,18 @@
 ---
 layout: page
 title: Data Searching - Solutions
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 #### Solution to challenge #1
 
-```
+```python
 F = open('rna_seq.fasta')
 Out = open('protein_seq.fasta','w')
 
@@ -35,7 +42,7 @@ Back to the [lesson](13_DataSearching.md)
 <br/>
 
 #### Solution to challenge #2
-```
+```python
 from tgac import codonAMINO
 
 prot = ''

@@ -17,6 +17,16 @@ This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses
 
 ---
 
+#### Host & Co-Sponsor
+
+<a href="http://www.igc.gulbenkian.pt/"><img src="./assets/readme_img/Logo_IGC_2014.png" alt="Instituto Gulbenkian de Ciência" width="250px"></a>
+
+#### Contributors
+
+<a href="https://biodata.pt/"><img src="./assets/readme_img/BIoData_and_co-financiadores.png" alt="Instituto Gulbenkian de Ciência" width="500px"></a>
+
+---
+
 [Github Pages](https://pages.github.com) provide a simple way to make a website using Markdown and git.
 
 <br/>

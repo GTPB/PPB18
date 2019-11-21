@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Parsing data records II
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 In many cases you will need to compare data from different files. As an example, consider the two files:
@@ -53,7 +60,7 @@ In order to compare the content of the two files, you might first want to store 
 
 **Lists** are nice and veeeeery flexible data structures
 
-```
+```python
 ['Q5XXA6', 'Q9Y5P2', 'Q14667', 'O75387', 'Q8WV07','Q8CH62', 'Q9GZY1', 'Q9NQQ7', 'Q8VCX2', 'Q7Z769']
 ```
 <br/>
@@ -72,7 +79,7 @@ The elements of a list can be any kind of object:
 - function calls
 - *etcetera*
 
-```
+```python
 L = [1, [2,3], 4.52, 'DNA']
 
 L = []  # the empty list
@@ -86,7 +93,7 @@ L = []  # the empty list
 <img src="img/parsingimgCHANGE_cccp.png" alt="slot" style="width: 400px;"/>
 
 
-```
+```python
 >>> L = [1,"hello",12.1,[1,2,"three"],"seq",(1,2)]
 >>> L[0]  # indexing
 1
@@ -120,7 +127,7 @@ The elements of a list can be changed/replaced after the list has been defined *
 s = any sequence
 
 
-```
+```python
 >>> l = [2,3,5,7,8,['a','b'],'a','b','cde']
 >>> l[0] = 1
 >>> l
@@ -153,7 +160,7 @@ The elements of a list can be changed/replaced after the list has been defined
 |l.pop(i)
 |l.remove(x)
 
-```
+```python
 >>> l = [1,3,5,7,8,['a','b'],'a','b','cde']
 >>> l.count('a')
 >>> l
@@ -185,7 +192,7 @@ The elements of a list can be changed/replaced after the list has been defined
 |l.sort()|
 |sorted(l)|
 
-```
+```python
 >>> l = [4, 3, 2, 1, 5, 6, 7, 8]
 >>> l.reverse()
 >>> l
@@ -206,7 +213,7 @@ The elements of a list can be changed/replaced after the list has been defined
 
 `range()` and `xrange()` built-in functions
 
-```
+```python
 >>> range(10)
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 >>> range(1, 11)
@@ -306,7 +313,7 @@ The while statement is used for executing a set of statements until a given  con
     <statements 1>**
 
 
-```
+```python
 >>> a = 1
 >>> while a < 5:
 ...     print a,
@@ -314,7 +321,7 @@ The while statement is used for executing a set of statements until a given  con
 ```
 
 BUT:
-```
+```python
 >>> a = 1
 >>> while a > 0:
 ...     if a == 5: break
@@ -336,7 +343,7 @@ BUT:
 
 The statements in an `if` or a `while` block are executed only if the condition returns the value `True`.
 
-```
+```python
 >>> p = 'protein'
 >>> if p: print 'True'
 ...
@@ -354,7 +361,7 @@ True
 We can use while loops to read files
 (but usually we won't do it):
 
-```
+```python
 cancer_file = open('cancer-expressed.txt')
 
 cancer_list = []

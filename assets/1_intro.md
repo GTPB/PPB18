@@ -1,6 +1,13 @@
 ---
 layout: page
 title: PPB18 Intro
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 ## In this course you will learn to:

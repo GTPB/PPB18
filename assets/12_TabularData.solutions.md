@@ -1,12 +1,19 @@
 ---
 layout: page
 title: Tabular Data - Solutions
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 #### Solution to challenge #1
 One  solution:
 
-```
+```python
 from operator import itemgetter
 data = [
 [5, 10, 4, 3, 2],
@@ -25,7 +32,7 @@ for elem in data:
 
 another possible solution:
 
-```
+```python
 from operator import itemgetter
 
 data = [
@@ -46,7 +53,7 @@ Back to the [lesson](12_TabularData.md)
 
 #### Solution to challenge #2
 
-```
+```python
 neurons = open("neuron_data.txt")
 
 table1 = []
@@ -66,7 +73,7 @@ Back to the [lesson](12_TabularData.md)
 
 #### Solution to challenge #3
 
-```
+```python
 from operator import itemgetter
 
 # sort by second column
@@ -81,7 +88,7 @@ Back to the [lesson](12_TabularData.md)
 
 #### Solution to challenge #4
 
-```
+```python
 # rotate the table
 columns = zip(*table1)
 # take the 1st  column (1st  row of table1)
@@ -97,7 +104,7 @@ Back to the [lesson](12_TabularData.md)
 #### Solution to challenge #5
 Create an empty table of 10 x 10 cells
 
-```
+```python
 >>> empty_table = [[0]*10 for x in xrange(10)]
 >>> empty_table
 [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0,
@@ -112,7 +119,7 @@ Back to the [lesson](12_TabularData.md)
 
 #### Solution to challenge #6
 Fill the table with the numbers from 1 to 100
-```
+```python
 >>> empty_table = [[0]*10 for x in xrange(10)]
 >>> n = 0
 >>> for row in empty_table:
@@ -135,7 +142,7 @@ Back to the [lesson](12_TabularData.md)
 
 #### Solution to challenge #7
 Save the table to a tab-separated file
-```
+```python
 empty_table = [[0]*10 for x in xrange(10)]
 
 n = 0

@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Writing good programs
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 Best practices in programming help you to do a more efficient and better science
@@ -97,7 +104,7 @@ languages is a vital decision during the design phase
 +  Write smaller programs
 +  Format your source code
 
-```
+```python
 def read_fasta_files(directory):
     '''
     Reads a directory with many FASTA files containing protein sequences.

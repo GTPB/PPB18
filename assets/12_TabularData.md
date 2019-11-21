@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Tabular data
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/PPB18/"
+      name: "PPB18 - Programming in Python for Biologists"
 ---
 
 In this module you can learn:
@@ -23,7 +30,7 @@ exp      gene1      gene2      gene3      gene4
 4          17        16        1              9
 ```
 
-```
+```python
 table = [
 ['exp', 'gene1', 'gene2', 'gene3', 'gene4'], ['1', '17', '19', '2', '10'],
 ['2', '2', '336', '3', '11'],
@@ -33,8 +40,8 @@ table = [
 ```
 
 How would you generate this table from a text file?
-We will work with the file `table-1.txt` available [here](data_and_scripts/TabularData/table-1.txt). 
-```
+We will work with the file `table-1.txt` available [here](data_and_scripts/TabularData/table-1.txt).
+```python
 T = open("table-1.txt")
 
 table = []
@@ -51,7 +58,7 @@ print table
 
 ### Remove a row and write the table to a tab-separated file
 
-```
+```python
 T = open("table-1.txt")
 out_T = open("table-1.out", "w")
 
@@ -80,7 +87,7 @@ exp     gene1   gene2   gene3   gene4
 
 ### Insert a row and write to a tab-separated file
 
-```
+```python
 T= open("table-1.txt")
 out_T = open("table-1.out", "w")
 
@@ -113,7 +120,7 @@ exp     gene1   gene2   gene3   gene4
 
 ### Transpose a table
 
-```
+```python
 T = open("table-1.txt")
 
 table = []
@@ -138,7 +145,7 @@ gene4     10       11       12        9
 
 When the argument of a function is a list or a tuple and it is preceded by \*, it unpacks the list or the tuple and uses each element as an argument to the function
 
-```
+```python
 >>> range(*(0,10,2))
 [0, 2, 4, 6, 8]
 >>>
@@ -146,7 +153,7 @@ When the argument of a function is a list or a tuple and it is preceded by \*, i
 
 `zip(*zipped)`  means "**use each element of `zipped` as an argument to zip**".
 
-```
+```python
 >>> x = [1, 2, 3]
 >>> y = [4, 5, 6]
 >>> zipped = zip(x, y)
@@ -163,7 +170,7 @@ True
 
 ## Remove a column
 
-```
+```python
 T = open("table-1.txt")
 table = []
 
@@ -192,7 +199,7 @@ exp     gene1        gene2          gene4
 <br/>
 
 ## Remove a column (live…)
-```
+```python
 >>> T = open("table-1.txt")
 >>> table = []
 >>> for line in T:
@@ -217,7 +224,7 @@ exp     gene1        gene2          gene4
 
 ## Replace a column
 
-```
+```python
 
 T = open("table-1.txt")
 table = []
@@ -251,7 +258,7 @@ exp     gene1          gene2          gene3         gene4
 
 Python lists are good for sorting using the list's `sort()` method
 
-```
+```python
 >>> L = [1,5,7,8,9,2,3,6,6,10]
 >>> L.sort()
 >>> L
@@ -260,7 +267,7 @@ Python lists are good for sorting using the list's `sort()` method
 
 Sort in reversed order
 
-```
+```python
 >>> L.reverse()
 >>> L
 [10, 9, 8, 7, 6, 6, 5, 3, 2, 1]
@@ -272,7 +279,7 @@ Methods of lists **MODIFY** the lists in place
 
 ## The `sorted()` built-in function
 
-```
+```python
 >>> L = [1,5,7,8,9,2,3,6,6,10]
 >>> newL = sorted(L)
 >>> newL
@@ -280,7 +287,7 @@ Methods of lists **MODIFY** the lists in place
 ```
 
 Sort in reversed order
-```
+```python
 >>> L = [1,5,7,8,9,2,3,6,6,10]
 >>> sorted(L, reverse = True)
 [10, 9, 8, 7, 6, 6, 5, 3, 2, 1]
@@ -290,7 +297,7 @@ Sort in reversed order
 
 ## Sorting with `itemgetter`
 
-```
+```python
 >>> from operator import itemgetter
 >>> L = ['ACCTGGCCA','ACTG','TACGGCAGGAGACG','TTGGATC']
 >>> itemgetter(1)(L)
@@ -302,7 +309,7 @@ Sort in reversed order
 <br/>
 
 ### Sort a table by any column
-```
+```python
 from operator import itemgetter
 
 data = [
@@ -323,7 +330,7 @@ print data
 
 ## Sort a table by any column
 
-```
+```python
 from operator import itemgetter
 
 data = [
@@ -348,7 +355,7 @@ See the [Solution to challenge #1](12_TabularData.solutions.md)
 
 Sort a table by the first column, then by the second, then by the third, and so on…
 
-```
+```python
 from operator import itemgetter
 in_file = open("random_distribution.tsv")
 
@@ -370,7 +377,7 @@ for row in table_sorted:
 
 Also consider that…
 
-```
+```python
 table = sorted(table, key=itemgetter(1), reverse=True)
 
 table = sorted(table, key=itemgetter(1,3), reverse=True)
