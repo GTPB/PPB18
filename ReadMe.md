@@ -15,6 +15,12 @@ The following co-authors contributed to the development of the training material
 #### Course Webpage
 This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2018/PPB18/), for further information about the course.
 
+#### Code of Conduct
+Please read the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for details on contributing and reusing the training material.
+
+#### License
+This project is licensed under CC-BY 4.0 - see the [License.md](License.md) for details.
+
 ---
 
 #### Host & Co-Sponsor
