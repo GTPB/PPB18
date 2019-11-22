@@ -1,6 +1,6 @@
 <div class="page-header">
   <h2> {%if page.schemadotorg.name %}
-    {{page.schemadotorg.name | split: "-" | first }} <small>{{ page.schemadotorg.name | split: "-" | last }}</small>
+    {{page.schemadotorg.name | split: " - " | first }} <small>{{ page.schemadotorg.name | split: " - " | last }}</small>
     {% else %}
     {{ page.title }} <small>{{page.tagline}}</small>
     {% endif %}
