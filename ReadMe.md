@@ -1,4 +1,5 @@
 # PPB18 - Programming in Python for Biologists (2018)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3813780.svg)](https://doi.org/10.5281/zenodo.3813780)
 
 ###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - July 23<sup>rd</sup> - July 27<sup>th</sup> 2018
 
